@@ -1,0 +1,25 @@
+数据来源：墨迹天气API
+环境：py3.6
+需要安装ipython notebook
+需要安装的包
+import urllib,sys,json
+import pandas as pd
+import os
+import socket
+import hashlib
+import time
+import urllib,urllib.request,sys,json
+import pandas as pd
+import hashlib
+import time
+
+
+
+ori（文件夹）：放置所要下载的城市的列表，代码会根据那些filter不为空的地区id数据进行下载 
+wea15-file （文件夹）：放置不同下载的城市的15天天气数据
+re（文件夹）：放置汇总后的所有城市的15天天气数据
+# 第一步
+# 使用说明：运行first step 会根据ori文件夹中的txt文本
+# 针对那些filter不为空的地区id数据进行下载 下载在wea15-file 文件夹中
+# 第二步
+# 运行step2，会汇总在wea15-file 中的数据汇总为一张表在re文件夹中

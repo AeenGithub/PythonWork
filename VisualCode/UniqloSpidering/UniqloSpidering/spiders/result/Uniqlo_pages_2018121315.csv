@@ -1,0 +1,792 @@
+path,tplt,backgroundFit,components,superCode,backgroundFixed,title
+https://www.uniqlo.cn/c/1358090297.html,ProductListTemplate,MIDDLE,/data/pages/c/1358090297.html.json,/c/UTBABY,N,Peanuts
+https://www.uniqlo.cn/c/1285644785.html,ProductListTemplate,MIDDLE,/data/pages/c/1285644785.html.json,/c/UTBABY,N,Thomas & Friends
+https://www.uniqlo.cn/c/1373674417.html,ProductListTemplate,MIDDLE,/data/pages/c/1373674417.html.json,/c/UTKIDS,N,KAKAO FRIENDS
+https://www.uniqlo.cn/c/1362461221.html,ProductListTemplate,MIDDLE,/data/pages/c/1362461221.html.json,/c/UTKIDS,N,MICKEY & THE SUN
+https://www.uniqlo.cn/c/1370506521.html,ProductListTemplate,MIDDLE,/data/pages/c/1370506521.html.json,/c/UTKIDS,N,Minnie Mouse BFF
+https://www.uniqlo.cn/c/1317866820.html,ProductListTemplate,MIDDLE,/data/pages/c/1317866820.html.json,/c/UTKIDS,N,SPRZ NY
+https://www.uniqlo.cn/c/1369336925.html,ProductListTemplate,MIDDLE,/data/pages/c/1369336925.html.json,/c/UTKIDS,N,Sumikkogurashi
+https://www.uniqlo.cn/c/1361478914.html,ProductListTemplate,MIDDLE,/data/pages/c/1361478914.html.json,/c/UTMEN,N,DISNEY FANTASIA
+https://www.uniqlo.cn/c/1362457043.html,ProductListTemplate,MIDDLE,/data/pages/c/1362457043.html.json,/c/UTMEN,N,MICKEY & THE SUN
+https://www.uniqlo.cn/c/NIUZAIKU.html,ProductListTemplate,MIDDLE,/data/pages/c/NIUZAIKU.html.json,,N,牛仔裤革新物语
+https://www.uniqlo.cn/c/NVZHUANGACTIVE.html,ProductListTemplate,MIDDLE,/data/pages/c/NVZHUANGACTIVE.html.json,,N,女装ACTIVE
+https://www.uniqlo.cn/c/TEBIEJINGXUAN.html,ProductListTemplate,MIDDLE,/data/pages/c/TEBIEJINGXUAN.html.json,,N,特别精选TOP30
+https://www.uniqlo.cn/c/WUXIANDUAN.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN.html.json,,N,无线端专用
+https://www.uniqlo.cn/c/MENDIANZITISHANGPIN.html,ProductListTemplate,MIDDLE,/data/pages/c/MENDIANZITISHANGPIN.html.json,,N,支持门店自提商品
+https://www.uniqlo.cn/c/MENDIANZITIXIUGAI.html,ProductListTemplate,MIDDLE,/data/pages/c/MENDIANZITIXIUGAI.html.json,,N,支持门店自提修改裤长商品
+https://www.uniqlo.cn/c/97377385.html,ProductListTemplate,MIDDLE,/data/pages/c/97377385.html.json,/c/NVZHUANG,N,女装-配件
+https://www.uniqlo.cn/c/97377382.html,ProductListTemplate,MIDDLE,/data/pages/c/97377382.html.json,/c/NVZHUANG,N,女装-起居服
+https://www.uniqlo.cn/c/517935256.html,ProductListTemplate,MIDDLE,/data/pages/c/517935256.html.json,/c/NVZHUANG,N,女装-袜子/紧身裤
+https://www.uniqlo.cn/c/1151262668.html,ProductListTemplate,MIDDLE,/data/pages/c/1151262668.html.json,/c/NVZHUANG,N,女装-外套
+https://www.uniqlo.cn/c/275755161.html,ProductListTemplate,MIDDLE,/data/pages/c/275755161.html.json,/c/NVZHUANG,N,女装-文胸
+https://www.uniqlo.cn/c/1338678612.html,ProductListTemplate,MIDDLE,/data/pages/c/1338678612.html.json,/c/NVZHUANG,N,女装-鞋子
+https://www.uniqlo.cn/c/1292576630.html,ProductListTemplate,MIDDLE,/data/pages/c/1292576630.html.json,/c/NVZHUANG,N,女装-休闲裤
+https://www.uniqlo.cn/c/1380827207.html,ProductListTemplate,MIDDLE,/data/pages/c/1380827207.html.json,/c/NVZHUANG,N,女装-腰带
+https://www.uniqlo.cn/c/1336179279.html,ProductListTemplate,MIDDLE,/data/pages/c/1336179279.html.json,/c/NVZHUANG,N,女装-孕妇装
+https://www.uniqlo.cn/c/1334712165.html,ProductListTemplate,MIDDLE,/data/pages/c/1334712165.html.json,/c/NVZHUANG,N,女装-运动衫/运动裤
+https://www.uniqlo.cn/c/1267791863.html,ProductListTemplate,MIDDLE,/data/pages/c/1267791863.html.json,/c/NVZHUANG,N,女装-运动系列
+https://www.uniqlo.cn/c/97377368.html,ProductListTemplate,MIDDLE,/data/pages/c/97377368.html.json,/c/NVZHUANG,N,女装-针织衫
+https://www.uniqlo.cn/c/1168930142.html,ProductListTemplate,MIDDLE,/data/pages/c/1168930142.html.json,/c/TONGZUANG,N,男童-裤装
+https://www.uniqlo.cn/c/524807201.html,ProductListTemplate,MIDDLE,/data/pages/c/524807201.html.json,/c/TONGZUANG,N,男童-上装
+https://www.uniqlo.cn/c/1353639589.html,ProductListTemplate,MIDDLE,/data/pages/c/1353639589.html.json,/c/TONGZUANG,N,男童-外套
+https://www.uniqlo.cn/c/1168930143.html,ProductListTemplate,MIDDLE,/data/pages/c/1168930143.html.json,/c/TONGZUANG,N,女童-裤装/裙子
+https://www.uniqlo.cn/c/1352498865.html,ProductListTemplate,MIDDLE,/data/pages/c/1352498865.html.json,/c/TONGZUANG,N,女童-连衣裙
+https://www.uniqlo.cn/c/885485606.html,ProductListTemplate,MIDDLE,/data/pages/c/885485606.html.json,/c/TONGZUANG,N,女童-上装
+https://www.uniqlo.cn/c/1006616172.html,ProductListTemplate,MIDDLE,/data/pages/c/1006616172.html.json,/c/TONGZUANG,N,女童-外套
+https://www.uniqlo.cn/c/1349216066.html,ProductListTemplate,MIDDLE,/data/pages/c/1349216066.html.json,/c/TONGZUANG,N,童装-Disney系列
+https://www.uniqlo.cn/c/1349216065.html,ProductListTemplate,MIDDLE,/data/pages/c/1349216065.html.json,/c/TONGZUANG,N,童装-WARM PADDED系列
+https://www.uniqlo.cn/c/1351435897.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435897.html.json,/c/TONGZUANG,N,童装-裤装
+https://www.uniqlo.cn/c/951509633.html,ProductListTemplate,MIDDLE,/data/pages/c/951509633.html.json,/c/TONGZUANG,N,童装-内裤/内衣/袜子
+https://www.uniqlo.cn/c/1141704857.html,ProductListTemplate,MIDDLE,/data/pages/c/1141704857.html.json,/c/TONGZUANG,N,童装-配件
+https://www.uniqlo.cn/c/1349216068.html,ProductListTemplate,MIDDLE,/data/pages/c/1349216068.html.json,/c/TONGZUANG,N,童装-起居套装/家居服
+https://www.uniqlo.cn/c/1351435896.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435896.html.json,/c/TONGZUANG,N,童装-上装
+https://www.uniqlo.cn/c/1351435895.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435895.html.json,/c/TONGZUANG,N,童装-外套
+https://www.uniqlo.cn/c/1250442983.html,ProductListTemplate,MIDDLE,/data/pages/c/1250442983.html.json,/c/TONGZUANG,N,童装-运动系列
+https://www.uniqlo.cn/c/1348244833.html,ProductListTemplate,MIDDLE,/data/pages/c/1348244833.html.json,/c/TONGZUANG,N,童装-针织衫
+https://www.uniqlo.cn/c/1384749272.html,ProductListTemplate,MIDDLE,/data/pages/c/1384749272.html.json,/c/WUXIANDUAN,N,KAWS全商品
+https://www.uniqlo.cn/c/1299907042.html,ProductListTemplate,MIDDLE,/data/pages/c/1299907042.html.json,/c/WUXIANDUAN,N,UT超值精选
+https://www.uniqlo.cn/c/1320380815.html,ProductListTemplate,MIDDLE,/data/pages/c/1320380815.html.json,/c/WUXIANDUAN,N,UT限时特优
+https://www.uniqlo.cn/c/1299907040.html,ProductListTemplate,MIDDLE,/data/pages/c/1299907040.html.json,/c/WUXIANDUAN,N,UT新作新品
+https://www.uniqlo.cn/c/1311605046.html,ProductListTemplate,MIDDLE,/data/pages/c/1311605046.html.json,/c/WUXIANDUAN,N,超值精选-童婴
+https://www.uniqlo.cn/c/1356808935.html,ProductListTemplate,MIDDLE,/data/pages/c/1356808935.html.json,/c/WUXIANDUAN,N,高性能防皱衬衫
+https://www.uniqlo.cn/c/1318693693.html,ProductListTemplate,MIDDLE,/data/pages/c/1318693693.html.json,/c/WUXIANDUAN,N,女装无钢圈文胸
+https://www.uniqlo.cn/c/1384755038.html,ProductListTemplate,MIDDLE,/data/pages/c/1384755038.html.json,/c/WUXIANDUAN,N,秋季新品高腰大摆裙
+https://www.uniqlo.cn/c/1330000955.html,ProductListTemplate,MIDDLE,/data/pages/c/1330000955.html.json,/c/WUXIANDUAN,N,童装UT超值精选
+https://www.uniqlo.cn/c/1337078547.html,ProductListTemplate,MIDDLE,/data/pages/c/1337078547.html.json,/c/WUXIANDUAN,N,幼儿配件（L4专用）
+https://www.uniqlo.cn/c/1213489951.html,ProductListTemplate,MIDDLE,/data/pages/c/1213489951.html.json,/c/XINSHENGER,N,新生儿-全商品
+https://www.uniqlo.cn/c/1274465464.html,ProductListTemplate,MIDDLE,/data/pages/c/1274465464.html.json,/c/XINSHENGER,N,婴儿-连体装
+https://www.uniqlo.cn/c/1349215873.html,ProductListTemplate,MIDDLE,/data/pages/c/1349215873.html.json,/c/XINSHENGER,N,幼儿-Disney系列
+https://www.uniqlo.cn/c/1277830333.html,ProductListTemplate,MIDDLE,/data/pages/c/1277830333.html.json,/c/XINSHENGER,N,幼儿-T恤
+https://www.uniqlo.cn/c/1213489956.html,ProductListTemplate,MIDDLE,/data/pages/c/1213489956.html.json,/c/XINSHENGER,N,幼儿-紧身裤
+https://www.uniqlo.cn/c/1213489952.html,ProductListTemplate,MIDDLE,/data/pages/c/1213489952.html.json,/c/XINSHENGER,N,幼儿-全商品
+https://www.uniqlo.cn/c/1213489954.html,ProductListTemplate,MIDDLE,/data/pages/c/1213489954.html.json,/c/XINSHENGER,N,幼儿-上装
+https://www.uniqlo.cn/c/1291131276.html,ProductListTemplate,MIDDLE,/data/pages/c/1291131276.html.json,/c/XINSHENGER,N,幼儿-睡衣/内衣
+https://www.uniqlo.cn/c/1281697177.html,ProductListTemplate,MIDDLE,/data/pages/c/1281697177.html.json,/c/XINSHENGER,N,幼儿-袜子
+https://www.uniqlo.cn/c/1277828342.html,ProductListTemplate,MIDDLE,/data/pages/c/1277828342.html.json,/c/XINSHENGER,N,幼儿-外套
+https://www.uniqlo.cn/c/1213489955.html,ProductListTemplate,MIDDLE,/data/pages/c/1213489955.html.json,/c/XINSHENGER,N,幼儿-下装
+https://www.uniqlo.cn/c/1363556953.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556953.html.json,/c/NANZHUANGACTIVE,N,BLOCKTECH
+https://www.uniqlo.cn/c/1363556950.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556950.html.json,/c/NANZHUANGACTIVE,N,DRY-EX高弹力系列
+https://www.uniqlo.cn/c/1363556949.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556949.html.json,/c/NANZHUANGACTIVE,N,DRY-EX系列
+https://www.uniqlo.cn/c/1363556948.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556948.html.json,/c/NANZHUANGACTIVE,N,SPRZ
+https://www.uniqlo.cn/c/1364362039.html,ProductListTemplate,MIDDLE,/data/pages/c/1364362039.html.json,/c/NANZHUANGACTIVE,N,弹力运动系列
+https://www.uniqlo.cn/c/1364103465.html,ProductListTemplate,MIDDLE,/data/pages/c/1364103465.html.json,/c/NANZHUANGACTIVE,N,运动紧身裤
+https://www.uniqlo.cn/c/1363556951.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556951.html.json,/c/NANZHUANGACTIVE,N,运动外套
+https://www.uniqlo.cn/c/841653643.html,ProductListTemplate,MIDDLE,/data/pages/c/841653643.html.json,/c/NANZHUANG,N,男装-AIRism(舒爽舒适系列)
+https://www.uniqlo.cn/c/1278981046.html,ProductListTemplate,MIDDLE,/data/pages/c/1278981046.html.json,/c/NANZHUANG,N,男装-blocktech
+https://www.uniqlo.cn/c/1299866055.html,ProductListTemplate,MIDDLE,/data/pages/c/1299866055.html.json,/c/NANZHUANG,N,男装-HEATTECH（温暖内衣系列）
+https://www.uniqlo.cn/c/1361489267.html,ProductListTemplate,MIDDLE,/data/pages/c/1361489267.html.json,/c/NANZHUANG,N,男装-POLO衫
+https://www.uniqlo.cn/c/874111128.html,ProductListTemplate,MIDDLE,/data/pages/c/874111128.html.json,/c/NANZHUANG,N,男装-SUPIMA COTTON 系列
+https://www.uniqlo.cn/c/1151178896.html,ProductListTemplate,MIDDLE,/data/pages/c/1151178896.html.json,/c/NANZHUANG,N,男装-T恤/背心
+https://www.uniqlo.cn/c/1294074993.html,ProductListTemplate,MIDDLE,/data/pages/c/1294074993.html.json,/c/NANZHUANG,N,男装-UPJ系列
+https://www.uniqlo.cn/c/108492555.html,ProductListTemplate,MIDDLE,/data/pages/c/108492555.html.json,/c/NANZHUANG,N,男装-衬衫(商务)
+https://www.uniqlo.cn/c/108492551.html,ProductListTemplate,MIDDLE,/data/pages/c/108492551.html.json,/c/NANZHUANG,N,男装-衬衫(休闲)
+https://www.uniqlo.cn/c/1301860003.html,ProductListTemplate,MIDDLE,/data/pages/c/1301860003.html.json,/c/NANZHUANG,N,男装-九分裤
+https://www.uniqlo.cn/c/1372457349.html,ProductListTemplate,MIDDLE,/data/pages/c/1372457349.html.json,/c/NANZHUANG,N,男装-快干弹力裤装系列
+https://www.uniqlo.cn/c/368897610.html,ProductListTemplate,MIDDLE,/data/pages/c/368897610.html.json,/c/NANZHUANG,N,男装-内裤
+https://www.uniqlo.cn/c/1311454814.html,ProductListTemplate,MIDDLE,/data/pages/c/1311454814.html.json,/c/NANZHUANG,N,男装-内衣
+https://www.uniqlo.cn/c/97377023.html,ProductListTemplate,MIDDLE,/data/pages/c/97377023.html.json,/c/NANZHUANG,N,男装-牛仔裤
+https://www.uniqlo.cn/c/97377021.html,ProductListTemplate,MIDDLE,/data/pages/c/97377021.html.json,/c/NANZHUANG,N,男装-配件
+https://www.uniqlo.cn/c/97377019.html,ProductListTemplate,MIDDLE,/data/pages/c/97377019.html.json,/c/NANZHUANG,N,男装-起居系列
+https://www.uniqlo.cn/c/1197638663.html,ProductListTemplate,MIDDLE,/data/pages/c/1197638663.html.json,/c/NANZHUANG,N,男装-束脚裤
+https://www.uniqlo.cn/c/1368888749.html,ProductListTemplate,MIDDLE,/data/pages/c/1368888749.html.json,/c/NANZHUANG,N,男装-斯文系列
+https://www.uniqlo.cn/c/511241072.html,ProductListTemplate,MIDDLE,/data/pages/c/511241072.html.json,/c/NANZHUANG,N,男装-袜子
+https://www.uniqlo.cn/c/251838184.html,ProductListTemplate,MIDDLE,/data/pages/c/251838184.html.json,/c/NANZHUANG,N,男装-外套
+https://www.uniqlo.cn/c/1278985666.html,ProductListTemplate,MIDDLE,/data/pages/c/1278985666.html.json,/c/NANZHUANG,N,男装-无褶长裤/卡其裤
+https://www.uniqlo.cn/c/1343790048.html,ProductListTemplate,MIDDLE,/data/pages/c/1343790048.html.json,/c/NANZHUANG,N,男装-羊毛茄克&middot;大衣
+https://www.uniqlo.cn/c/1380848331.html,ProductListTemplate,MIDDLE,/data/pages/c/1380848331.html.json,/c/NANZHUANG,N,男装-腰带
+https://www.uniqlo.cn/c/1334904291.html,ProductListTemplate,MIDDLE,/data/pages/c/1334904291.html.json,/c/NANZHUANG,N,男装-运动衫/运动裤
+https://www.uniqlo.cn/c/1006610470.html,ProductListTemplate,MIDDLE,/data/pages/c/1006610470.html.json,/c/NANZHUANG,N,男装-运动系列
+https://www.uniqlo.cn/c/768561185.html,ProductListTemplate,MIDDLE,/data/pages/c/768561185.html.json,/c/NANZHUANG,N,男装-长裤
+https://www.uniqlo.cn/c/1112848946.html,ProductListTemplate,MIDDLE,/data/pages/c/1112848946.html.json,/c/NANZHUANG,N,男装-针织衫
+https://www.uniqlo.cn/c/1330613884.html,ProductListTemplate,MIDDLE,/data/pages/c/1330613884.html.json,/c/NIUZAIKU,N,男装弹力修身牛仔裤
+https://www.uniqlo.cn/c/1330613887.html,ProductListTemplate,MIDDLE,/data/pages/c/1330613887.html.json,/c/NIUZAIKU,N,男装修身牛仔裤，价格249起
+https://www.uniqlo.cn/c/1330613883.html,ProductListTemplate,MIDDLE,/data/pages/c/1330613883.html.json,/c/NIUZAIKU,N,女装高弹力牛仔裤，价格249起
+https://www.uniqlo.cn/c/1330613886.html,ProductListTemplate,MIDDLE,/data/pages/c/1330613886.html.json,/c/NIUZAIKU,N,女装修身男友款
+https://www.uniqlo.cn/c/1330613885.html,ProductListTemplate,MIDDLE,/data/pages/c/1330613885.html.json,/c/NIUZAIKU,N,全店搜：194284
+https://www.uniqlo.cn/c/1365822658.html,ProductListTemplate,MIDDLE,/data/pages/c/1365822658.html.json,/c/NVZHUANGACTIVE,N,AIRism系列
+https://www.uniqlo.cn/c/1363556942.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556942.html.json,/c/NVZHUANGACTIVE,N,AIRism运动系列
+https://www.uniqlo.cn/c/1364103464.html,ProductListTemplate,MIDDLE,/data/pages/c/1364103464.html.json,/c/NVZHUANGACTIVE,N,BLOCKTECH
+https://www.uniqlo.cn/c/1363556945.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556945.html.json,/c/NVZHUANGACTIVE,N,DRY-EX高弹力系列
+https://www.uniqlo.cn/c/1363556946.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556946.html.json,/c/NVZHUANGACTIVE,N,DRY-EX系列
+https://www.uniqlo.cn/c/1363556941.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556941.html.json,/c/NVZHUANGACTIVE,N,SPRZ
+https://www.uniqlo.cn/c/1363556944.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556944.html.json,/c/NVZHUANGACTIVE,N,运动外套
+https://www.uniqlo.cn/c/1363556943.html,ProductListTemplate,MIDDLE,/data/pages/c/1363556943.html.json,/c/NVZHUANGACTIVE,N,运动文胸
+https://www.uniqlo.cn/login.html,LoginRegisterTemplate,MIDDLE,/data/pages/login.html.json,,N,用户登录
+https://www.uniqlo.cn/c/1334494656.html,ProductListTemplate,MIDDLE,/data/pages/c/1334494656.html.json,/c/NVZHUANG,N,女装-高腰下装
+https://www.uniqlo.cn/c/841653642.html,ProductListTemplate,MIDDLE,/data/pages/c/841653642.html.json,/c/NVZHUANG,N,女装-AIRism(舒爽舒适系列)
+https://www.uniqlo.cn/c/97377375.html,ProductListTemplate,MIDDLE,/data/pages/c/97377375.html.json,/c/NVZHUANG,N,女装-BRA IN ONE(舒美衣系列)
+https://www.uniqlo.cn/c/1299858389.html,ProductListTemplate,MIDDLE,/data/pages/c/1299858389.html.json,/c/NVZHUANG,N,女装-HEATTECH（温暖内衣系列）
+https://www.uniqlo.cn/c/1149298550.html,ProductListTemplate,MIDDLE,/data/pages/c/1149298550.html.json,/c/NVZHUANG,N,女装-T恤
+https://www.uniqlo.cn/c/1269380824.html,ProductListTemplate,MIDDLE,/data/pages/c/1269380824.html.json,/c/NVZHUANG,N,女装-UPJ系列
+https://www.uniqlo.cn/c/875106724.html,ProductListTemplate,MIDDLE,/data/pages/c/875106724.html.json,/c/NVZHUANG,N,女装-半裙
+https://www.uniqlo.cn/c/97377401.html,ProductListTemplate,MIDDLE,/data/pages/c/97377401.html.json,/c/NVZHUANG,N,女装-衬衫
+https://www.uniqlo.cn/c/1384174940.html,ProductListTemplate,MIDDLE,/data/pages/c/1384174940.html.json,/c/NVZHUANG,N,女装-高级轻型羽绒服
+https://www.uniqlo.cn/c/128557729.html,ProductListTemplate,MIDDLE,/data/pages/c/128557729.html.json,/c/NVZHUANG,N,女装-紧身裤
+https://www.uniqlo.cn/c/1266373692.html,ProductListTemplate,MIDDLE,/data/pages/c/1266373692.html.json,/c/NVZHUANG,N,女装-九分裤
+https://www.uniqlo.cn/c/1364174344.html,ProductListTemplate,MIDDLE,/data/pages/c/1364174344.html.json,/c/NVZHUANG,N,女装-蕾丝系列
+https://www.uniqlo.cn/c/408990854.html,ProductListTemplate,MIDDLE,/data/pages/c/408990854.html.json,/c/NVZHUANG,N,女装-连衣裙
+https://www.uniqlo.cn/c/367551022.html,ProductListTemplate,MIDDLE,/data/pages/c/367551022.html.json,/c/NVZHUANG,N,女装-内裤
+https://www.uniqlo.cn/c/845044306.html,ProductListTemplate,MIDDLE,/data/pages/c/845044306.html.json,/c/NVZHUANG,N,女装-内衣
+https://www.uniqlo.cn/c/97377387.html,ProductListTemplate,MIDDLE,/data/pages/c/97377387.html.json,/c/NVZHUANG,N,女装-牛仔裤
+https://www.uniqlo.cn/c/PTTYONGZHUAN.html,ProductListTemplate,MIDDLE,/data/pages/c/PTTYONGZHUAN.html.json,,N,PTT泳装相关
+https://www.uniqlo.cn/c/CHAOZHIJINGXUAN.html,ProductListTemplate,MIDDLE,/data/pages/c/CHAOZHIJINGXUAN.html.json,,N,本周超值精选
+https://www.uniqlo.cn/c/NANZHUANGACTIVE.html,ProductListTemplate,MIDDLE,/data/pages/c/NANZHUANGACTIVE.html.json,,N,男装ACTIVE
+https://www.uniqlo.cn/c/1389245322.html,ProductListTemplate,MIDDLE,/data/pages/c/1389245322.html.json,/c/WUXIANDUAN,N,Disney T恤（7分袖）
+https://www.uniqlo.cn/c/1385575787.html,ProductListTemplate,MIDDLE,/data/pages/c/1385575787.html.json,/c/WUXIANDUAN,N,mickey the sun全商品
+https://www.uniqlo.cn/c/1385625691.html,ProductListTemplate,MIDDLE,/data/pages/c/1385625691.html.json,/c/WUXIANDUAN,N,mickey the sun限定
+https://www.uniqlo.cn/c/1385625690.html,ProductListTemplate,MIDDLE,/data/pages/c/1385625690.html.json,/c/WUXIANDUAN,N,S Sanderson全商品
+https://www.uniqlo.cn/c/1385575788.html,ProductListTemplate,MIDDLE,/data/pages/c/1385575788.html.json,/c/WUXIANDUAN,N,Sanrio全商品
+https://www.uniqlo.cn/c/1384827330.html,ProductListTemplate,MIDDLE,/data/pages/c/1384827330.html.json,/c/WUXIANDUAN,N,U 圆领T恤
+https://www.uniqlo.cn/c/1385449406.html,ProductListTemplate,MIDDLE,/data/pages/c/1385449406.html.json,/c/WUXIANDUAN,N,UV CUT 防晒服
+https://www.uniqlo.cn/sewing_pants_guide.html,HeaderFooterTemplate,MIDDLE,/data/pages/sewing_pants_guide.html.json,,N,改裤长须知
+https://www.uniqlo.cn/gift_wrap_guide.html,HeaderFooterTemplate,MIDDLE,/data/pages/gift_wrap_guide.html.json,,N,礼品包装须知
+https://www.uniqlo.cn/c/XIEWA.html,ProductListTemplate,MIDDLE,/data/pages/c/XIEWA.html.json,,N,鞋袜
+https://www.uniqlo.cn/edm_reg.html,HeaderFooterTemplate,MIDDLE,/data/pages/edm_reg.html.json,,N,电子快报
+https://www.uniqlo.cn/c/TOP30.html,ProductListTemplate,MIDDLE,/data/pages/c/TOP30.html.json,,N,TOP30
+https://www.uniqlo.cn/c/1388640687.html,ProductListTemplate,MIDDLE,/data/pages/c/1388640687.html.json,/c/TOP30,N,INNER
+https://www.uniqlo.cn/c/1386079882.html,ProductListTemplate,MIDDLE,/data/pages/c/1386079882.html.json,/c/TOP30,N,KIDS & BABY
+https://www.uniqlo.cn/c/1386079881.html,ProductListTemplate,MIDDLE,/data/pages/c/1386079881.html.json,/c/TOP30,N,MEN
+https://www.uniqlo.cn/c/1386079880.html,ProductListTemplate,MIDDLE,/data/pages/c/1386079880.html.json,/c/TOP30,N,WOMEN
+https://www.uniqlo.cn/c/1386330553.html,ProductListTemplate,MIDDLE,/data/pages/c/1386330553.html.json,/c/UTMWOMEN,N,DORAEMON
+https://www.uniqlo.cn/c/1386330716.html,ProductListTemplate,MIDDLE,/data/pages/c/1386330716.html.json,/c/UTMWOMEN,N,Minnie Mouse BFF
+https://www.uniqlo.cn/c/BUZHICHIYIDONGZHIFUDIANPUYILAN.html,ProductListTemplate,MIDDLE,/data/pages/c/BUZHICHIYIDONGZHIFUDIANPUYILAN.html.json,,N,不支持移动支付店铺一览
+https://www.uniqlo.cn/c/1385650258.html,ProductListTemplate,MIDDLE,/data/pages/c/1385650258.html.json,/c/NVZHUANG,N,女装-EZY九分裤系列
+https://www.uniqlo.cn/c/1385604102.html,ProductListTemplate,MIDDLE,/data/pages/c/1385604102.html.json,/c/NVZHUANG,N,女装-法兰绒系列
+https://www.uniqlo.cn/c/1377512643.html,ProductListTemplate,MIDDLE,/data/pages/c/1377512643.html.json,/c/UTKIDS,N,MICKEY BLUE
+https://www.uniqlo.cn/c/1298155770.html,ProductListTemplate,MIDDLE,/data/pages/c/1298155770.html.json,/c/UTQUANSHANGPIN,N,男装 MEN
+https://www.uniqlo.cn/c/1351435900.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435900.html.json,/c/TONGZUANG,N,童装-袜子
+https://www.uniqlo.cn/c/1168281801.html,ProductListTemplate,MIDDLE,/data/pages/c/1168281801.html.json,/c/TONGZUANG,N,男童-全商品
+https://www.uniqlo.cn/c/TEBIECHIMA.html,ProductListTemplate,MIDDLE,/data/pages/c/TEBIECHIMA.html.json,,N,特别尺码
+https://www.uniqlo.cn/c/1390260675.html,ProductListTemplate,MIDDLE,/data/pages/c/1390260675.html.json,/c/WUXIANDUAN,N,男女U圆领T限定
+https://www.uniqlo.cn/c/1388451046.html,ProductListTemplate,MIDDLE,/data/pages/c/1388451046.html.json,/c/WUXIANDUAN,N,女装低腰内裤
+https://www.uniqlo.cn/c/1388451045.html,ProductListTemplate,MIDDLE,/data/pages/c/1388451045.html.json,/c/WUXIANDUAN,N,女装高腰内裤
+https://www.uniqlo.cn/c/1389891038.html,ProductListTemplate,MIDDLE,/data/pages/c/1389891038.html.json,/c/WUXIANDUAN,N,女装高腰裙
+https://www.uniqlo.cn/c/1388465808.html,ProductListTemplate,MIDDLE,/data/pages/c/1388465808.html.json,/c/WUXIANDUAN,N,女装花式衬衫
+https://www.uniqlo.cn/c/1388451047.html,ProductListTemplate,MIDDLE,/data/pages/c/1388451047.html.json,/c/WUXIANDUAN,N,女装平角内裤
+https://www.uniqlo.cn/c/1388451048.html,ProductListTemplate,MIDDLE,/data/pages/c/1388451048.html.json,/c/WUXIANDUAN,N,女装三角内裤
+https://www.uniqlo.cn/c/1386824977.html,ProductListTemplate,MIDDLE,/data/pages/c/1386824977.html.json,/c/WUXIANDUAN,N,女装五分袖
+https://www.uniqlo.cn/c/1387026911.html,ProductListTemplate,MIDDLE,/data/pages/c/1387026911.html.json,/c/WUXIANDUAN,N,女装优质长绒棉A字连衣裙
+https://www.uniqlo.cn/c/1388451049.html,ProductListTemplate,MIDDLE,/data/pages/c/1388451049.html.json,/c/WUXIANDUAN,N,女装孕妇内裤
+https://www.uniqlo.cn/c/1386831302.html,ProductListTemplate,MIDDLE,/data/pages/c/1386831302.html.json,/c/WUXIANDUAN,N,童装 Minions限定
+https://www.uniqlo.cn/c/1285675955.html,ProductListTemplate,MIDDLE,/data/pages/c/1285675955.html.json,/c/UTMWOMEN,N,SPRZ
+https://www.uniqlo.cn/evaluation-rules.html,HeaderFooterTemplate,MIDDLE,/data/pages/evaluation-rules.html.json,,N,评价细则
+https://www.uniqlo.cn/INES18FW_STORE.html,HeaderFooterTemplate,MIDDLE,/data/pages/INES18FW_STORE.html.json,,N,INES18FW_STORE
+https://www.uniqlo.cn/c/1387109680.html,ProductListTemplate,MIDDLE,/data/pages/c/1387109680.html.json,/c/UTMWOMEN,N,jump
+https://www.uniqlo.cn/c/1374403045.html,ProductListTemplate,MIDDLE,/data/pages/c/1374403045.html.json,/c/UTMWOMEN,N,Blizzard
+https://www.uniqlo.cn/c/1299759084.html,ProductListTemplate,MIDDLE,/data/pages/c/1299759084.html.json,/c/UTMWOMEN,N,MICKEY STANDS
+https://www.uniqlo.cn/c/1292081145.html,ProductListTemplate,MIDDLE,/data/pages/c/1292081145.html.json,/c/UTMEN,N,MICKEY STANDS
+https://www.uniqlo.cn/c/1286647152.html,ProductListTemplate,MIDDLE,/data/pages/c/1286647152.html.json,/c/UTKIDS,N,SANRIO
+https://www.uniqlo.cn/c/1168281802.html,ProductListTemplate,MIDDLE,/data/pages/c/1168281802.html.json,/c/TONGZUANG,N,女童-全商品
+https://www.uniqlo.cn/cmy1110.html,HeaderFooterTemplate,MIDDLE,/data/pages/cmy1110.html.json,,N,超目玉1110
+https://www.uniqlo.cn/c/1393960416.html,ProductListTemplate,MIDDLE,/data/pages/c/1393960416.html.json,/c/NVZHUANG,N,女装-IDLF系列
+https://www.uniqlo.cn/c/1392207544.html,ProductListTemplate,MIDDLE,/data/pages/c/1392207544.html.json,/c/NANZHUANG,N,男装-法兰绒衬衫
+https://www.uniqlo.cn/c/1394884301.html,ProductListTemplate,MIDDLE,/data/pages/c/1394884301.html.json,/c/NANZHUANG,N,男装-灯芯绒衬衫
+https://www.uniqlo.cn/c/1393962044.html,ProductListTemplate,MIDDLE,/data/pages/c/1393962044.html.json,/c/TONGZUANG,N,童装-IDLF系列
+https://www.uniqlo.cn/c/1393895454.html,ProductListTemplate,MIDDLE,/data/pages/c/1393895454.html.json,/c/UTMEN,N,PIXAR
+https://www.uniqlo.cn/c/ALL.html,ProductListTemplate,MIDDLE,/data/pages/c/ALL.html.json,,N,全商品
+https://www.uniqlo.cn/register-agreement.html,HeaderFooterTemplate,MIDDLE,/data/pages/register-agreement.html.json,,N,注册用户协议
+https://www.uniqlo.cn/pcdraw.html,HeaderFooterTemplate,MIDDLE,/data/pages/pcdraw.html.json,,N,抽奖活动测试页
+https://www.uniqlo.cn/search.html,SearchTemplate,MIDDLE,/data/pages/search.html.json,,N,搜索结果
+https://www.uniqlo.cn/password-find.html,PasswordFindTemplate,MIDDLE,/data/pages/password-find.html.json,,N,找回密码
+https://www.uniqlo.cn/men_shirts_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_shirts_collection.html.json,,N,优衣库男装衬衫系列
+https://www.uniqlo.cn/c/1397552622.html,ProductListTemplate,MIDDLE,/data/pages/c/1397552622.html.json,/c/NVZHUANG,N,女装-3D系列
+https://www.uniqlo.cn/c/IDLFQUANSHANGPIN.html,ProductListTemplate,MIDDLE,/data/pages/c/IDLFQUANSHANGPIN.html.json,,N,IDLF全商品
+https://www.uniqlo.cn/men_shorts.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_shorts.html.json,,N,MEN 短裤
+https://www.uniqlo.cn/c/1374802032.html,ProductListTemplate,MIDDLE,/data/pages/c/1374802032.html.json,/c/UTMWOMEN,N,MICKEY ART
+https://www.uniqlo.cn/c/889210871.html,ProductListTemplate,MIDDLE,/data/pages/c/889210871.html.json,/c/UTMEN,N,SPRZ
+https://www.uniqlo.cn/c/1402399025.html,ProductListTemplate,MIDDLE,/data/pages/c/1402399025.html.json,/c/UTMWOMEN,N,DPJ
+https://www.uniqlo.cn/c/1402399026.html,ProductListTemplate,MIDDLE,/data/pages/c/1402399026.html.json,/c/UTMEN,N,DPJ
+https://www.uniqlo.cn/c/1402395371.html,ProductListTemplate,MIDDLE,/data/pages/c/1402395371.html.json,/c/UTMEN,N,MICKEY ART
+https://www.uniqlo.cn/c/1397905631.html,ProductListTemplate,MIDDLE,/data/pages/c/1397905631.html.json,/c/UTMEN,N,SPACE INVADERS
+https://www.uniqlo.cn/lifewear.html,HeaderFooterTemplate,MIDDLE,/data/pages/lifewear.html.json,,N,LifeWear
+https://www.uniqlo.cn/c/1402410917.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410917.html.json,/c/UTBABY,N,baby disney
+https://www.uniqlo.cn/c/1402410915.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410915.html.json,/c/UTBABY,N,MINIONS PARTY 
+https://www.uniqlo.cn/c/1402410916.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410916.html.json,/c/UTBABY,N,MICKEY ART
+https://www.uniqlo.cn/c/1392471568.html,ProductListTemplate,MIDDLE,/data/pages/c/1392471568.html.json,/c/UTMWOMEN,N,KATAGAMI
+https://www.uniqlo.cn/c/1367013969.html,ProductListTemplate,MIDDLE,/data/pages/c/1367013969.html.json,/c/UTMWOMEN,N,Matthew Allen
+https://www.uniqlo.cn/c/1365832710.html,ProductListTemplate,MIDDLE,/data/pages/c/1365832710.html.json,/c/UTMWOMEN,N,BTT 80's
+https://www.uniqlo.cn/c/1390315848.html,ProductListTemplate,MIDDLE,/data/pages/c/1390315848.html.json,/c/UTBABY,N,BabyDisneyCollection
+https://www.uniqlo.cn/c/1389626468.html,ProductListTemplate,MIDDLE,/data/pages/c/1389626468.html.json,/c/UTMWOMEN,N,love mickey
+https://www.uniqlo.cn/c/1362457044.html,ProductListTemplate,MIDDLE,/data/pages/c/1362457044.html.json,/c/UTBABY,N,MICKEY & THE SUN
+https://www.uniqlo.cn/speed-up.html,HeaderFooterTemplate,MIDDLE,/data/pages/speed-up.html.json,,N,门店直送须知
+https://www.uniqlo.cn/c/1392466514.html,ProductListTemplate,MIDDLE,/data/pages/c/1392466514.html.json,/c/UTMEN,N,KATAGAMI
+https://www.uniqlo.cn/c/1362454469.html,ProductListTemplate,MIDDLE,/data/pages/c/1362454469.html.json,/c/UTKIDS,N,S Sanderson
+https://www.uniqlo.cn/c/1364648796.html,ProductListTemplate,MIDDLE,/data/pages/c/1364648796.html.json,/c/UTKIDS,N,JUMP 50th
+https://www.uniqlo.cn/c/NVZHUANG.html,ProductListTemplate,MIDDLE,/data/pages/c/NVZHUANG.html.json,,N,女装分类
+https://www.uniqlo.cn/c/1371638101.html,ProductListTemplate,MIDDLE,/data/pages/c/1371638101.html.json,/c/UTMEN,N,Blizzard
+https://www.uniqlo.cn/INES18FW_MAIN.html,HeaderFooterTemplate,MIDDLE,/data/pages/INES18FW_MAIN.html.json,,N,INES18FW_MAIN
+https://www.uniqlo.cn/c/UTQUANSHANGPIN.html,ProductListTemplate,MIDDLE,/data/pages/c/UTQUANSHANGPIN.html.json,,N,UT全商品
+https://www.uniqlo.cn/c/1298155772.html,ProductListTemplate,MIDDLE,/data/pages/c/1298155772.html.json,/c/UTQUANSHANGPIN,N,婴幼儿装 BABY
+https://www.uniqlo.cn/c/UTBABY.html,ProductListTemplate,MIDDLE,/data/pages/c/UTBABY.html.json,,N,UT优衣库印花系列BABY
+https://www.uniqlo.cn/c/1039844181.html,ProductListTemplate,MIDDLE,/data/pages/c/1039844181.html.json,/c/NVZHUANG,N,女装-羽绒服
+https://www.uniqlo.cn/c/1373251087.html,ProductListTemplate,MIDDLE,/data/pages/c/1373251087.html.json,/c/UTKIDS,N,DORAEMON
+https://www.uniqlo.cn/c/1371132915.html,ProductListTemplate,MIDDLE,/data/pages/c/1371132915.html.json,/c/UTMWOMEN,N,UTGP 2018MARVEL
+https://www.uniqlo.cn/c/1373723277.html,ProductListTemplate,MIDDLE,/data/pages/c/1373723277.html.json,/c/UTMWOMEN,N,KAKAO FRIENDS
+https://www.uniqlo.cn/c/1376299368.html,ProductListTemplate,MIDDLE,/data/pages/c/1376299368.html.json,/c/UTMWOMEN,N,MICKEY BLUE
+https://www.uniqlo.cn/c/1364431822.html,ProductListTemplate,MIDDLE,/data/pages/c/1364431822.html.json,/c/UTMEN,N,JUMP 50th
+https://www.uniqlo.cn/pickup-guide.html,HeaderFooterTemplate,MIDDLE,/data/pages/pickup-guide.html.json,,N,门店自提须知
+https://www.uniqlo.cn/c/1397552623.html,ProductListTemplate,MIDDLE,/data/pages/c/1397552623.html.json,/c/NVZHUANG,N,女装-大衣
+https://www.uniqlo.cn/c/1292471264.html,ProductListTemplate,MIDDLE,/data/pages/c/1292471264.html.json,/c/CHAOZHIJINGXUAN,N,婴幼儿装 BABY
+https://www.uniqlo.cn/c/1371469491.html,ProductListTemplate,MIDDLE,/data/pages/c/1371469491.html.json,/c/UTMWOMEN,N,TheRoseofVersailles
+https://www.uniqlo.cn/c/1389632545.html,ProductListTemplate,MIDDLE,/data/pages/c/1389632545.html.json,/c/UTKIDS,N,love mickey
+https://www.uniqlo.cn/c/1287425047.html,ProductListTemplate,MIDDLE,/data/pages/c/1287425047.html.json,/c/UTMWOMEN,N,SANRIO
+https://www.uniqlo.cn/c/1292471261.html,ProductListTemplate,MIDDLE,/data/pages/c/1292471261.html.json,/c/CHAOZHIJINGXUAN,N,女装 WOMEN
+https://www.uniqlo.cn/c/1134800755.html,ProductListTemplate,MIDDLE,/data/pages/c/1134800755.html.json,/c/NANZHUANG,N,男装-羽绒服
+https://www.uniqlo.cn/c/1292471263.html,ProductListTemplate,MIDDLE,/data/pages/c/1292471263.html.json,/c/CHAOZHIJINGXUAN,N,童装 KIDS
+https://www.uniqlo.cn/c/1372614324.html,ProductListTemplate,MIDDLE,/data/pages/c/1372614324.html.json,/c/UTMEN,N,SPRZ Barry McGee
+https://www.uniqlo.cn/c/1388712028.html,ProductListTemplate,MIDDLE,/data/pages/c/1388712028.html.json,/c/UTMEN,N,NAMCO MUSEUM
+https://www.uniqlo.cn/c/1364431824.html,ProductListTemplate,MIDDLE,/data/pages/c/1364431824.html.json,/c/UTKIDS,N,MINIONS BELLO SUMMER
+https://www.uniqlo.cn/c/1388749383.html,ProductListTemplate,MIDDLE,/data/pages/c/1388749383.html.json,/c/UTKIDS,N,Discovery Channel
+https://www.uniqlo.cn/c/1362457040.html,ProductListTemplate,MIDDLE,/data/pages/c/1362457040.html.json,/c/UTMWOMEN,N,MICKEY & THE SUN
+https://www.uniqlo.cn/c/1030574948.html,ProductListTemplate,MIDDLE,/data/pages/c/1030574948.html.json,/c/UTMEN,N,Disney Project
+https://www.uniqlo.cn/c/UTMWOMEN.html,ProductListTemplate,MIDDLE,/data/pages/c/UTMWOMEN.html.json,,N,UT优衣库印花系列WOMEN
+https://www.uniqlo.cn/c/1373257601.html,ProductListTemplate,MIDDLE,/data/pages/c/1373257601.html.json,/c/UTMEN,N,DORAEMON
+https://www.uniqlo.cn/c/1370495112.html,ProductListTemplate,MIDDLE,/data/pages/c/1370495112.html.json,/c/UTMEN,N,UTGP 2018MARVEL
+https://www.uniqlo.cn/c/1373674602.html,ProductListTemplate,MIDDLE,/data/pages/c/1373674602.html.json,/c/UTMEN,N,KAKAO FRIENDS
+https://www.uniqlo.cn/c/1376934104.html,ProductListTemplate,MIDDLE,/data/pages/c/1376934104.html.json,/c/UTKIDS,N,KAWS X SESAME STREET
+https://www.uniqlo.cn/kids_ut.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_ut.html.json,,N,KIDS 童装UT
+https://www.uniqlo.cn/2018W11s.html,HeaderFooterTemplate,MIDDLE,/data/pages/2018W11s.html.json,,N,热力11内容页
+https://www.uniqlo.cn/INES18FW_WOMEN.html,HeaderFooterTemplate,FILL,/data/pages/INES18FW_WOMEN.html.json,,N,INES18FW_WOMEN
+https://www.uniqlo.cn/women_shirts_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_shirts_collection.html.json,,N,优衣库女装衬衫系列
+https://www.uniqlo.cn/c/1365827668.html,ProductListTemplate,MIDDLE,/data/pages/c/1365827668.html.json,/c/UTBABY,N,Peppa Pig
+https://www.uniqlo.cn/c/1399858184.html,ProductListTemplate,MIDDLE,/data/pages/c/1399858184.html.json,/c/NVZHUANG,N,女装-灯芯绒系列
+https://www.uniqlo.cn/c/1376299369.html,ProductListTemplate,MIDDLE,/data/pages/c/1376299369.html.json,/c/UTMEN,N,MICKEY BLUE
+https://www.uniqlo.cn/c/1298155769.html,ProductListTemplate,MIDDLE,/data/pages/c/1298155769.html.json,/c/UTQUANSHANGPIN,N,女装 WOMEN
+https://www.uniqlo.cn/c/1403946284.html,ProductListTemplate,MIDDLE,/data/pages/c/1403946284.html.json,/c/UTBABY,N,ThePictureBook
+https://www.uniqlo.cn/c/1397905629.html,ProductListTemplate,MIDDLE,/data/pages/c/1397905629.html.json,/c/UTMWOMEN,N,SPACE INVADERS
+https://www.uniqlo.cn/c/1397905630.html,ProductListTemplate,MIDDLE,/data/pages/c/1397905630.html.json,/c/UTMEN,N,MINIONS
+https://www.uniqlo.cn/c/1402410914.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410914.html.json,/c/UTKIDS,N,MICKEY ART
+https://www.uniqlo.cn/c/664890232.html,ProductListTemplate,MIDDLE,/data/pages/c/664890232.html.json,/c/UTKIDS,N,Disney Project
+https://www.uniqlo.cn/c/1012542645.html,ProductListTemplate,MIDDLE,/data/pages/c/1012542645.html.json,/c/UTBABY,N,Disney Project
+https://www.uniqlo.cn/c/1374778832.html,ProductListTemplate,MIDDLE,/data/pages/c/1374778832.html.json,/c/UTMEN,N,MICKEY ART
+https://www.uniqlo.cn/c/1402410912.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410912.html.json,/c/UTMEN,N,MINIONS PARTY 
+https://www.uniqlo.cn/c/1402410911.html,ProductListTemplate,MIDDLE,/data/pages/c/1402410911.html.json,/c/UTMWOMEN,N,MINIONS PARTY
+https://www.uniqlo.cn/c/JINGXUANSHANGPINM.html,ProductListTemplate,MIDDLE,/data/pages/c/JINGXUANSHANGPINM.html.json,,N,精选商品男装
+https://www.uniqlo.cn/c/JINGXUANSHANGPINW.html,ProductListTemplate,MIDDLE,/data/pages/c/JINGXUANSHANGPINW.html.json,,N,精选商品女装
+https://www.uniqlo.cn/c/JINGXUANSHANGPINB.html,ProductListTemplate,MIDDLE,/data/pages/c/JINGXUANSHANGPINB.html.json,,N,精选商品婴幼儿
+https://www.uniqlo.cn/c/JINGXUANSHANGPINK.html,ProductListTemplate,MIDDLE,/data/pages/c/JINGXUANSHANGPINK.html.json,,N,精选商品童装
+https://www.uniqlo.cn/c/3000041.html,ProductListTemplate,MIDDLE,/data/pages/c/3000041.html.json,/c/JINGXUANSHANGPINW,N,羽绒服
+https://www.uniqlo.cn/c/3000042.html,ProductListTemplate,MIDDLE,/data/pages/c/3000042.html.json,/c/JINGXUANSHANGPINW,N,高级轻型羽绒服
+https://www.uniqlo.cn/c/3000043.html,ProductListTemplate,MIDDLE,/data/pages/c/3000043.html.json,/c/JINGXUANSHANGPINW,N,摇粒绒系列
+https://www.uniqlo.cn/c/1403274408.html,ProductListTemplate,MIDDLE,/data/pages/c/1403274408.html.json,/c/TONGZUANG,N,童装-摇粒绒系列
+https://www.uniqlo.cn/c/1403273800.html,ProductListTemplate,MIDDLE,/data/pages/c/1403273800.html.json,/c/TONGZUANG,N,童装-仿羊羔绒系列
+https://www.uniqlo.cn/c/1403274409.html,ProductListTemplate,MIDDLE,/data/pages/c/1403274409.html.json,/c/XINSHENGER,N,幼儿-摇粒绒系列
+https://www.uniqlo.cn/c/1403274407.html,ProductListTemplate,MIDDLE,/data/pages/c/1403274407.html.json,/c/NANZHUANG,N,男装-摇粒绒系列
+https://www.uniqlo.cn/c/1403273799.html,ProductListTemplate,MIDDLE,/data/pages/c/1403273799.html.json,/c/NANZHUANG,N,男装-仿羊羔绒系列
+https://www.uniqlo.cn/c/1403273798.html,ProductListTemplate,MIDDLE,/data/pages/c/1403273798.html.json,/c/NVZHUANG,N,女装-仿羊羔绒系列
+https://www.uniqlo.cn/c/1403274406.html,ProductListTemplate,MIDDLE,/data/pages/c/1403274406.html.json,/c/NVZHUANG,N,女装-摇粒绒系列
+https://www.uniqlo.cn/c/1403275301.html,ProductListTemplate,MIDDLE,/data/pages/c/1403275301.html.json,/c/XINSHENGER,N,幼儿-仿羊羔绒系列
+https://www.uniqlo.cn/mid_autumn.html,HeaderFooterTemplate,MIDDLE,/data/pages/mid_autumn.html.json,,N,中秋特辑
+https://www.uniqlo.cn/c/1394852389.html,ProductListTemplate,MIDDLE,/data/pages/c/1394852389.html.json,/c/UTKIDS,N,Minions Party
+https://www.uniqlo.cn/c/1397905628.html,ProductListTemplate,MIDDLE,/data/pages/c/1397905628.html.json,/c/UTMWOMEN,N,MINIONS
+https://www.uniqlo.cn/c/664969426.html,ProductListTemplate,MIDDLE,/data/pages/c/664969426.html.json,/c/UTMWOMEN,N,Disney Project
+https://www.uniqlo.cn/alexanderwang18fw.html,HeaderFooterTemplate,MIDDLE,/data/pages/alexanderwang18fw.html.json,,N,ALEXANDER WANG 2018 秋冬系列
+https://www.uniqlo.cn/c/3000202.html,ProductListTemplate,MIDDLE,/data/pages/c/3000202.html.json,/c/JINGXUANSHANGPINK,N,休闲裤
+https://www.uniqlo.cn/measurement.html,HeaderFooterTemplate,MIDDLE,/data/pages/measurement.html.json,,N,“身高别”穿着指南
+https://www.uniqlo.cn/ROGER_FEDERER.html,HeaderFooterTemplate,MIDDLE,/data/pages/ROGER_FEDERER.html.json,,N,费德勒特辑
+https://www.uniqlo.cn/privacy_policy.html,HeaderFooterTemplate,MIDDLE,/data/pages/privacy_policy.html.json,,N,隐私政策
+https://www.uniqlo.cn/c/1409977253.html,ProductListTemplate,MIDDLE,/data/pages/c/1409977253.html.json,/c/UTKIDS,N,DISNEY FLEECE
+https://www.uniqlo.cn/INES18FW_KIDS.html,HeaderFooterTemplate,MIDDLE,/data/pages/INES18FW_KIDS.html.json,,N,INES18FW_KIDS
+https://www.uniqlo.cn/c/1400135771.html,ProductListTemplate,MIDDLE,/data/pages/c/1400135771.html.json,/c/NANZHUANG,N,男装-高级轻型羽绒服
+https://www.uniqlo.cn/men_polo.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_polo.html.json,,N,MEN polo
+https://www.uniqlo.cn/endorser.html,HeaderFooterTemplate,MIDDLE,/data/pages/endorser.html.json,,N,代言人
+https://www.uniqlo.cn/c/1361354725.html,ProductListTemplate,MIDDLE,/data/pages/c/1361354725.html.json,/c/NANZHUANG,N,男装-中裤短裤
+https://www.uniqlo.cn/shop823.html,HeaderFooterTemplate,,/data/pages/shop823.html.json,,,成都龙泉驿万达广场店
+https://www.uniqlo.cn/c/1402955748.html,ProductListTemplate,MIDDLE,/data/pages/c/1402955748.html.json,/c/WUXIANDUAN,N,MICKEY ART
+https://www.uniqlo.cn/c/1402955749.html,ProductListTemplate,MIDDLE,/data/pages/c/1402955749.html.json,/c/WUXIANDUAN,N,MINIONS PARTY
+https://www.uniqlo.cn/c/1408198262.html,ProductListTemplate,MIDDLE,/data/pages/c/1408198262.html.json,/c/NANZHUANG,N,男装-DPJ系列
+https://www.uniqlo.cn/INES18FW_LOOKBOOK.html,HeaderFooterTemplate,MIDDLE,/data/pages/INES18FW_LOOKBOOK.html.json,,N,INES18FW_LOOKBOOK
+https://www.uniqlo.cn/c/1401815264.html,ProductListTemplate,MIDDLE,/data/pages/c/1401815264.html.json,/c/NANZHUANG,N,男装-法兰绒系列
+https://www.uniqlo.cn/c/1405639997.html,ProductListTemplate,MIDDLE,/data/pages/c/1405639997.html.json,/c/NVZHUANG,N,女装-宽腿裤
+https://www.uniqlo.cn/men_loungewear_styles.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_loungewear_styles.html.json,,N,MEN LOUNGE WAER 
+https://www.uniqlo.cn/holiday.html,HeaderFooterTemplate,MIDDLE,/data/pages/holiday.html.json,,N,长假出游
+https://www.uniqlo.cn/KIDS_BABY_18FW.html,HeaderFooterTemplate,MIDDLE,/data/pages/KIDS_BABY_18FW.html.json,,N,童婴秋冬穿搭特辑
+https://www.uniqlo.cn/c/1405821286.html,ProductListTemplate,MIDDLE,/data/pages/c/1405821286.html.json,/c/TONGZUANG,N,童装-T恤
+https://www.uniqlo.cn/c/1405821287.html,ProductListTemplate,MIDDLE,/data/pages/c/1405821287.html.json,/c/TONGZUANG,N,童装-衬衫
+https://www.uniqlo.cn/c/2000002.html,ProductListTemplate,MIDDLE,/data/pages/c/2000002.html.json,/c/2000000,N,女装 WOMEN
+https://www.uniqlo.cn/c/2000003.html,ProductListTemplate,MIDDLE,/data/pages/c/2000003.html.json,,N,UPJ 第二弹
+https://www.uniqlo.cn/c/2000000.html,ProductListTemplate,MIDDLE,/data/pages/c/2000000.html.json,,N,UPJ全商品
+https://www.uniqlo.cn/c/2000001.html,ProductListTemplate,MIDDLE,/data/pages/c/2000001.html.json,/c/2000000,N,男装 MEN
+https://www.uniqlo.cn/c/2000004.html,ProductListTemplate,MIDDLE,/data/pages/c/2000004.html.json,/c/2000003,N,男装 MEN
+https://www.uniqlo.cn/c/2000005.html,ProductListTemplate,MIDDLE,/data/pages/c/2000005.html.json,/c/2000003,N,女装 WOMEN
+https://www.uniqlo.cn/c/1361253725.html,ProductListTemplate,MIDDLE,/data/pages/c/1361253725.html.json,/c/NVZHUANG,N,女装-短裤
+https://www.uniqlo.cn/heattech_wirelessbra.html,HeaderFooterTemplate,,/data/pages/heattech_wirelessbra.html.json,,,heattech_wirelessbra
+https://www.uniqlo.cn/c/1409700938.html,ProductListTemplate,MIDDLE,/data/pages/c/1409700938.html.json,/c/UTKIDS,N,MINIONS HEATTECHEXW
+https://www.uniqlo.cn/c/1409712546.html,ProductListTemplate,MIDDLE,/data/pages/c/1409712546.html.json,/c/UTKIDS,N,DPJ HEATTECHEXW
+https://www.uniqlo.cn/bzxp_video.html,HeaderFooterTemplate,MIDDLE,/data/pages/bzxp_video.html.json,,N,本周推荐+视频
+https://www.uniqlo.cn/c/3000044.html,ProductListTemplate,MIDDLE,/data/pages/c/3000044.html.json,/c/JINGXUANSHANGPINW,N,运动上装
+https://www.uniqlo.cn/c/10000200.html,ProductListTemplate,MIDDLE,/data/pages/c/10000200.html.json,/c/NVZHUANG,N,女装-APJ系列
+https://www.uniqlo.cn/h5_test.html,HeaderFooterTemplate,,/data/pages/h5_test.html.json,,,H5_TEST
+https://www.uniqlo.cn/c/3000067.html,ProductListTemplate,MIDDLE,/data/pages/c/3000067.html.json,/c/JINGXUANSHANGPINK,N,HEATTECH系列
+https://www.uniqlo.cn/c/10000201.html,ProductListTemplate,MIDDLE,/data/pages/c/10000201.html.json,/c/NANZHUANG,N,男装-APJ系列
+https://www.uniqlo.cn/c/10000202.html,ProductListTemplate,MIDDLE,/data/pages/c/10000202.html.json,/c/APJXILIE,N,男装
+https://www.uniqlo.cn/c/10000203.html,ProductListTemplate,MIDDLE,/data/pages/c/10000203.html.json,/c/APJXILIE,N,女装
+https://www.uniqlo.cn/c/APJXILIE.html,ProductListTemplate,MIDDLE,/data/pages/c/APJXILIE.html.json,,N,APJ系列
+https://www.uniqlo.cn/c/3000045.html,ProductListTemplate,MIDDLE,/data/pages/c/3000045.html.json,/c/JINGXUANSHANGPINW,N,运动下装
+https://www.uniqlo.cn/c/3000046.html,ProductListTemplate,MIDDLE,/data/pages/c/3000046.html.json,/c/JINGXUANSHANGPINW,N,运动系列
+https://www.uniqlo.cn/c/3000047.html,ProductListTemplate,MIDDLE,/data/pages/c/3000047.html.json,/c/JINGXUANSHANGPINW,N,3D针织系列
+https://www.uniqlo.cn/c/3000049.html,ProductListTemplate,MIDDLE,/data/pages/c/3000049.html.json,/c/JINGXUANSHANGPINW,N,孕妇装
+https://www.uniqlo.cn/c/3000050.html,ProductListTemplate,MIDDLE,/data/pages/c/3000050.html.json,/c/JINGXUANSHANGPINW,N,特别尺码
+https://www.uniqlo.cn/c/3000053.html,ProductListTemplate,MIDDLE,/data/pages/c/3000053.html.json,/c/JINGXUANSHANGPINW,N,针织衫
+https://www.uniqlo.cn/c/3000054.html,ProductListTemplate,MIDDLE,/data/pages/c/3000054.html.json,/c/JINGXUANSHANGPINW,N,休闲衬衫
+https://www.uniqlo.cn/c/3000055.html,ProductListTemplate,MIDDLE,/data/pages/c/3000055.html.json,/c/JINGXUANSHANGPINW,N,斯文衬衫
+https://www.uniqlo.cn/c/3000056.html,ProductListTemplate,MIDDLE,/data/pages/c/3000056.html.json,/c/JINGXUANSHANGPINW,N,衬衫
+https://www.uniqlo.cn/c/3000057.html,ProductListTemplate,MIDDLE,/data/pages/c/3000057.html.json,/c/JINGXUANSHANGPINW,N,T恤
+https://www.uniqlo.cn/c/3000058.html,ProductListTemplate,MIDDLE,/data/pages/c/3000058.html.json,/c/JINGXUANSHANGPINW,N,牛仔裤
+https://www.uniqlo.cn/c/3000059.html,ProductListTemplate,MIDDLE,/data/pages/c/3000059.html.json,/c/JINGXUANSHANGPINW,N,保暖裤
+https://www.uniqlo.cn/c/3000060.html,ProductListTemplate,MIDDLE,/data/pages/c/3000060.html.json,/c/JINGXUANSHANGPINW,N,九分裤
+https://www.uniqlo.cn/c/3000061.html,ProductListTemplate,MIDDLE,/data/pages/c/3000061.html.json,/c/JINGXUANSHANGPINW,N,紧身裤
+https://www.uniqlo.cn/c/3000062.html,ProductListTemplate,MIDDLE,/data/pages/c/3000062.html.json,/c/JINGXUANSHANGPINW,N,半裙
+https://www.uniqlo.cn/c/3000063.html,ProductListTemplate,MIDDLE,/data/pages/c/3000063.html.json,/c/JINGXUANSHANGPINW,N,休闲裤
+https://www.uniqlo.cn/c/3000065.html,ProductListTemplate,MIDDLE,/data/pages/c/3000065.html.json,/c/JINGXUANSHANGPINK,N,WARM PADDED系列
+https://www.uniqlo.cn/c/3000066.html,ProductListTemplate,MIDDLE,/data/pages/c/3000066.html.json,/c/JINGXUANSHANGPINK,N,摇粒绒系列
+https://www.uniqlo.cn/c/3000068.html,ProductListTemplate,MIDDLE,/data/pages/c/3000068.html.json,/c/JINGXUANSHANGPINK,N,运动系列
+https://www.uniqlo.cn/c/3000069.html,ProductListTemplate,MIDDLE,/data/pages/c/3000069.html.json,/c/JINGXUANSHANGPINK,N,起居服
+https://www.uniqlo.cn/c/3000012.html,ProductListTemplate,MIDDLE,/data/pages/c/3000012.html.json,/c/JINGXUANSHANGPINM,N,HEATTECH上装
+https://www.uniqlo.cn/c/3000070.html,ProductListTemplate,MIDDLE,/data/pages/c/3000070.html.json,/c/JINGXUANSHANGPINK,N,特别尺码
+https://www.uniqlo.cn/c/3000071.html,ProductListTemplate,MIDDLE,/data/pages/c/3000071.html.json,/c/JINGXUANSHANGPINK,N,男童外套
+https://www.uniqlo.cn/c/3000072.html,ProductListTemplate,MIDDLE,/data/pages/c/3000072.html.json,/c/JINGXUANSHANGPINK,N,女童外套
+https://www.uniqlo.cn/c/3000074.html,ProductListTemplate,MIDDLE,/data/pages/c/3000074.html.json,/c/JINGXUANSHANGPINK,N,针织衫
+https://www.uniqlo.cn/c/3000075.html,ProductListTemplate,MIDDLE,/data/pages/c/3000075.html.json,/c/JINGXUANSHANGPINK,N,衬衫
+https://www.uniqlo.cn/c/3000076.html,ProductListTemplate,MIDDLE,/data/pages/c/3000076.html.json,/c/JINGXUANSHANGPINK,N,UT
+https://www.uniqlo.cn/c/3000077.html,ProductListTemplate,MIDDLE,/data/pages/c/3000077.html.json,/c/JINGXUANSHANGPINK,N,T恤
+https://www.uniqlo.cn/c/3000078.html,ProductListTemplate,MIDDLE,/data/pages/c/3000078.html.json,/c/JINGXUANSHANGPINK,N,保暖裤
+https://www.uniqlo.cn/c/3000079.html,ProductListTemplate,MIDDLE,/data/pages/c/3000079.html.json,/c/JINGXUANSHANGPINK,N,运动裤
+https://www.uniqlo.cn/c/3000080.html,ProductListTemplate,MIDDLE,/data/pages/c/3000080.html.json,/c/JINGXUANSHANGPINK,N,束脚裤
+https://www.uniqlo.cn/c/3000081.html,ProductListTemplate,MIDDLE,/data/pages/c/3000081.html.json,/c/JINGXUANSHANGPINK,N,牛仔裤
+https://www.uniqlo.cn/c/3000082.html,ProductListTemplate,MIDDLE,/data/pages/c/3000082.html.json,/c/JINGXUANSHANGPINK,N,裙子·连衣裙
+https://www.uniqlo.cn/c/3000083.html,ProductListTemplate,MIDDLE,/data/pages/c/3000083.html.json,/c/JINGXUANSHANGPINK,N,紧身裤
+https://www.uniqlo.cn/c/3000084.html,ProductListTemplate,MIDDLE,/data/pages/c/3000084.html.json,/c/JINGXUANSHANGPINK,N,内衣·内裤·袜子
+https://www.uniqlo.cn/c/3000085.html,ProductListTemplate,MIDDLE,/data/pages/c/3000085.html.json,/c/JINGXUANSHANGPINK,N,起居套装
+https://www.uniqlo.cn/c/3000086.html,ProductListTemplate,MIDDLE,/data/pages/c/3000086.html.json,/c/JINGXUANSHANGPINK,N,配件
+https://www.uniqlo.cn/c/3000010.html,ProductListTemplate,MIDDLE,/data/pages/c/3000010.html.json,/c/JINGXUANSHANGPINM,N,AIRism系列
+https://www.uniqlo.cn/c/3000011.html,ProductListTemplate,MIDDLE,/data/pages/c/3000011.html.json,/c/JINGXUANSHANGPINM,N,HEATTECH配件
+https://www.uniqlo.cn/c/3000013.html,ProductListTemplate,MIDDLE,/data/pages/c/3000013.html.json,/c/JINGXUANSHANGPINM,N,HEATTECH系列
+https://www.uniqlo.cn/c/3000014.html,ProductListTemplate,MIDDLE,/data/pages/c/3000014.html.json,/c/JINGXUANSHANGPINM,N,HEATTECH下装
+https://www.uniqlo.cn/c/3000015.html,ProductListTemplate,MIDDLE,/data/pages/c/3000015.html.json,/c/JINGXUANSHANGPINM,N,短裤
+https://www.uniqlo.cn/c/3000016.html,ProductListTemplate,MIDDLE,/data/pages/c/3000016.html.json,/c/JINGXUANSHANGPINM,N,内衣
+https://www.uniqlo.cn/c/3000017.html,ProductListTemplate,MIDDLE,/data/pages/c/3000017.html.json,/c/JINGXUANSHANGPINM,N,配件
+https://www.uniqlo.cn/c/3000018.html,ProductListTemplate,MIDDLE,/data/pages/c/3000018.html.json,/c/JINGXUANSHANGPINM,N,起居系列
+https://www.uniqlo.cn/c/3000019.html,ProductListTemplate,MIDDLE,/data/pages/c/3000019.html.json,/c/JINGXUANSHANGPINM,N,袜子·紧身裤
+https://www.uniqlo.cn/c/3000020.html,ProductListTemplate,MIDDLE,/data/pages/c/3000020.html.json,/c/JINGXUANSHANGPINM,N,腰带
+https://www.uniqlo.cn/c/3000021.html,ProductListTemplate,MIDDLE,/data/pages/c/3000021.html.json,/c/JINGXUANSHANGPINW,N,AIRism系列
+https://www.uniqlo.cn/c/3000022.html,ProductListTemplate,MIDDLE,/data/pages/c/3000022.html.json,/c/JINGXUANSHANGPINW,N,HEATTECH配件
+https://www.uniqlo.cn/c/3000023.html,ProductListTemplate,MIDDLE,/data/pages/c/3000023.html.json,/c/JINGXUANSHANGPINW,N,HEATTECH上装
+https://www.uniqlo.cn/c/3000024.html,ProductListTemplate,MIDDLE,/data/pages/c/3000024.html.json,/c/JINGXUANSHANGPINW,N,HEATTECH系列
+https://www.uniqlo.cn/c/3000025.html,ProductListTemplate,MIDDLE,/data/pages/c/3000025.html.json,/c/JINGXUANSHANGPINW,N,HEATTECH下装
+https://www.uniqlo.cn/c/3000026.html,ProductListTemplate,MIDDLE,/data/pages/c/3000026.html.json,/c/JINGXUANSHANGPINW,N,含胸垫内衣
+https://www.uniqlo.cn/c/3000027.html,ProductListTemplate,MIDDLE,/data/pages/c/3000027.html.json,/c/JINGXUANSHANGPINW,N,内衣
+https://www.uniqlo.cn/c/3000028.html,ProductListTemplate,MIDDLE,/data/pages/c/3000028.html.json,/c/JINGXUANSHANGPINW,N,配件
+https://www.uniqlo.cn/c/3000029.html,ProductListTemplate,MIDDLE,/data/pages/c/3000029.html.json,/c/JINGXUANSHANGPINW,N,起居系列
+https://www.uniqlo.cn/c/3000030.html,ProductListTemplate,MIDDLE,/data/pages/c/3000030.html.json,/c/JINGXUANSHANGPINW,N,袜子·紧身裤
+https://www.uniqlo.cn/c/3000031.html,ProductListTemplate,MIDDLE,/data/pages/c/3000031.html.json,/c/JINGXUANSHANGPINW,N,文胸
+https://www.uniqlo.cn/c/3000032.html,ProductListTemplate,MIDDLE,/data/pages/c/3000032.html.json,/c/JINGXUANSHANGPINW,N,文胸·短裤
+https://www.uniqlo.cn/c/3000033.html,ProductListTemplate,MIDDLE,/data/pages/c/3000033.html.json,/c/JINGXUANSHANGPINW,N,针织围巾(两用)
+https://www.uniqlo.cn/c/3000034.html,ProductListTemplate,MIDDLE,/data/pages/c/3000034.html.json,/c/JINGXUANSHANGPINB,N,HEATTECH系列
+https://www.uniqlo.cn/c/3000035.html,ProductListTemplate,MIDDLE,/data/pages/c/3000035.html.json,/c/JINGXUANSHANGPINB,N,T恤·运动系列
+https://www.uniqlo.cn/c/3000036.html,ProductListTemplate,MIDDLE,/data/pages/c/3000036.html.json,/c/JINGXUANSHANGPINB,N,WARM PADDED系列
+https://www.uniqlo.cn/c/3000037.html,ProductListTemplate,MIDDLE,/data/pages/c/3000037.html.json,/c/JINGXUANSHANGPINB,N,裤装
+https://www.uniqlo.cn/c/3000038.html,ProductListTemplate,MIDDLE,/data/pages/c/3000038.html.json,/c/JINGXUANSHANGPINB,N,连体装
+https://www.uniqlo.cn/c/3000039.html,ProductListTemplate,MIDDLE,/data/pages/c/3000039.html.json,/c/JINGXUANSHANGPINB,N,内衣
+https://www.uniqlo.cn/c/3000040.html,ProductListTemplate,MIDDLE,/data/pages/c/3000040.html.json,/c/JINGXUANSHANGPINB,N,睡衣
+https://www.uniqlo.cn/c/3000087.html,ProductListTemplate,MIDDLE,/data/pages/c/3000087.html.json,/c/JINGXUANSHANGPINB,N,袜子紧身裤
+https://www.uniqlo.cn/c/3000088.html,ProductListTemplate,MIDDLE,/data/pages/c/3000088.html.json,/c/JINGXUANSHANGPINB,N,外套
+https://www.uniqlo.cn/c/3000089.html,ProductListTemplate,MIDDLE,/data/pages/c/3000089.html.json,/c/JINGXUANSHANGPINB,N,围兜抱被
+https://www.uniqlo.cn/c/3000090.html,ProductListTemplate,MIDDLE,/data/pages/c/3000090.html.json,/c/JINGXUANSHANGPINB,N,新生儿
+https://www.uniqlo.cn/c/3000091.html,ProductListTemplate,MIDDLE,/data/pages/c/3000091.html.json,/c/JINGXUANSHANGPINB,N,摇粒绒系列
+https://www.uniqlo.cn/c/3000092.html,ProductListTemplate,MIDDLE,/data/pages/c/3000092.html.json,/c/JINGXUANSHANGPINM,N,高级轻型羽绒服
+https://www.uniqlo.cn/c/3000093.html,ProductListTemplate,MIDDLE,/data/pages/c/3000093.html.json,/c/JINGXUANSHANGPINM,N,羽绒服
+https://www.uniqlo.cn/c/3000094.html,ProductListTemplate,MIDDLE,/data/pages/c/3000094.html.json,/c/JINGXUANSHANGPINM,N,摇粒绒系列
+https://www.uniqlo.cn/c/3000095.html,ProductListTemplate,MIDDLE,/data/pages/c/3000095.html.json,/c/JINGXUANSHANGPINM,N,运动系列
+https://www.uniqlo.cn/c/3000096.html,ProductListTemplate,MIDDLE,/data/pages/c/3000096.html.json,/c/JINGXUANSHANGPINM,N,运动上装
+https://www.uniqlo.cn/c/3000097.html,ProductListTemplate,MIDDLE,/data/pages/c/3000097.html.json,/c/JINGXUANSHANGPINM,N,运动下装
+https://www.uniqlo.cn/c/3000099.html,ProductListTemplate,MIDDLE,/data/pages/c/3000099.html.json,/c/JINGXUANSHANGPINM,N,特别尺码
+https://www.uniqlo.cn/c/3000103.html,ProductListTemplate,MIDDLE,/data/pages/c/3000103.html.json,/c/JINGXUANSHANGPINM,N,针织衫
+https://www.uniqlo.cn/c/3000104.html,ProductListTemplate,MIDDLE,/data/pages/c/3000104.html.json,/c/JINGXUANSHANGPINM,N,休闲衬衫
+https://www.uniqlo.cn/c/3000105.html,ProductListTemplate,MIDDLE,/data/pages/c/3000105.html.json,/c/JINGXUANSHANGPINM,N,斯文衬衫
+https://www.uniqlo.cn/c/3000106.html,ProductListTemplate,MIDDLE,/data/pages/c/3000106.html.json,/c/JINGXUANSHANGPINM,N,T恤
+https://www.uniqlo.cn/c/3000107.html,ProductListTemplate,MIDDLE,/data/pages/c/3000107.html.json,/c/JINGXUANSHANGPINM,N,牛仔裤
+https://www.uniqlo.cn/c/3000108.html,ProductListTemplate,MIDDLE,/data/pages/c/3000108.html.json,/c/JINGXUANSHANGPINM,N,保暖裤
+https://www.uniqlo.cn/c/3000109.html,ProductListTemplate,MIDDLE,/data/pages/c/3000109.html.json,/c/JINGXUANSHANGPINM,N,休闲裤
+https://www.uniqlo.cn/c/3000110.html,ProductListTemplate,MIDDLE,/data/pages/c/3000110.html.json,/c/JINGXUANSHANGPINM,N,九分裤
+https://www.uniqlo.cn/c/3000111.html,ProductListTemplate,MIDDLE,/data/pages/c/3000111.html.json,/c/JINGXUANSHANGPINM,N,袋装T恤
+https://www.uniqlo.cn/men_business_wear.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_business_wear.html.json,,N,MEN 职场特辑
+https://www.uniqlo.cn/c/WUXIANDUAN20181112.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181112.html.json,,N,无线端20181112
+https://www.uniqlo.cn/c/1415555955.html,ProductListTemplate,MIDDLE,/data/pages/c/1415555955.html.json,/c/WUXIANDUAN20181112,N,1112newK&B
+https://www.uniqlo.cn/c/1415555956.html,ProductListTemplate,MIDDLE,/data/pages/c/1415555956.html.json,/c/WUXIANDUAN20181112,N,1105-1112newK&B
+https://www.uniqlo.cn/c/1410230598.html,ProductListTemplate,MIDDLE,/data/pages/c/1410230598.html.json,/c/UTMWOMEN,N,Disney FLEECE COLLECTION
+https://www.uniqlo.cn/c/1409977254.html,ProductListTemplate,MIDDLE,/data/pages/c/1409977254.html.json,/c/UTKIDS,N,Disney HEROINES
+https://www.uniqlo.cn/cmy1111.html,HeaderFooterTemplate,MIDDLE,/data/pages/cmy1111.html.json,,N,超目玉1111
+https://www.uniqlo.cn/c/1415561151.html,ProductListTemplate,MIDDLE,/data/pages/c/1415561151.html.json,/c/UTKIDS,N,UT优衣库印花系列KIDS>>MICKEY STANDS
+https://www.uniqlo.cn/cmy_strategy.html,HeaderFooterTemplate,MIDDLE,/data/pages/cmy_strategy.html.json,,N,超目玉攻略
+https://www.uniqlo.cn/c/XINSHENGER.html,ProductListTemplate,MIDDLE,/data/pages/c/XINSHENGER.html.json,,N,新生儿&幼儿分类
+https://www.uniqlo.cn/thanksgiving.html,HeaderFooterTemplate,MIDDLE,/data/pages/thanksgiving.html.json,,N,感谢季特辑
+https://www.uniqlo.cn/c/1413420109.html,ProductListTemplate,MIDDLE,/data/pages/c/1413420109.html.json,/c/UTMEN,N,PEANUTS
+https://www.uniqlo.cn/c/1412333694.html,ProductListTemplate,MIDDLE,/data/pages/c/1412333694.html.json,/c/UTMWOMEN,N,KAWS X SESAME STREET
+https://www.uniqlo.cn/c/1412333896.html,ProductListTemplate,MIDDLE,/data/pages/c/1412333896.html.json,/c/UTKIDS,N,KAWS street
+https://www.uniqlo.cn/c/TONGZUANG.html,ProductListTemplate,MIDDLE,/data/pages/c/TONGZUANG.html.json,,N,童装分类
+https://www.uniqlo.cn/c/1412332250.html,ProductListTemplate,MIDDLE,/data/pages/c/1412332250.html.json,/c/UTMEN,N,KAWS X SESAME STREET
+https://www.uniqlo.cn/test1007.html,HeaderFooterTemplate,MIDDLE,/data/pages/test1007.html.json,,N,test1007
+https://www.uniqlo.cn/c/1292499991.html,ProductListTemplate,MIDDLE,/data/pages/c/1292499991.html.json,/c/TEBIECHIMA,N,女装 WOMEN
+https://www.uniqlo.cn/c/3000203.html,ProductListTemplate,MIDDLE,/data/pages/c/3000203.html.json,/c/JINGXUANSHANGPINB,N,特别尺码
+https://www.uniqlo.cn/kids_loungewear_styles.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_loungewear_styles.html.json,,N,KIDS LOUNGE WAER
+https://www.uniqlo.cn/c/1409977251.html,ProductListTemplate,MIDDLE,/data/pages/c/1409977251.html.json,/c/UTMEN,N,DISNEY HOLIDAY
+https://www.uniqlo.cn/Christmas.html,HeaderFooterTemplate,MIDDLE,/data/pages/Christmas.html.json,,N,圣诞节特辑
+https://www.uniqlo.cn/men_heattech.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_heattech.html.json,,N,MEN HEATTECH
+https://www.uniqlo.cn/c/1418289008.html,ProductListTemplate,MIDDLE,/data/pages/c/1418289008.html.json,/c/UTMWOMEN,N,Hokusai Blue
+https://www.uniqlo.cn/O2O_cs.html,HeaderFooterTemplate,MIDDLE,/data/pages/O2O_cs.html.json,,N,门店自提
+https://www.uniqlo.cn/women_underwear.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_underwear.html.json,,N,WOMEN 内衣
+https://www.uniqlo.cn/baby_bottoms.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_bottoms.html.json,,N,BABY 幼儿下装
+https://www.uniqlo.cn/20181212.html,HeaderFooterTemplate,MIDDLE,/data/pages/20181212.html.json,,N,火热12.12活动页
+https://www.uniqlo.cn/men_airism.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_airism.html.json,,N,MEN AIRism
+https://www.uniqlo.cn/men_belt.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_belt.html.json,,N,MEN 腰带
+https://www.uniqlo.cn/men_knit.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_knit.html.json,,N,MEN 针织衫
+https://www.uniqlo.cn/c/4181207022.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207022.html.json,/c/XIANSHITEYOUW1207,N,配件
+https://www.uniqlo.cn/c/4181207023.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207023.html.json,/c/XIANSHITEYOUW1207,N,孕妇装
+https://www.uniqlo.cn/men_underpants.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_underpants.html.json,,N,MEN 内裤
+https://www.uniqlo.cn/c/4181207024.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207024.html.json,/c/XIANSHITEYOUM1207,N,衬衫
+https://www.uniqlo.cn/c/4181207025.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207025.html.json,/c/XIANSHITEYOUM1207,N,T恤
+https://www.uniqlo.cn/c/1397635168.html,ProductListTemplate,MIDDLE,/data/pages/c/1397635168.html.json,/c/XINSHENGER,N,幼儿-0个月-3个月
+https://www.uniqlo.cn/c/4181207026.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207026.html.json,/c/XIANSHITEYOUM1207,N,羽绒服
+https://www.uniqlo.cn/c/4181207027.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207027.html.json,/c/XIANSHITEYOUM1207,N,长裤
+https://www.uniqlo.cn/c/4181207028.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207028.html.json,/c/XIANSHITEYOUM1207,N,内裤
+https://www.uniqlo.cn/c/4181207029.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207029.html.json,/c/XIANSHITEYOUM1207,N,内衣
+https://www.uniqlo.cn/c/4181207030.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207030.html.json,/c/XIANSHITEYOUM1207,N,HEATTECH系列
+https://www.uniqlo.cn/c/4181207031.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207031.html.json,/c/XIANSHITEYOUM1207,N,袜子
+https://www.uniqlo.cn/c/4181207032.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207032.html.json,/c/XIANSHITEYOUK1207,N,男童外套
+https://www.uniqlo.cn/c/4181207033.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207033.html.json,/c/XIANSHITEYOUK1207,N,女童外套
+https://www.uniqlo.cn/c/4181207034.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207034.html.json,/c/XIANSHITEYOUK1207,N,UT系列
+https://www.uniqlo.cn/c/4181207035.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207035.html.json,/c/XIANSHITEYOUB1207,N,幼儿上装
+https://www.uniqlo.cn/baby_special_size_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_special_size_w11.html.json,,N,BABY 特别尺码
+https://www.uniqlo.cn/women_loungewear_styles.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_loungewear_styles.html.json,,N,WOMEN LOUNGE WAER
+https://www.uniqlo.cn/c/1409977252.html,ProductListTemplate,MIDDLE,/data/pages/c/1409977252.html.json,/c/UTKIDS,N,DISNEY HOLIDAY
+https://www.uniqlo.cn/KAWS.html,HeaderFooterTemplate,MIDDLE,/data/pages/KAWS.html.json,,N,KAWS
+https://www.uniqlo.cn/shop812.html,HeaderFooterTemplate,,/data/pages/shop812.html.json,,,厦门万象城店
+https://www.uniqlo.cn/ALEXANDER_WANG_18FW.html,HeaderFooterTemplate,MIDDLE,/data/pages/ALEXANDER_WANG_18FW.html.json,,N,AWPJ_18FW
+https://www.uniqlo.cn/c/1409977250.html,ProductListTemplate,MIDDLE,/data/pages/c/1409977250.html.json,/c/UTMWOMEN,N,DISNEY HOLIDAY
+https://www.uniqlo.cn/c/3000206.html,ProductListTemplate,MIDDLE,/data/pages/c/3000206.html.json,/c/JINGXUANSHANGPINW,N,内衣·短裤
+https://www.uniqlo.cn/c/3000207.html,ProductListTemplate,MIDDLE,/data/pages/c/3000207.html.json,/c/JINGXUANSHANGPINM,N,内衣短裤
+https://www.uniqlo.cn/c/3000205.html,ProductListTemplate,MIDDLE,/data/pages/c/3000205.html.json,/c/JINGXUANSHANGPINW,N,裙装
+https://www.uniqlo.cn/c/1351434597.html,ProductListTemplate,MIDDLE,/data/pages/c/1351434597.html.json,/c/TONGZUANG,N,童装-内裤
+https://www.uniqlo.cn/c/3000201.html,ProductListTemplate,MIDDLE,/data/pages/c/3000201.html.json,/c/JINGXUANSHANGPINW,N,连衣裙
+https://www.uniqlo.cn/shop828.html,HeaderFooterTemplate,,/data/pages/shop828.html.json,,,福州东百中心店
+https://www.uniqlo.cn/c/1361831233.html,ProductListTemplate,MIDDLE,/data/pages/c/1361831233.html.json,/c/UTMWOMEN,N,S Sanderson
+https://www.uniqlo.cn/c/UTMEN.html,ProductListTemplate,MIDDLE,/data/pages/c/UTMEN.html.json,,N,UT优衣库印花系列MEN
+https://www.uniqlo.cn/baby_fleece_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_fleece_w11.html.json,,N,BABY 摇粒绒
+https://www.uniqlo.cn/shop820.html,HeaderFooterTemplate,,/data/pages/shop820.html.json,,,广州金沙洲永旺梦乐城店
+https://www.uniqlo.cn/shop853.html,HeaderFooterTemplate,,/data/pages/shop853.html.json,,,长沙松雅湖吾悦广场店
+https://www.uniqlo.cn/shop700.html,HeaderFooterTemplate,,/data/pages/shop700.html.json,,,石家庄万象城店
+https://www.uniqlo.cn/c/1418281628.html,ProductListTemplate,MIDDLE,/data/pages/c/1418281628.html.json,/c/XINSHENGER,N,新生儿-配件
+https://www.uniqlo.cn/2018W12COPY.html,HeaderFooterTemplate,MIDDLE,/data/pages/2018W12COPY.html.json,,N,火热12.12首页
+https://www.uniqlo.cn/c/1327445535.html,ProductListTemplate,MIDDLE,/data/pages/c/1327445535.html.json,/c/TEBIECHIMA,N,婴幼儿BABY
+https://www.uniqlo.cn/storecs_list.html,HeaderFooterTemplate,MIDDLE,/data/pages/storecs_list.html.json,,N,新店测试页
+https://www.uniqlo.cn/baby_yinerfu.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_yinerfu.html.json,,N,BABY 婴儿服
+https://www.uniqlo.cn/shop787.html,HeaderFooterTemplate,MIDDLE,/data/pages/shop787.html.json,,N,西安MOMOPARK店
+https://www.uniqlo.cn/shop773.html,HeaderFooterTemplate,,/data/pages/shop773.html.json,,,上海置汇旭辉广场店
+https://www.uniqlo.cn/c/1421098446.html,ProductListTemplate,MIDDLE,/data/pages/c/1421098446.html.json,/c/XIANSHITEYOU1207,N,男装 MEN
+https://www.uniqlo.cn/c/1421408421.html,ProductListTemplate,MIDDLE,/data/pages/c/1421408421.html.json,/c/XIANSHITEYOUM1207,N,无缝羽绒服
+https://www.uniqlo.cn/men_socks.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_socks.html.json,,N,MEN 袜子
+https://www.uniqlo.cn/shop848.html,HeaderFooterTemplate,,/data/pages/shop848.html.json,,,南通万象城店
+https://www.uniqlo.cn/c/1421456916.html,ProductListTemplate,MIDDLE,/data/pages/c/1421456916.html.json,/c/BENZHOUXINPIN20181210,N,婴幼儿装 BABY
+https://www.uniqlo.cn/women_3Dknit.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_3Dknit.html.json,,N,3D针织衫
+https://www.uniqlo.cn/c/1422365038.html,ProductListTemplate,MIDDLE,/data/pages/c/1422365038.html.json,/c/DIYIDANBUHUO,N,男装
+https://www.uniqlo.cn/c/BENZHOUXINPIN20181210.html,ProductListTemplate,MIDDLE,/data/pages/c/BENZHOUXINPIN20181210.html.json,,N,本周新品
+https://www.uniqlo.cn/c/1421456913.html,ProductListTemplate,MIDDLE,/data/pages/c/1421456913.html.json,/c/BENZHOUXINPIN20181210,N,男装 MEN
+https://www.uniqlo.cn/c/1421456914.html,ProductListTemplate,MIDDLE,/data/pages/c/1421456914.html.json,/c/BENZHOUXINPIN20181210,N,女装 WOMEN
+https://www.uniqlo.cn/c/1421456915.html,ProductListTemplate,MIDDLE,/data/pages/c/1421456915.html.json,/c/BENZHOUXINPIN20181210,N,童装  KIDS
+https://www.uniqlo.cn/c/1422365039.html,ProductListTemplate,MIDDLE,/data/pages/c/1422365039.html.json,/c/DIYIDANBUHUO,N,女装
+https://www.uniqlo.cn/c/WUXIANDUAN20181210.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181210.html.json,,N,无线端20181210
+https://www.uniqlo.cn/c/1422365040.html,ProductListTemplate,MIDDLE,/data/pages/c/1422365040.html.json,/c/DIYIDANBUHUO,N,内衣
+https://www.uniqlo.cn/w12_unionpay.html,HeaderFooterTemplate,MIDDLE,/data/pages/w12_unionpay.html.json,,N,优衣库实体店季末大促银联满减活动细则
+https://www.uniqlo.cn/c/1422365041.html,ProductListTemplate,MIDDLE,/data/pages/c/1422365041.html.json,/c/DIYIDANBUHUO,N,童/婴装
+https://www.uniqlo.cn/c/DIYIDANBUHUO.html,ProductListTemplate,MIDDLE,/data/pages/c/DIYIDANBUHUO.html.json,,N,补货
+https://www.uniqlo.cn/c/1421322933.html,ProductListTemplate,MIDDLE,/data/pages/c/1421322933.html.json,/c/WUXIANDUAN20181210,N,1210newK&B
+https://www.uniqlo.cn/c/1421322934.html,ProductListTemplate,MIDDLE,/data/pages/c/1421322934.html.json,/c/WUXIANDUAN20181210,N,1203-1210newK&B
+https://www.uniqlo.cn/c/1421789894.html,ProductListTemplate,MIDDLE,/data/pages/c/1421789894.html.json,/c/UTMEN,N,Pieter Ceizer
+https://www.uniqlo.cn/c/WUXIANDUAN20181119.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181119.html.json,,N,无线端200181119
+https://www.uniqlo.cn/c/4181116005.html,ProductListTemplate,MIDDLE,/data/pages/c/4181116005.html.json,/c/WUXIANDUAN20181119,N,1119newK&B
+https://www.uniqlo.cn/c/4181116006.html,ProductListTemplate,MIDDLE,/data/pages/c/4181116006.html.json,/c/WUXIANDUAN20181119,N,1112-1119newK&B
+https://www.uniqlo.cn/men_blocktech.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_blocktech.html.json,,N,MEN BLOCKTECH
+https://www.uniqlo.cn/w11_test.html,HeaderFooterTemplate,MIDDLE,/data/pages/w11_test.html.json,,N,双十一测试页
+https://www.uniqlo.cn/men_stretch_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_stretch_pants.html.json,,N,MEN 快干弹力长裤
+https://www.uniqlo.cn/c/XIANSHITEYOUM1207.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUM1207.html.json,,N,男装限时特优[12/07起]
+https://www.uniqlo.cn/c/1292499993.html,ProductListTemplate,MIDDLE,/data/pages/c/1292499993.html.json,/c/TEBIECHIMA,N,童装KIDS
+https://www.uniqlo.cn/c/1250930003.html,ProductListTemplate,MIDDLE,/data/pages/c/1250930003.html.json,/c/XINSHENGER,N,幼儿-HEATTECH(温暖内衣系列)
+https://www.uniqlo.cn/1212_gonggao.html,HeaderFooterTemplate,MIDDLE,/data/pages/1212_gonggao.html.json,,N,优衣库掌上旗舰店“火热1212”活动公告
+https://www.uniqlo.cn/baby_top.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_top.html.json,,N,BABY 幼儿上装
+https://www.uniqlo.cn/KIDS_WARM_PADDED.html,HeaderFooterTemplate,MIDDLE,/data/pages/KIDS_WARM_PADDED.html.json,,N,KIDS 轻型外套
+https://www.uniqlo.cn/men_business_shirt.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_business_shirt.html.json,,N,MEN 商务衬衫
+https://www.uniqlo.cn/women_tshirt.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_tshirt.html.json,,N,WOMEN T恤
+https://www.uniqlo.cn/UNIQLO_U19SS_MAIN.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U19SS_MAIN.html.json,,N,UNIQLO_U19SS_MAIN
+https://www.uniqlo.cn/women_fleece.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_fleece.html.json,,N,女装摇粒绒
+https://www.uniqlo.cn/cmy1108.html,HeaderFooterTemplate,MIDDLE,/data/pages/cmy1108.html.json,,N,超目玉1108
+https://www.uniqlo.cn/c/WUXIANDUAN20181126.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181126.html.json,,N,无线端20181126
+https://www.uniqlo.cn/cmy1109.html,HeaderFooterTemplate,MIDDLE,/data/pages/cmy1109.html.json,,N,超目玉1109
+https://www.uniqlo.cn/c/1415558886.html,ProductListTemplate,MIDDLE,/data/pages/c/1415558886.html.json,/c/NANZHUANG,N,男装-保暖裤
+https://www.uniqlo.cn/c/1418266309.html,ProductListTemplate,MIDDLE,/data/pages/c/1418266309.html.json,/c/WUXIANDUAN20181126,N,1126newK&B
+https://www.uniqlo.cn/c/1418266310.html,ProductListTemplate,MIDDLE,/data/pages/c/1418266310.html.json,/c/WUXIANDUAN20181126,N,1123-1126newK&B
+https://www.uniqlo.cn/ALEXANDER_WANG_18FW_WOMEN.html,HeaderFooterTemplate,MIDDLE,/data/pages/ALEXANDER_WANG_18FW_WOMEN.html.json,,N,AWPJ_18FW_WOMEN
+https://www.uniqlo.cn/women_blocktech.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_blocktech.html.json,,N,WOMEN BLOCKTECH
+https://www.uniqlo.cn/test1103.html,HeaderFooterTemplate,MIDDLE,/data/pages/test1103.html.json,,N,test1103
+https://www.uniqlo.cn/test08211.html,HeaderFooterTemplate,MIDDLE,/data/pages/test08211.html.json,,N,test08211
+https://www.uniqlo.cn/kids_special_size_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_special_size_w11.html.json,,N,KIDS 特别尺码
+https://www.uniqlo.cn/shop849.html,HeaderFooterTemplate,,/data/pages/shop849.html.json,,,佛山新DNA购物中心店
+https://www.uniqlo.cn/shop832.html,HeaderFooterTemplate,,/data/pages/shop832.html.json,,,天津天河城店
+https://www.uniqlo.cn/c/1414486934.html,ProductListTemplate,MIDDLE,/data/pages/c/1414486934.html.json,/c/UTBABY,N,Disney HEROINES
+https://www.uniqlo.cn/c/NANZHUANG.html,ProductListTemplate,MIDDLE,/data/pages/c/NANZHUANG.html.json,,N,男装分类
+https://www.uniqlo.cn/Home-index.html,HeaderFooterTemplate,MIDDLE,/data/pages/Home-index.html.json,,N,首页
+https://www.uniqlo.cn/huohu.html,HeaderFooterTemplate,MIDDLE,/data/pages/huohu.html.json,,N,test109
+https://www.uniqlo.cn/kids_fleece_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_fleece_w11.html.json,,N,KIDS 摇粒绒
+https://www.uniqlo.cn/BABY_WARM_PADDED.html,HeaderFooterTemplate,MIDDLE,/data/pages/BABY_WARM_PADDED.html.json,,N,BABY 轻型外套
+https://www.uniqlo.cn/men_good_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_good_w11.html.json,,N,MEN 热力11优选
+https://www.uniqlo.cn/women_move.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_move.html.json,,N,女装Move运动特辑
+https://www.uniqlo.cn/ut_top.html,HeaderFooterTemplate,MIDDLE,/data/pages/ut_top.html.json,,N,UT TOP
+https://www.uniqlo.cn/shop816.html,HeaderFooterTemplate,,/data/pages/shop816.html.json,,,菏泽万达广场店
+https://www.uniqlo.cn/c/1351435899.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435899.html.json,/c/TONGZUANG,N,童装-AIRism(舒爽舒适系列)
+https://www.uniqlo.cn/kids_project_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_project_w11.html.json,,N,KIDS 合作系列
+https://www.uniqlo.cn/shop826.html,HeaderFooterTemplate,,/data/pages/shop826.html.json,,,柳州万象城店
+https://www.uniqlo.cn/ALEXANDER_WANG_18FW_MEN.html,HeaderFooterTemplate,MIDDLE,/data/pages/ALEXANDER_WANG_18FW_MEN.html.json,,N,AWPJ_18FW_MEN
+https://www.uniqlo.cn/kids_boy_socks.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_boy_socks.html.json,,N,KIDS 男童袜子
+https://www.uniqlo.cn/women_good_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_good_w11.html.json,,N,WOMEN 热力11优选
+https://www.uniqlo.cn/shop615.html,HeaderFooterTemplate,,/data/pages/shop615.html.json,,,深圳深业上城店
+https://www.uniqlo.cn/men_move.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_move.html.json,,N,男装Move运动特辑
+https://www.uniqlo.cn/MEN_loungewear_w11.html,HeaderFooterTemplate,,/data/pages/MEN_loungewear_w11.html.json,,,MEN 热力11内衣
+https://www.uniqlo.cn/c/1292499992.html,ProductListTemplate,MIDDLE,/data/pages/c/1292499992.html.json,/c/TEBIECHIMA,N,男装 MEN
+https://www.uniqlo.cn/kids_good_w11.html,HeaderFooterTemplate,,/data/pages/kids_good_w11.html.json,,,KIDS 热力11优选
+https://www.uniqlo.cn/men_shirts.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_shirts.html.json,,N,MEN 休闲衬衫
+https://www.uniqlo.cn/kids_boy_top.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_boy_top.html.json,,N,KIDS 男童上装
+https://www.uniqlo.cn/store_list.html,HeaderFooterTemplate,MIDDLE,/data/pages/store_list.html.json,,N,新店目录
+https://www.uniqlo.cn/ALEXANDER_WANG_18FW_STORE.html,HeaderFooterTemplate,MIDDLE,/data/pages/ALEXANDER_WANG_18FW_STORE.html.json,,N,AWPJ_18FW_STORE
+https://www.uniqlo.cn/men_HEATTECH_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_HEATTECH_collection.html.json,,N,男装保暖内衣系列
+https://www.uniqlo.cn/kids_girl_bottoms.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_girl_bottoms.html.json,,N,KIDS 女童裤装裙子
+https://www.uniqlo.cn/returns.html,HeaderFooterTemplate,MIDDLE,/data/pages/returns.html.json,,N,30天无理由退货流程
+https://www.uniqlo.cn/c/WUXIANDUAN20181123.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181123.html.json,,N,无线端20181123
+https://www.uniqlo.cn/c/1418055147.html,ProductListTemplate,MIDDLE,/data/pages/c/1418055147.html.json,/c/WUXIANDUAN20181123,N,1119-1123newK&B
+https://www.uniqlo.cn/c/1418055146.html,ProductListTemplate,MIDDLE,/data/pages/c/1418055146.html.json,/c/WUXIANDUAN20181123,N,1123newK&B
+https://www.uniqlo.cn/UNIQLO_U18FW_FEATUREDITEM.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U18FW_FEATUREDITEM.html.json,,N,UNIQLO_U18FW_FEATUREDITEM
+https://www.uniqlo.cn/c/1292471262.html,ProductListTemplate,MIDDLE,/data/pages/c/1292471262.html.json,/c/CHAOZHIJINGXUAN,N,男装 MEN
+https://www.uniqlo.cn/men_project_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_project_w11.html.json,,N,MEN 合作系列
+https://www.uniqlo.cn/c/1414527865.html,ProductListTemplate,MIDDLE,/data/pages/c/1414527865.html.json,/c/UTBABY,N,DISNEY HOLIDAY
+https://www.uniqlo.cn/women_special_size_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_special_size_w11.html.json,,N,WOMEN 特别尺码
+https://www.uniqlo.cn/kids_girl_socks.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_girl_socks.html.json,,N,KIDS 女童袜子
+https://www.uniqlo.cn/testhand1.html,HeaderFooterTemplate,MIDDLE,/data/pages/testhand1.html.json,,N,testhand1
+https://www.uniqlo.cn/loungewear_w11.html,HeaderFooterTemplate,,/data/pages/loungewear_w11.html.json,,,内衣 热力11优选
+https://www.uniqlo.cn/shop796.html,HeaderFooterTemplate,,/data/pages/shop796.html.json,,,北京东直门来福士广场店
+https://www.uniqlo.cn/shop841.html,HeaderFooterTemplate,,/data/pages/shop841.html.json,,,重庆沙坪坝万达广场店
+https://www.uniqlo.cn/men_special_size_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_special_size_w11.html.json,,N,MEN 特别尺码
+https://www.uniqlo.cn/women_project_w11.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_project_w11.html.json,,N,WOMEN 合作系列
+https://www.uniqlo.cn/c/1298155771.html,ProductListTemplate,MIDDLE,/data/pages/c/1298155771.html.json,/c/UTQUANSHANGPIN,N,童装 KIDS
+https://www.uniqlo.cn/c/1421174376.html,ProductListTemplate,MIDDLE,/data/pages/c/1421174376.html.json,/c/HUORE12ZHIDEMAI,N,12.12女装值得买
+https://www.uniqlo.cn/shop803.html,HeaderFooterTemplate,,/data/pages/shop803.html.json,,,郑州正弘城店
+https://www.uniqlo.cn/women_ankle_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_ankle_pants.html.json,,N,WOMEN 九分裤
+https://www.uniqlo.cn/women_knit.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_knit.html.json,,N,WOMEN 针织衫
+https://www.uniqlo.cn/c/1421174377.html,ProductListTemplate,MIDDLE,/data/pages/c/1421174377.html.json,/c/HUORE12ZHIDEMAI,N,12.12男装值得买
+https://www.uniqlo.cn/c/1421174378.html,ProductListTemplate,MIDDLE,/data/pages/c/1421174378.html.json,/c/HUORE12ZHIDEMAI,N,12.12童婴值得买
+https://www.uniqlo.cn/women_jeans.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_jeans.html.json,,N,WOMEN 牛仔裤
+https://www.uniqlo.cn/c/1421174379.html,ProductListTemplate,MIDDLE,/data/pages/c/1421174379.html.json,/c/HUORE12ZHIDEMAI,N,12.12内衣值得买
+https://www.uniqlo.cn/c/4181207036.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207036.html.json,/c/XIANSHITEYOUM1207,N,大衣
+https://www.uniqlo.cn/c/HUORE12ZHIDEMAI.html,ProductListTemplate,MIDDLE,/data/pages/c/HUORE12ZHIDEMAI.html.json,,N,火热12值得买
+https://www.uniqlo.cn/women_dress.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_dress.html.json,,N,WOMEN 连衣裙
+https://www.uniqlo.cn/Index_cs2.html,HeaderFooterTemplate,MIDDLE,/data/pages/Index_cs2.html.json,,N,Index_cs2
+https://www.uniqlo.cn/men_loungewear.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_loungewear.html.json,,N,MEN 起居服
+https://www.uniqlo.cn/men_warmpants.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_warmpants.html.json,,N,MEN 保暖裤
+https://www.uniqlo.cn/c/3000222.html,ProductListTemplate,MIDDLE,/data/pages/c/3000222.html.json,/c/JINGXUANSHANGPINM,N,合作款内衣系列
+https://www.uniqlo.cn/c/3000221.html,ProductListTemplate,MIDDLE,/data/pages/c/3000221.html.json,/c/JINGXUANSHANGPINW,N,合作款内衣系列
+https://www.uniqlo.cn/women_warmpants.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_warmpants.html.json,,N,WOMEN 保暖裤
+https://www.uniqlo.cn/w12new.html,HeaderFooterTemplate,MIDDLE,/data/pages/w12new.html.json,,N,火热1212新品特辑
+https://www.uniqlo.cn/O2O.html,HeaderFooterTemplate,MIDDLE,/data/pages/O2O.html.json,,N,门店自提
+https://www.uniqlo.cn/0929test_11.html,NormalTemplate,MIDDLE,/data/pages/0929test_11.html.json,,N,test111
+https://www.uniqlo.cn/women_new.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_new.html.json,,N,WOMEN 优选新品
+https://www.uniqlo.cn/2018W12.html,HeaderFooterTemplate,MIDDLE,/data/pages/2018W12.html.json,,N,双十二特辑
+https://www.uniqlo.cn/women_airism.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_airism.html.json,,N,WOMEN AIRism
+https://www.uniqlo.cn/c/1420244546.html,ProductListTemplate,MIDDLE,/data/pages/c/1420244546.html.json,/c/UTMWOMEN,N,Grace Lee
+https://www.uniqlo.cn/men_accessories.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_accessories.html.json,,N,MEN 配件
+https://www.uniqlo.cn/kids_girl_top.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_girl_top.html.json,,N,KIDS 女童上装
+https://www.uniqlo.cn/kids_sports.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_sports.html.json,,N,KIDS 运动系列
+https://www.uniqlo.cn/kids_loungewear.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_loungewear.html.json,,N,KIDS 起居服
+https://www.uniqlo.cn/kids_girl_underwear.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_girl_underwear.html.json,,N,KIDS 女童内衣/短裤
+https://www.uniqlo.cn/UNIQLO_U19SS_MEN.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U19SS_MEN.html.json,,N,UNIQLO_U19SS_MEN
+https://www.uniqlo.cn/men_down.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_down.html.json,,N,MEN羽绒服
+https://www.uniqlo.cn/Shopping_Guide.html,HeaderFooterTemplate,MIDDLE,/data/pages/Shopping_Guide.html.json,,N,网上购物指南
+https://www.uniqlo.cn/women_bra.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_bra.html.json,,N,WOMEN 文胸
+https://www.uniqlo.cn/men_new.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_new.html.json,,N,MEN 优选新品
+https://www.uniqlo.cn/c/BENZHOUXINPIN20181203.html,ProductListTemplate,MIDDLE,/data/pages/c/BENZHOUXINPIN20181203.html.json,,N,本周新品（上周）
+https://www.uniqlo.cn/c/XIANSHITEYOU1213.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOU1213.html.json,,N,限时特优1213
+https://www.uniqlo.cn/men_ankle_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_ankle_pants.html.json,,N,MEN 九分裤
+https://www.uniqlo.cn/c/1419837874.html,ProductListTemplate,MIDDLE,/data/pages/c/1419837874.html.json,/c/BENZHOUXINPIN20181203,N,男装 MEN
+https://www.uniqlo.cn/c/1419837875.html,ProductListTemplate,MIDDLE,/data/pages/c/1419837875.html.json,/c/BENZHOUXINPIN20181203,N,女装 WOMEN
+https://www.uniqlo.cn/c/1419837876.html,ProductListTemplate,MIDDLE,/data/pages/c/1419837876.html.json,/c/BENZHOUXINPIN20181203,N,童装 KIDS
+https://www.uniqlo.cn/c/1419837877.html,ProductListTemplate,MIDDLE,/data/pages/c/1419837877.html.json,/c/BENZHOUXINPIN20181203,N,婴幼儿装 BABY
+https://www.uniqlo.cn/test2211.html,HeaderFooterTemplate,MIDDLE,/data/pages/test2211.html.json,,N,test2211
+https://www.uniqlo.cn/c/1420249958.html,ProductListTemplate,MIDDLE,/data/pages/c/1420249958.html.json,/c/UTBABY,N,CELEBRATE MICKEY
+https://www.uniqlo.cn/c/1420250076.html,ProductListTemplate,MIDDLE,/data/pages/c/1420250076.html.json,/c/XINSHENGER,N,幼儿-AIRism
+https://www.uniqlo.cn/c/1420245819.html,ProductListTemplate,MIDDLE,/data/pages/c/1420245819.html.json,/c/UTBABY,N,MOOMIN
+https://www.uniqlo.cn/c/1420244555.html,ProductListTemplate,MIDDLE,/data/pages/c/1420244555.html.json,/c/NVZHUANG,N,女装-束脚裤
+https://www.uniqlo.cn/c/1420244649.html,ProductListTemplate,MIDDLE,/data/pages/c/1420244649.html.json,/c/TONGZUANG,N,童装-内裤/内衣/袜子
+https://www.uniqlo.cn/c/1420244570.html,ProductListTemplate,MIDDLE,/data/pages/c/1420244570.html.json,/c/UTKIDS,N,Pieter Ceizer
+https://www.uniqlo.cn/c/1420251051.html,ProductListTemplate,MIDDLE,/data/pages/c/1420251051.html.json,/c/UTBABY,N,Pieter Ceizer
+https://www.uniqlo.cn/c/XIANSHITEYOU1207.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOU1207.html.json,,N,限时特优1207
+https://www.uniqlo.cn/c/1422529751.html,ProductListTemplate,MIDDLE,/data/pages/c/1422529751.html.json,/c/XIANSHITEYOU1213,N,男装 MEN
+https://www.uniqlo.cn/c/1422529752.html,ProductListTemplate,MIDDLE,/data/pages/c/1422529752.html.json,/c/XIANSHITEYOU1213,N,女装 WOMEN
+https://www.uniqlo.cn/c/1422529753.html,ProductListTemplate,MIDDLE,/data/pages/c/1422529753.html.json,/c/XIANSHITEYOU1213,N,童装 KIDS
+https://www.uniqlo.cn/c/1422529754.html,ProductListTemplate,MIDDLE,/data/pages/c/1422529754.html.json,/c/XIANSHITEYOU1213,N,婴幼儿装 BABY
+https://www.uniqlo.cn/c/XIANSHITEYOUM1213.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUM1213.html.json,,N,男装限时特优[12/13起]
+https://www.uniqlo.cn/c/XIANSHITEYOUW1213.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUW1213.html.json,,N,女装限时特优[12/13起]
+https://www.uniqlo.cn/shop805.html,HeaderFooterTemplate,,/data/pages/shop805.html.json,,,西安大悦城店
+https://www.uniqlo.cn/c/1421098447.html,ProductListTemplate,MIDDLE,/data/pages/c/1421098447.html.json,/c/XIANSHITEYOU1207,N,女装 WOMEN
+https://www.uniqlo.cn/c/1421098448.html,ProductListTemplate,MIDDLE,/data/pages/c/1421098448.html.json,/c/XIANSHITEYOU1207,N,童装 KIDS
+https://www.uniqlo.cn/c/1421098449.html,ProductListTemplate,MIDDLE,/data/pages/c/1421098449.html.json,/c/XIANSHITEYOU1207,N,婴幼儿装 BABY
+https://www.uniqlo.cn/c/XIANSHITEYOUW1207.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUW1207.html.json,,N,女装限时特优[12/07起]
+https://www.uniqlo.cn/c/XIANSHITEYOUK1207.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUK1207.html.json,,N,童装限时特优[12/07起]
+https://www.uniqlo.cn/c/XIANSHITEYOUB1207.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUB1207.html.json,,N,婴幼儿装限时特优[12/07起]
+https://www.uniqlo.cn/c/4181207001.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207001.html.json,/c/XIANSHITEYOUW1207,N,外套
+https://www.uniqlo.cn/c/4181207002.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207002.html.json,/c/XIANSHITEYOUW1207,N,运动系列
+https://www.uniqlo.cn/c/4181207003.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207003.html.json,/c/XIANSHITEYOUW1207,N,运动衫系列
+https://www.uniqlo.cn/c/4181207004.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207004.html.json,/c/XIANSHITEYOUW1207,N,斯文茄克·大衣
+https://www.uniqlo.cn/c/4181207005.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207005.html.json,/c/XIANSHITEYOUW1207,N,针织衫
+https://www.uniqlo.cn/c/4181207006.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207006.html.json,/c/XIANSHITEYOUW1207,N,羽绒服
+https://www.uniqlo.cn/c/4181207007.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207007.html.json,/c/XIANSHITEYOUW1207,N,高级轻型羽绒服
+https://www.uniqlo.cn/c/4181207008.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207008.html.json,/c/XIANSHITEYOUW1207,N,无缝羽绒服特辑
+https://www.uniqlo.cn/c/4181207009.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207009.html.json,/c/XIANSHITEYOUW1207,N,T恤
+https://www.uniqlo.cn/c/4181207010.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207010.html.json,/c/XIANSHITEYOUW1207,N,摇粒绒系列
+https://www.uniqlo.cn/c/4181207011.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207011.html.json,/c/XIANSHITEYOUW1207,N,摇粒绒特辑
+https://www.uniqlo.cn/c/4181207012.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207012.html.json,/c/XIANSHITEYOUW1207,N,内衣
+https://www.uniqlo.cn/c/4181207013.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207013.html.json,/c/XIANSHITEYOUW1207,N,文胸·短裤
+https://www.uniqlo.cn/c/4181207014.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207014.html.json,/c/XIANSHITEYOUW1207,N,袜子·紧身裤
+https://www.uniqlo.cn/c/4181207015.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207015.html.json,/c/XIANSHITEYOUW1207,N,HEATTECH系列
+https://www.uniqlo.cn/c/4181207016.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207016.html.json,/c/XIANSHITEYOUW1207,N,HEATTECH特辑
+https://www.uniqlo.cn/c/4181207017.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207017.html.json,/c/XIANSHITEYOUW1207,N,长裤
+https://www.uniqlo.cn/c/4181207018.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207018.html.json,/c/XIANSHITEYOUW1207,N,牛仔裤
+https://www.uniqlo.cn/c/4181207019.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207019.html.json,/c/XIANSHITEYOUW1207,N,紧身裤
+https://www.uniqlo.cn/c/4181207020.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207020.html.json,/c/XIANSHITEYOUW1207,N,保暖裤
+https://www.uniqlo.cn/c/4181207021.html,ProductListTemplate,MIDDLE,/data/pages/c/4181207021.html.json,/c/XIANSHITEYOUW1207,N,连衣裙
+https://www.uniqlo.cn/c/1420627306.html,ProductListTemplate,MIDDLE,/data/pages/c/1420627306.html.json,/c/UTMEN,N,CELEBRATE MICKEY
+https://www.uniqlo.cn/c/W12 O2O.html,ProductListTemplate,MIDDLE,/data/pages/c/W12 O2O.html.json,,N,W12 O2O
+https://www.uniqlo.cn/c/3000220.html,ProductListTemplate,MIDDLE,/data/pages/c/3000220.html.json,/c/JINGXUANSHANGPINW,N,内衣·短裤·袜子
+https://www.uniqlo.cn/c/3000219.html,ProductListTemplate,MIDDLE,/data/pages/c/3000219.html.json,/c/JINGXUANSHANGPINB,N,仿羊羔绒系列
+https://www.uniqlo.cn/c/3000208.html,ProductListTemplate,MIDDLE,/data/pages/c/3000208.html.json,/c/JINGXUANSHANGPINM,N,外套·茄克·大衣
+https://www.uniqlo.cn/c/3000209.html,ProductListTemplate,MIDDLE,/data/pages/c/3000209.html.json,/c/JINGXUANSHANGPINW,N,外套·茄克·大衣
+https://www.uniqlo.cn/c/3000212.html,ProductListTemplate,MIDDLE,/data/pages/c/3000212.html.json,/c/JINGXUANSHANGPINM,N,春季新品
+https://www.uniqlo.cn/c/3000213.html,ProductListTemplate,MIDDLE,/data/pages/c/3000213.html.json,/c/JINGXUANSHANGPINW,N,春季新品
+https://www.uniqlo.cn/c/3000214.html,ProductListTemplate,MIDDLE,/data/pages/c/3000214.html.json,/c/JINGXUANSHANGPINK,N,春季新品
+https://www.uniqlo.cn/c/3000215.html,ProductListTemplate,MIDDLE,/data/pages/c/3000215.html.json,/c/JINGXUANSHANGPINB,N,春季新品
+https://www.uniqlo.cn/c/3000216.html,ProductListTemplate,MIDDLE,/data/pages/c/3000216.html.json,/c/JINGXUANSHANGPINM,N,仿羊羔绒系列
+https://www.uniqlo.cn/c/3000217.html,ProductListTemplate,MIDDLE,/data/pages/c/3000217.html.json,/c/JINGXUANSHANGPINW,N,仿羊羔绒系列
+https://www.uniqlo.cn/c/3000218.html,ProductListTemplate,MIDDLE,/data/pages/c/3000218.html.json,/c/JINGXUANSHANGPINK,N,仿羊羔绒系列
+https://www.uniqlo.cn/mickey90.html,HeaderFooterTemplate,MIDDLE,/data/pages/mickey90.html.json,,N,Mickey90周年
+https://www.uniqlo.cn/c/1421213597.html,ProductListTemplate,MIDDLE,/data/pages/c/1421213597.html.json,/c/W12 O2O,N,人气热销
+https://www.uniqlo.cn/c/1420637081.html,ProductListTemplate,MIDDLE,/data/pages/c/1420637081.html.json,/c/UTKIDS,N,CELEBRATE MICKEY
+https://www.uniqlo.cn/c/1420637080.html,ProductListTemplate,MIDDLE,/data/pages/c/1420637080.html.json,/c/UTMWOMEN,N,CELEBRATE MICKEY
+https://www.uniqlo.cn/c/WUXIANDUAN20181203.html,ProductListTemplate,MIDDLE,/data/pages/c/WUXIANDUAN20181203.html.json,,N,无线端20181203
+https://www.uniqlo.cn/c/1421213596.html,ProductListTemplate,MIDDLE,/data/pages/c/1421213596.html.json,/c/W12 O2O,N,同款同价
+https://www.uniqlo.cn/c/1419860878.html,ProductListTemplate,MIDDLE,/data/pages/c/1419860878.html.json,/c/WUXIANDUAN20181203,N,1203newK&B
+https://www.uniqlo.cn/c/1419860879.html,ProductListTemplate,MIDDLE,/data/pages/c/1419860879.html.json,/c/WUXIANDUAN20181203,N,1126-1203newK&B
+https://www.uniqlo.cn/c/BENZHOUTEBIETUIJIAN.html,ProductListTemplate,MIDDLE,/data/pages/c/BENZHOUTEBIETUIJIAN.html.json,,N,本周特别推荐
+https://www.uniqlo.cn/men_underwear.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_underwear.html.json,,N,MEN 内衣
+https://www.uniqlo.cn/kids_baby_new.html,HeaderFooterTemplate,FILL,/data/pages/kids_baby_new.html.json,,N,KIDS&BABY 优选新品
+https://www.uniqlo.cn/baby_newborn.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_newborn.html.json,,N,BABY 新生儿
+https://www.uniqlo.cn/men_outer.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_outer.html.json,,N,MEN 外套
+https://www.uniqlo.cn/kids_boy_underwear.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_boy_underwear.html.json,,N,KIDS 男童内衣/短裤
+https://www.uniqlo.cn/UNIQLO_U19SS_STORE.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U19SS_STORE.html.json,,N,UNIQLO_U19SS_STORE
+https://www.uniqlo.cn/women_sweater.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_sweater.html.json,,N,WOMEN 运动衫
+https://www.uniqlo.cn/notice.html,HeaderFooterTemplate,MIDDLE,/data/pages/notice.html.json,,N,公告区
+https://www.uniqlo.cn/2018W12by.html,HeaderFooterTemplate,MIDDLE,/data/pages/2018W12by.html.json,,N,火热12.12活动页
+https://www.uniqlo.cn/women_HEATTECH_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_HEATTECH_collection.html.json,,N,女装保暖内衣系列
+https://www.uniqlo.cn/women_socks.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_socks.html.json,,N,WOMEN 袜子
+https://www.uniqlo.cn/c/1418289009.html,ProductListTemplate,MIDDLE,/data/pages/c/1418289009.html.json,/c/UTMEN,N,Hokusai Blue
+https://www.uniqlo.cn/kids_warmpants.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_warmpants.html.json,,N,KIDS 保暖裤
+https://www.uniqlo.cn/UNIQLO_U19SS_LOOKBOOK.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U19SS_LOOKBOOK.html.json,,N,UNIQLO_U19SS_LOOKBOOK
+https://www.uniqlo.cn/women_sports.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_sports.html.json,,N,WOMEN 运动系列
+https://www.uniqlo.cn/women_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_pants.html.json,,N,WOMEN 长裤
+https://www.uniqlo.cn/men_fleece.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_fleece.html.json,,N,男装摇粒绒
+https://www.uniqlo.cn/men_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_pants.html.json,,N, MEN 长裤
+https://www.uniqlo.cn/women_bra_in_one.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_bra_in_one.html.json,,N,WOMEN 舒美衣
+https://www.uniqlo.cn/women_heattech.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_heattech.html.json,,N,WOMEN HEATTECH
+https://www.uniqlo.cn/c/UTKIDS.html,ProductListTemplate,MIDDLE,/data/pages/c/UTKIDS.html.json,,N,UT优衣库印花系列KIDS
+https://www.uniqlo.cn/men_FLEECE_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_FLEECE_collection.html.json,,N,男装摇粒绒特辑
+https://www.uniqlo.cn/baby_loungewear.html,HeaderFooterTemplate,MIDDLE,/data/pages/baby_loungewear.html.json,,N,BABY 睡衣/内衣/配件
+https://www.uniqlo.cn/index.html,HeaderFooterTemplate,MIDDLE,/data/pages/index.html.json,,N,首页
+https://www.uniqlo.cn/c/XIANSHITEYOUK1213.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUK1213.html.json,,N,童装限时特优[12/13起]
+https://www.uniqlo.cn/c/XIANSHITEYOUB1213.html,ProductListTemplate,MIDDLE,/data/pages/c/XIANSHITEYOUB1213.html.json,,N,婴幼儿装限时特优[12/13起]
+https://www.uniqlo.cn/c/4181213001.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213001.html.json,/c/XIANSHITEYOUW1213,N,外套
+https://www.uniqlo.cn/c/4181213002.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213002.html.json,/c/XIANSHITEYOUW1213,N,衬衫
+https://www.uniqlo.cn/c/4181213003.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213003.html.json,/c/XIANSHITEYOUW1213,N,运动系列
+https://www.uniqlo.cn/c/4181213004.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213004.html.json,/c/XIANSHITEYOUW1213,N,运动衫系列
+https://www.uniqlo.cn/c/4181213005.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213005.html.json,/c/XIANSHITEYOUW1213,N,针织衫
+https://www.uniqlo.cn/c/4181213006.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213006.html.json,/c/XIANSHITEYOUW1213,N,羽绒服
+https://www.uniqlo.cn/c/4181213007.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213007.html.json,/c/XIANSHITEYOUW1213,N,高级轻型羽绒服
+https://www.uniqlo.cn/c/4181213008.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213008.html.json,/c/XIANSHITEYOUW1213,N,无缝羽绒服特辑
+https://www.uniqlo.cn/c/4181213009.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213009.html.json,/c/XIANSHITEYOUW1213,N,T恤
+https://www.uniqlo.cn/c/4181213010.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213010.html.json,/c/XIANSHITEYOUW1213,N,摇粒绒系列
+https://www.uniqlo.cn/c/4181213011.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213011.html.json,/c/XIANSHITEYOUW1213,N,摇粒绒特辑
+https://www.uniqlo.cn/c/4181213012.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213012.html.json,/c/XIANSHITEYOUW1213,N,起居服
+https://www.uniqlo.cn/c/4181213013.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213013.html.json,/c/XIANSHITEYOUW1213,N,内衣
+https://www.uniqlo.cn/c/4181213014.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213014.html.json,/c/XIANSHITEYOUW1213,N,舒美衣
+https://www.uniqlo.cn/c/4181213015.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213015.html.json,/c/XIANSHITEYOUW1213,N,袜子·紧身裤
+https://www.uniqlo.cn/c/4181213016.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213016.html.json,/c/XIANSHITEYOUW1213,N,HEATTECH系列
+https://www.uniqlo.cn/c/4181213017.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213017.html.json,/c/XIANSHITEYOUW1213,N,HEATTECH特辑
+https://www.uniqlo.cn/c/4181213018.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213018.html.json,/c/XIANSHITEYOUW1213,N,长裤
+https://www.uniqlo.cn/c/4181213019.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213019.html.json,/c/XIANSHITEYOUW1213,N,九分裤
+https://www.uniqlo.cn/c/4181213020.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213020.html.json,/c/XIANSHITEYOUW1213,N,牛仔裤
+https://www.uniqlo.cn/c/4181213021.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213021.html.json,/c/XIANSHITEYOUW1213,N,紧身裤
+https://www.uniqlo.cn/c/4181213022.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213022.html.json,/c/XIANSHITEYOUW1213,N,保暖裤
+https://www.uniqlo.cn/c/4181213023.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213023.html.json,/c/XIANSHITEYOUW1213,N,配件
+https://www.uniqlo.cn/c/4181213024.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213024.html.json,/c/XIANSHITEYOUW1213,N,孕妇装
+https://www.uniqlo.cn/c/4181213025.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213025.html.json,/c/XIANSHITEYOUM1213,N,外套
+https://www.uniqlo.cn/c/4181213026.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213026.html.json,/c/XIANSHITEYOUM1213,N,衬衫
+https://www.uniqlo.cn/c/4181213027.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213027.html.json,/c/XIANSHITEYOUM1213,N,T恤
+https://www.uniqlo.cn/c/4181213028.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213028.html.json,/c/XIANSHITEYOUM1213,N,针织衫
+https://www.uniqlo.cn/c/4181213029.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213029.html.json,/c/XIANSHITEYOUM1213,N,羽绒服
+https://www.uniqlo.cn/c/4181213030.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213030.html.json,/c/XIANSHITEYOUM1213,N,摇粒绒
+https://www.uniqlo.cn/c/4181213031.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213031.html.json,/c/XIANSHITEYOUM1213,N,运动系列
+https://www.uniqlo.cn/c/4181213032.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213032.html.json,/c/XIANSHITEYOUM1213,N,长裤
+https://www.uniqlo.cn/c/4181213033.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213033.html.json,/c/XIANSHITEYOUM1213,N,牛仔裤
+https://www.uniqlo.cn/c/4181213034.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213034.html.json,/c/XIANSHITEYOUM1213,N,保暖裤
+https://www.uniqlo.cn/c/4181213035.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213035.html.json,/c/XIANSHITEYOUM1213,N,起居系列
+https://www.uniqlo.cn/c/4181213036.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213036.html.json,/c/XIANSHITEYOUM1213,N,内衣
+https://www.uniqlo.cn/c/4181213037.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213037.html.json,/c/XIANSHITEYOUM1213,N,HEATTECH系列
+https://www.uniqlo.cn/c/4181213038.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213038.html.json,/c/XIANSHITEYOUM1213,N,配件
+https://www.uniqlo.cn/c/4181213039.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213039.html.json,/c/XIANSHITEYOUK1213,N,男童外套
+https://www.uniqlo.cn/c/4181213040.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213040.html.json,/c/XIANSHITEYOUK1213,N,女童外套
+https://www.uniqlo.cn/c/4181213041.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213041.html.json,/c/XIANSHITEYOUK1213,N,HEATTECH
+https://www.uniqlo.cn/c/4181213042.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213042.html.json,/c/XIANSHITEYOUK1213,N,男童裤装
+https://www.uniqlo.cn/c/4181213043.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213043.html.json,/c/XIANSHITEYOUK1213,N,女童裤装
+https://www.uniqlo.cn/c/4181213044.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213044.html.json,/c/XIANSHITEYOUK1213,N,起居服
+https://www.uniqlo.cn/c/4181213045.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213045.html.json,/c/XIANSHITEYOUK1213,N,保暖裤
+https://www.uniqlo.cn/c/4181213046.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213046.html.json,/c/XIANSHITEYOUK1213,N,紧身裤
+https://www.uniqlo.cn/c/4181213047.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213047.html.json,/c/XIANSHITEYOUK1213,N,童装内衣
+https://www.uniqlo.cn/c/4181213048.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213048.html.json,/c/XIANSHITEYOUK1213,N,UT系列
+https://www.uniqlo.cn/c/4181213049.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213049.html.json,/c/XIANSHITEYOUB1213,N,幼儿上装
+https://www.uniqlo.cn/c/4181213050.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213050.html.json,/c/XIANSHITEYOUB1213,N,幼儿下装
+https://www.uniqlo.cn/c/4181213051.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213051.html.json,/c/XIANSHITEYOUB1213,N,幼儿起居
+https://www.uniqlo.cn/c/4181213052.html,ProductListTemplate,MIDDLE,/data/pages/c/4181213052.html.json,/c/XIANSHITEYOUB1213,N,婴儿服
+https://www.uniqlo.cn/women_uld.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_uld.html.json,,N,WOMEN 高级轻型羽绒服
+https://www.uniqlo.cn/men_tshirt.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_tshirt.html.json,,N,MEN T恤
+https://www.uniqlo.cn/product-detail.html,ProductDetailTemplate,MIDDLE,/data/pages/product-detail.html.json,,N,产品详情
+https://www.uniqlo.cn/women_outer.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_outer.html.json,,N,WOMEN 外套
+https://www.uniqlo.cn/women_jacket.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_jacket.html.json,,N,WOMEN 茄克大衣
+https://www.uniqlo.cn/women_accessories.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_accessories.html.json,,N,WOMEN 配件
+https://www.uniqlo.cn/maternity.html,HeaderFooterTemplate,MIDDLE,/data/pages/maternity.html.json,,N,WOMEN 孕妇装
+https://www.uniqlo.cn/women_skirt.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_skirt.html.json,,N,WOMEN 裙子
+https://www.uniqlo.cn/women_seamless_down.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_seamless_down.html.json,,N,无缝羽绒服
+https://www.uniqlo.cn/women_skinny_pants.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_skinny_pants.html.json,,N,WOMEN 紧身裤
+https://www.uniqlo.cn/c/1409711053.html,ProductListTemplate,MIDDLE,/data/pages/c/1409711053.html.json,/c/UTKIDS,N,PEANUTS
+https://www.uniqlo.cn/kids_boy_bottoms.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_boy_bottoms.html.json,,N,KIDS 男童裤装
+https://www.uniqlo.cn/Index_cs.html,HeaderFooterTemplate,MIDDLE,/data/pages/Index_cs.html.json,,N,Index_cs
+https://www.uniqlo.cn/women_FLEECE_collection.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_FLEECE_collection.html.json,,N,女装摇粒绒特辑
+https://www.uniqlo.cn/kids_girl_outer.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_girl_outer.html.json,,N,KIDS 女童外套
+https://www.uniqlo.cn/women_loungewear.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_loungewear.html.json,,N,WOMEN 起居服
+https://www.uniqlo.cn/men_uld.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_uld.html.json,,N,MEN 高级轻型羽绒服
+https://www.uniqlo.cn/kids_boy_outer.html,HeaderFooterTemplate,MIDDLE,/data/pages/kids_boy_outer.html.json,,N,KIDS 男童外套
+https://www.uniqlo.cn/men_sports.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_sports.html.json,,N,MEN 运动系列
+https://www.uniqlo.cn/UNIQLO_U19SS_WOMEN.html,HeaderFooterTemplate,MIDDLE,/data/pages/UNIQLO_U19SS_WOMEN.html.json,,N,UNIQLO_U19SS_WOMEN
+https://www.uniqlo.cn/men_jacket.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_jacket.html.json,,N,MEN 茄克大衣
+https://www.uniqlo.cn/women_shirt.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_shirt.html.json,,N,WOMEN 衬衫
+https://www.uniqlo.cn/women_down.html,HeaderFooterTemplate,MIDDLE,/data/pages/women_down.html.json,,N,WOMEN羽绒服
+https://www.uniqlo.cn/w12_special.html,HeaderFooterTemplate,MIDDLE,/data/pages/w12_special.html.json,,N,双十二特辑
+https://www.uniqlo.cn/men_jeans.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_jeans.html.json,,N,MEN 牛仔裤
+https://www.uniqlo.cn/c/1284704751.html,ProductListTemplate,MIDDLE,/data/pages/c/1284704751.html.json,/c/UTMWOMEN,N,PEANUTS
+https://www.uniqlo.cn/c/1052132580.html,ProductListTemplate,MIDDLE,/data/pages/c/1052132580.html.json,/c/TONGZUANG,N,童装-HEATTECH(温暖内衣系列)
+https://www.uniqlo.cn/men_sweater.html,HeaderFooterTemplate,MIDDLE,/data/pages/men_sweater.html.json,,N,MEN 运动衫
+https://www.uniqlo.cn/c/1351435898.html,ProductListTemplate,MIDDLE,/data/pages/c/1351435898.html.json,/c/TONGZUANG,N,女童-紧身裤
+https://www.uniqlo.cn/register.html,LoginRegisterTemplate,MIDDLE,/data/pages/register.html.json,,N,用户注册

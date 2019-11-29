@@ -1,0 +1,2 @@
+str = 'aaaaaa'
+print(str)

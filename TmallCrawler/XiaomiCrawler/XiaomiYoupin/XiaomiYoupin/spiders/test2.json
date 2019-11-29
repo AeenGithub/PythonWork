@@ -1,0 +1,4865 @@
+{
+  "code": 0,
+  "message": "ok",
+  "channel": "",
+  "version": "1.0.0",
+  "serverTime": 1558580395,
+  "orgData": null,
+  "data": {
+    "address": null,
+    "gid": 103493,
+    "activity": {
+      "gidAct": {
+        "actType": "",
+        "actInfo": {},
+        "salePromotion": []
+      },
+      "pidAct": {
+        "16195": {
+          "actType": "",
+          "actInfo": {},
+          "salePromotion": null
+        },
+        "19906": {
+          "actType": "",
+          "actInfo": {},
+          "salePromotion": null
+        }
+      }
+    },
+    "youpinLogo": {
+      "needYoupinLogo": 1,
+      "youpinLogoUrl": "https://img.youpin.mi-img.com/editor1/ce497b9d0341ac785d77e343dddab7e7.png?w=1080&h=111"
+    },
+    "couponsInfo": {
+      "gidCoupons": {
+        "fetchableCoupons": [],
+        "ownedCoupons": []
+      },
+      "pidCoupons": {},
+      "gidMixSortedCoupons": [],
+      "pidMixSortedCoupons": {}
+    },
+    "goods": {
+      "shareInfo": {
+        "contentMap": {
+          "pyq": "link",
+          "mx": "link",
+          "wb": "link",
+          "title": "Clean-n-Fresh宠物护毛素",
+          "wbContent": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "pics": "http://api.io.mi.com/app/shop/zimg2?thumb=https%3A%2F%2Fimg.youpin.mi-img.com%2F800_pic%2Fa711edb42c8a7fd73b9a2c99f2cfbad9.png%40base%40tag%3DimgScale%26h%3D350%26w%3D350%26et%3D1%26eth%3D480%26etw%3D480%26etc%3DFFFFFF&pic=https%3A%2F%2Fimg.youpin.mi-img.com%2Fgoods%2Fshop_f7f42628c9a5d05823c25f70fbafd681.jpeg%3F_s%3Dks3",
+          "content": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "url": "http://m.youpin.mi.com/shop/detail?gid=103493",
+          "ml": "link"
+        },
+        "poster": {
+          "title": "Clean-n-Fresh宠物护毛素",
+          "desc": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "img": "https://img.youpin.mi-img.com/800_pic/0df37c10840993298afa817df5befc37.jpg",
+          "price": 5490,
+          "priceMore": 0,
+          "tag": ""
+        }
+      },
+      "carouselMapList": [
+        {
+          "type": 0,
+          "url": "https://img.youpin.mi-img.com/goods/shop_f7f42628c9a5d05823c25f70fbafd681.jpeg?_s=ks3"
+        },
+        {
+          "type": 0,
+          "url": "https://img.youpin.mi-img.com/goods/shop_c2bde24d410b543987439e9b2220f61c.jpeg?_s=ks3"
+        },
+        {
+          "type": 0,
+          "url": "https://img.youpin.mi-img.com/goods/shop_66b37e2a2888ae13b9395908593e1661.jpeg?_s=ks3"
+        },
+        {
+          "type": 0,
+          "url": "https://img.youpin.mi-img.com/goods/shop_7f9c733aa31f8cc0a1aac839709ddd11.jpeg?_s=ks3"
+        },
+        {
+          "type": 0,
+          "url": "https://img.youpin.mi-img.com/goods/shop_a5600404a00ad3dde04bf7c7f6cedfd6.jpeg?_s=ks3"
+        }
+      ],
+      "goodTypeForButton": 1,
+      "shopTags": [
+        {
+          "tid": 1168,
+          "name": "规格",
+          "parentId": 0,
+          "rootId": 0,
+          "level": 1,
+          "oder": 0,
+          "cid": 0,
+          "visible": 1,
+          "tags": [
+            {
+              "tid": 5454,
+              "name": "普通款",
+              "parentId": 1168,
+              "rootId": 0,
+              "level": 2,
+              "oder": 0,
+              "cid": 0,
+              "visible": 0,
+              "tags": null
+            }
+          ]
+        }
+      ],
+      "customSupport": null,
+      "services": {
+        "2": {
+          "type": null,
+          "text": "满99包邮"
+        },
+        "6": {
+          "type": null,
+          "text": "有品三方"
+        },
+        "7": {
+          "type": null,
+          "text": "7天无理由"
+        }
+      },
+      "specialPromotionPrice": null,
+      "productInfo": {
+        "16195": {
+          "pid": 16195,
+          "gid": 103493,
+          "picURL": null,
+          "summary": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "name": "宠物护毛素",
+          "firstTime": 1535076000,
+          "latestTime": 1535076000,
+          "inventory": 1024,
+          "marketPrice": 5490,
+          "price": 5490,
+          "status": 1,
+          "buyLimit": 5,
+          "saled": 1002,
+          "buyURL": "",
+          "mapId": 0,
+          "refoundPolicy": {
+            "policy_id": "1",
+            "is_support": true,
+            "description": "支持7天无理由退货"
+          },
+          "skuId": 0,
+          "depot": 0,
+          "usePrice": 1,
+          "labels": null,
+          "postWeight": 601,
+          "proprietor": 208,
+          "consignor": 65,
+          "afterSaleAgent": 208,
+          "brandPrincipalPart": 208,
+          "specialPostage": 0,
+          "customerServiceAgent": 208,
+          "postageType": 0,
+          "img": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "img800": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png@base@tag=imgScale&w=240&h=240",
+          "saleWeight": 1,
+          "ypSkuList": [
+            {
+              "skuId": 10006858,
+              "pssSkuId": 3006858,
+              "count": 1
+            }
+          ],
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "oder": 0,
+          "onSale": true,
+          "preDeliveryTime": null,
+          "totalInventory": null,
+          "totalSaled": null,
+          "validate": 0,
+          "promotionType": null,
+          "isPromote": false,
+          "saleMode": "YOUPIN_SELL"
+        },
+        "19906": {
+          "pid": 19906,
+          "gid": 103493,
+          "picURL": null,
+          "summary": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "name": "宠物护毛素 秒杀款",
+          "firstTime": 1541736000,
+          "latestTime": 1541736000,
+          "inventory": 0,
+          "marketPrice": 1111,
+          "price": 1111,
+          "status": -1,
+          "buyLimit": 5,
+          "saled": 50,
+          "buyURL": "",
+          "mapId": 0,
+          "refoundPolicy": {
+            "policy_id": "1",
+            "is_support": true,
+            "description": "支持7天无理由退货"
+          },
+          "skuId": 0,
+          "depot": 0,
+          "usePrice": 0,
+          "labels": null,
+          "postWeight": 620,
+          "proprietor": 208,
+          "consignor": 65,
+          "afterSaleAgent": 208,
+          "brandPrincipalPart": 208,
+          "specialPostage": 0,
+          "customerServiceAgent": 208,
+          "postageType": 0,
+          "img": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "img800": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png@base@tag=imgScale&w=240&h=240",
+          "saleWeight": 1,
+          "ypSkuList": [
+            {
+              "skuId": 10006858,
+              "pssSkuId": 3006858,
+              "count": 1
+            }
+          ],
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "oder": 0,
+          "onSale": false,
+          "preDeliveryTime": null,
+          "totalInventory": null,
+          "totalSaled": null,
+          "validate": 0,
+          "promotionType": null,
+          "isPromote": false,
+          "saleMode": "YOUPIN_SELL"
+        }
+      },
+      "labels": null,
+      "crowdFunding": null,
+      "aiSupport": {
+        "gidAi": {
+          "isAi": 0,
+          "aiType": 0,
+          "aiInfo": null
+        },
+        "pidAi": {}
+      },
+      "buySupport": null,
+      "propTags": [
+        {
+          "pid": 16195,
+          "tid": 5454,
+          "oder": 0
+        },
+        {
+          "pid": 19906,
+          "tid": 0,
+          "oder": 0
+        }
+      ],
+      "oneYuanSupport": {
+        "isOneYuan": 0,
+        "oneYuanInfo": null
+      },
+      "category": {
+        "oldCid1": 319,
+        "oldCname1": "日杂",
+        "oldCid2": 407,
+        "oldCname2": "日用",
+        "cid1": 2147,
+        "cname1": "日杂文创",
+        "cid2": 2228,
+        "cname2": "宠物",
+        "cid3": 2580,
+        "cname3": "宠物用品",
+        "newCid1": 5,
+        "newCname1": "宠物生活",
+        "newCid2": 66,
+        "newCname2": "洗护美容",
+        "newCid3": 624,
+        "newCname3": "护毛素"
+      },
+      "brand": {
+        "brandName": "Clean-n-Fresh",
+        "brandId": 214,
+        "brandLogo": "https://shop.io.mi-img.com/app/shop/img?id=shop_e507509b3d01520bd89452c30492fab7.jpeg&w=300&h=300",
+        "brandSlogan": "把更便捷、高端的产品带到人们身边",
+        "jumpURL": "https://m.youpin.mi.com/flagshipstore?id=816&title=Clean-n-Fresh",
+        "type": 0,
+        "merchantContact": "0574-87218619",
+        "merchantName": "宁波乐派日用品有限公司",
+        "merchantAddress": "余姚市兰江街道凤亭村莫郎墩3号",
+        "miMerchantId": 926,
+        "merchantQualification": "{\"register_no\":\"91330281316854002G\",\"expiry_dates\":\"长期\",\"scope\":\"日用品、家用电器及配件、手机配件、塑料制品、五金制品的批发零售等\",\"operating_start\":\"-\",\"operating_end\":\"-\",\"merchant_business_licence\":\"https:\\/\\/img.youpin.mi-img.com\\/merchant\\/1544512152.jpeg\"}",
+        "miSkillId": "public_92600001",
+        "qualificationPic": null,
+        "merchantShortName": "宁波乐派日用品有限公司",
+        "merchantLogo": null,
+        "ucid": 816,
+        "ucName": "Clean-n-Fresh",
+        "ucExtId": 214,
+        "merchantId": 208,
+        "merchantSignKey": null,
+        "merchantDesc": null,
+        "merchantSlogan": null,
+        "merchantPinkage": 0,
+        "merchantFreight": 0,
+        "merchantPostageDescription": ""
+      },
+      "goodsInfo": {
+        "gid": 103493,
+        "priceMin": 5490,
+        "priceTag": false,
+        "marketPrice": 5490,
+        "name": "Clean-n-Fresh宠物护毛素",
+        "summary": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+        "imgSquare": "https://img.youpin.mi-img.com/800_pic/0df37c10840993298afa817df5befc37.jpg",
+        "imgHorizon": "https://img.youpin.mi-img.com/800_pic/468e46b4cbb348ebdcddb97ac8c49e2d.jpg",
+        "img800": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png",
+        "img800s": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png",
+        "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103493",
+        "pids": [
+          16195,
+          19906
+        ],
+        "saleStatus": 1,
+        "saleType": "NORMAL",
+        "inventory": 1024,
+        "saleMode": "YOUPIN_SELL",
+        "firstTime": 1535076000,
+        "latestTime": 1541736000,
+        "shareDesc": {
+          "sub_title": "专业护理，闭合毛鳞，毛发柔顺，无泪配方",
+          "share_type": 0,
+          "main_title": "Clean-n-Fresh宠物护毛素"
+        },
+        "isCustom": 0,
+        "attrExt": {
+          "custom_name": "宠物护毛素",
+          "price_tag": 0,
+          "consignor": 65,
+          "custom_summary": "专业护理，闭合毛鳞，毛发柔顺"
+        },
+        "imgSafeArea": 1,
+        "primaryPid": 0,
+        "colorNum": null,
+        "service": [
+          2,
+          6,
+          7
+        ],
+        "introExt": [
+          {
+            "id": "",
+            "url": "https://home.mi.com/app/shop/content?id=o5b9a9039e32f7162",
+            "title": "功能详情"
+          },
+          {
+            "id": "",
+            "url": "https://home.mi.com/app/shop/content?id=p02fe90392f8a8f33",
+            "title": "常见问题"
+          },
+          {
+            "id": "",
+            "url": "https://home.mi.com/app/shop/content?id=qaa6290395af59d14",
+            "title": "检测报告"
+          }
+        ],
+        "evaluateAvg": 0,
+        "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+        "onSale": true,
+        "picUrl": "https://img.youpin.mi-img.com/800_pic/a711edb42c8a7fd73b9a2c99f2cfbad9.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+        "ctime": 1535009049,
+        "saled": 1043,
+        "saledFee": 4687130,
+        "businessId": 3,
+        "businessName": "母婴健康业务部",
+        "compressedImg800": "https://img.youpin.mi-img.com/800_pic/03ec90eae320bc9149e4f65065769187.png@base@tag=imgScale&w=240&h=240",
+        "platform": 127
+      }
+    },
+    "cartCount": 0,
+    "newUserWelcome": {
+      "picUrl": "https://img.youpin.mi-img.com/yingkebao/fc6d5d9aad72244bc1ed17556acfb656.png?w=1080&h=120",
+      "jumpUrl": "https://m.youpin.mi.com/app/shop/pages/2018/act/newUser/index.html",
+      "startTime": 1555049034,
+      "endTime": 0,
+      "toastDays": 0,
+      "toastCount": 0,
+      "interval": 0,
+      "elapse": 0
+    },
+    "button": {
+      "gidButton": [
+        {
+          "type": 10,
+          "text": "加入购物车",
+          "url": null
+        },
+        {
+          "type": 11,
+          "text": "立即购买",
+          "url": null
+        }
+      ],
+      "pidButton": {
+        "16195": [
+          {
+            "type": 10,
+            "text": "加入购物车",
+            "url": null
+          },
+          {
+            "type": 11,
+            "text": "立即购买",
+            "url": null
+          }
+        ],
+        "19906": [
+          {
+            "type": 1,
+            "text": "已下架",
+            "url": null
+          }
+        ]
+      },
+      "oneYuanButton": null
+    },
+    "activityReserveUser": null,
+    "topRec": [
+      {
+        "goodsInfo": {
+          "gid": 102385,
+          "priceMin": 3000,
+          "priceTag": true,
+          "marketPrice": 3900,
+          "name": "寻味精油香氛花露水 50ml",
+          "summary": "止痒祛痱，缓解红肿，植物精油",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/102385_b9cb6eb195c7eef590f98eb56c4f4106.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/102385_fa3fc7205a15b400eb3bda0c28de5f0a.jpg",
+          "img800": "http://img.youpin.mi-img.com/800_pic/102385_aa22510be25801d22be29b52384ec95a.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/484745a7ea14ef51510118ce3c4df376.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=102385",
+          "pids": [
+            12677,
+            12678,
+            14473,
+            14475,
+            14476
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 710,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1532404050,
+          "latestTime": 1532685493,
+          "shareDesc": {
+            "sub_title": "止痒祛痱，缓解红肿，植物精油",
+            "share_type": 0,
+            "main_title": "寻味精油香氛花露水 50ml"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "精油香氛花露水",
+            "price_tag": 1,
+            "custom_summary": "止痒祛痱，缓解红肿，植物精油",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=Vf8f4903976fdd3d3",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m605290395c00ff41",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n605290395c00ff41",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/102385_aa22510be25801d22be29b52384ec95a.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "http://img.youpin.mi-img.com/800_pic/102385_aa22510be25801d22be29b52384ec95a.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1529580457,
+          "saled": 11486,
+          "saledFee": 43340207,
+          "businessId": 6,
+          "businessName": "饮食洗护业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/484745a7ea14ef51510118ce3c4df376.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降9元",
+            "ext": {
+              "price": "900"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省嘉兴市秀洲区岗山路75号1号库6号门",
+          "name": "李月",
+          "phone": "13355832805"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 100865,
+          "priceMin": 9900,
+          "priceTag": false,
+          "marketPrice": 9900,
+          "name": "知吾煮汤锅 米家定制",
+          "summary": "聚热快，受热匀，食品级不粘涂层，适用多种炉具",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/100865_a8256cba51512b61258f803f79e24312.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/100865_8f0061606b9ebd6a7385cca0c29128a1.jpg",
+          "img800": "http://img.youpin.mi-img.com/800_pic/100865_f77ba95d87f1a3af660d566cf8611ee0.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/7cbbc6567e934c16f4c8f5bbda35c20c.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=100865",
+          "pids": [
+            7349
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1991,
+          "saleMode": "INDEPENDENT_INVENTROY",
+          "firstTime": 1532416420,
+          "latestTime": 1532416420,
+          "shareDesc": {
+            "sub_title": "聚热快，受热匀，食品级不沾涂层，适用多种炉具",
+            "share_type": 0,
+            "main_title": "知吾煮汤锅 米家定制"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "知吾煮汤锅",
+            "price_tag": 0,
+            "custom_summary": "聚热快，受热匀，食品级不粘涂层"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            3,
+            5
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q3ce8d039039a04f3",
+              "title": "概述"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=re44cd0393ef512d4",
+              "title": "参数"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/100865_f77ba95d87f1a3af660d566cf8611ee0.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://shop.io.mi-img.com/app/shop/img?id=shop_d174b31cad1a338114d761acdc6a5468.png",
+          "ctime": 1513847902,
+          "saled": 23054,
+          "saledFee": 222802109,
+          "businessId": 2,
+          "businessName": "居家家装业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/7cbbc6567e934c16f4c8f5bbda35c20c.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "3": {
+            "type": null,
+            "text": "满150包邮"
+          },
+          "5": {
+            "type": null,
+            "text": "小米自营"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "北京市海淀区安宁庄西路 小米六期",
+          "name": "小米客服",
+          "phone": "4001005678"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103185,
+          "priceMin": 7900,
+          "priceTag": false,
+          "marketPrice": 7900,
+          "name": "茶水分离随行杯",
+          "summary": "时尚颜值，食品可接触材料，杯体防摔防烫，300ml容量",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/60a644e040a8e71d8ef3405b5309844a.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/103185_d9f7ea9c1a2b0c3b2a1f2ecb7187682a.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/47cf30adad791ed042ce207092c30872.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/fbd262ad0442e29c659bc1119084fe3f.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103185",
+          "pids": [
+            15223,
+            20372,
+            38518
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 14663,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1533953601,
+          "latestTime": 1558524055,
+          "shareDesc": {
+            "sub_title": "时尚颜值，食品可接触材料，杯体防摔防烫，300ml容量",
+            "share_type": 0,
+            "main_title": "茶水分离随行杯"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "茶水分离随行杯",
+            "price_tag": 0,
+            "custom_summary": "食品可接触材料，杯体防摔防烫",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": 3,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=od3621039106c5082",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=p7ac610395bc76e53",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=q222a103996337c34",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/47cf30adad791ed042ce207092c30872.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/47cf30adad791ed042ce207092c30872.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1533793589,
+          "saled": 87480,
+          "saledFee": 595624524,
+          "businessId": 2,
+          "businessName": "居家家装业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/fbd262ad0442e29c659bc1119084fe3f.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "杭州市余杭区南苑街道迎宾路555号杭州555电商创意产业园二期21号楼",
+          "name": "平仄售后",
+          "phone": "189 8984 5235"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103360,
+          "priceMin": 2900,
+          "priceTag": false,
+          "marketPrice": 2900,
+          "name": "小米炫彩小背包",
+          "summary": "4级防泼水，10L容量，轻盈背负，YKK拉链",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/2d5a51798b7a750e086e83302d700187.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/1a5c0f6855b444b19e1eb3cf36fa6b0b.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/da3389a9a82a72257357b1df8acdce9c.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/ed26a9f29260cc3ce360872349e35f42.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103360",
+          "pids": [
+            15738,
+            15739,
+            15740,
+            15741,
+            15742,
+            15743,
+            15744,
+            15745
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 10216,
+          "saleMode": "INDEPENDENT_INVENTROY",
+          "firstTime": 1534490841,
+          "latestTime": 1545629368,
+          "shareDesc": {
+            "sub_title": "4级防泼水，10L容量，轻盈背负，YKK拉链",
+            "share_type": 0,
+            "main_title": "小米炫彩小背包"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "炫彩小背包",
+            "price_tag": 0,
+            "custom_summary": "4级防泼水，10L容量"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": 8,
+          "service": [
+            3,
+            5,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p0ade90394aac78f2",
+              "title": "产品介绍"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=r59a69039b08394b4",
+              "title": "检验报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/da3389a9a82a72257357b1df8acdce9c.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/da3389a9a82a72257357b1df8acdce9c.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1534488575,
+          "saled": 57060,
+          "saledFee": 155894423,
+          "businessId": 7,
+          "businessName": "运动户外业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/ed26a9f29260cc3ce360872349e35f42.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "3": {
+            "type": null,
+            "text": "满150包邮"
+          },
+          "5": {
+            "type": null,
+            "text": "小米自营"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "北京市海淀区安宁庄西路 小米六期",
+          "name": "小米客服",
+          "phone": "4001005678"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 106722,
+          "priceMin": 2990,
+          "priceTag": true,
+          "marketPrice": 2990,
+          "name": "三珍斋多口味散装手工粽 1040g 8粒",
+          "summary": "古法洗腌糯米、文火慢煮入味，还原旧时江南滋味",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/0795953f4df4d81b0d2f4342d43cad1d.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/58c9ba3caf918f333ebe196fbfed4e47.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/ea13a2e4a8f3405f7dcf60f77b541d09.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/dcb0f72420f24c9ee242e061d87076e7.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=106722",
+          "pids": [
+            40528,
+            40529
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 5355,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1556416801,
+          "latestTime": 1558514335,
+          "shareDesc": {
+            "sub_title": "古法洗腌糯米、文火慢煮入味，还原旧时江南滋味",
+            "share_type": 0,
+            "main_title": "三珍斋多口味散装手工粽 1040g 8粒"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "三珍斋多口味散装手工粽 1040g 8粒",
+            "price_tag": 1,
+            "custom_summary": "古法洗腌糯米、文火慢煮入味",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=uefbb7039764ad547",
+              "title": "产品介绍"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=V522b7039999cadc3",
+              "title": "常见问题"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=mb98970396faeb941",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/ea13a2e4a8f3405f7dcf60f77b541d09.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/ea13a2e4a8f3405f7dcf60f77b541d09.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1556180898,
+          "saled": 2391,
+          "saledFee": 7790258,
+          "businessId": 6,
+          "businessName": "饮食洗护业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/dcb0f72420f24c9ee242e061d87076e7.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省桐乡市乌镇镇环城东路工业园区嘉兴三珍斋食品有限公司",
+          "name": "寿能娣",
+          "phone": "13484126552"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 101909,
+          "priceMin": 9900,
+          "priceTag": true,
+          "marketPrice": 9900,
+          "name": "COMO LIVING天竺棉抗菌针织夏凉被",
+          "summary": "新疆长绒棉，抗菌棉填充，柔和马卡龙色",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/101909_3a83f90b9536a06e41fed2503cba5a56.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/101909_4dc347c7d7065c69ae7f54875a611fa6.jpg",
+          "img800": "http://img.youpin.mi-img.com/800_pic/5f88a72f75197139a00f9c7b56c2c2af.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/5a5522c65dd7c4fc0bb1474bb2e67b3b.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=101909",
+          "pids": [
+            10617,
+            10618,
+            10619,
+            10620,
+            10621,
+            10622,
+            10623,
+            10624,
+            10625,
+            13362,
+            13363,
+            13364
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 272,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1538277584,
+          "latestTime": 1538277584,
+          "shareDesc": {
+            "sub_title": "新疆长绒棉，抗菌棉填充，柔和马卡龙色",
+            "share_type": 0,
+            "main_title": "COMO LIVING天竺棉抗菌针织夏凉被"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "天竺棉抗菌针织夏凉被",
+            "price_tag": 1,
+            "custom_summary": "柔软亲肤，抗菌棉填充",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": 4,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o07059039462a9dd1",
+              "title": "产品介绍"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=mff89903988f3ada1",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p50df9039f93175a2",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/5f88a72f75197139a00f9c7b56c2c2af.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "http://img.youpin.mi-img.com/800_pic/5f88a72f75197139a00f9c7b56c2c2af.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1525957222,
+          "saled": 4744,
+          "saledFee": 68924275,
+          "businessId": 2,
+          "businessName": "居家家装业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/5a5522c65dd7c4fc0bb1474bb2e67b3b.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "山东省青岛市即墨区恒山路79号莫特斯家居",
+          "name": "王振",
+          "phone": "15192566226"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103639,
+          "priceMin": 9900,
+          "priceTag": false,
+          "marketPrice": 9900,
+          "name": "小寻儿童头盔运动护具组合",
+          "summary": "[适用于3~12岁]酷帅造型，安全环保，透气性好，头围可调",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/82a36327bf693dc36ed37386ce6f89ee.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/ea7cb421b2e466fbd15ecd4f1e250e0a.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/3de9f18d6793bb6d166bfa260b8042a2.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/750329c4eeef5b025036475ccb688dea.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103639",
+          "pids": [
+            16914,
+            16915,
+            16916,
+            16917
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 821,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1536804000,
+          "latestTime": 1557829103,
+          "shareDesc": {
+            "sub_title": "[适用于3~12岁]酷帅造型，安全环保，透气性好，头围可调",
+            "share_type": 0,
+            "main_title": "小寻儿童头盔运动护具组合"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "小寻儿童头盔运动护具组合",
+            "price_tag": 0,
+            "custom_summary": "酷帅造型，安全环保，透气性好"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m3c6f10397c769461",
+              "title": "产品介绍"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n3c6f10397c769461",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=oe3d31039a7e1a242",
+              "title": "质检报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/3de9f18d6793bb6d166bfa260b8042a2.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/3de9f18d6793bb6d166bfa260b8042a2.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1536660631,
+          "saled": 6618,
+          "saledFee": 63502692,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/750329c4eeef5b025036475ccb688dea.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "广东省惠州市惠阳区镇隆镇联溪村金时发大道优科数码园甄十科技生活区2楼",
+          "name": "全志惠",
+          "phone": "4000908508"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 107115,
+          "priceMin": 5900,
+          "priceTag": false,
+          "marketPrice": 5900,
+          "name": "米家驱蚊器智能版",
+          "summary": "手机定时开关机，智能驱蚊更省心",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/b2c5edfa9a65c4de02ef7a5661eeb419.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/8645703855a26950c3010dc276650fc0.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/6961c7000e8fceeca26a4aa49db0f8f1.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/6961c7000e8fceeca26a4aa49db0f8f1.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=107115",
+          "pids": [
+            43629
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 404,
+          "saleMode": "INDEPENDENT_INVENTROY",
+          "firstTime": 1558058401,
+          "latestTime": 1558058401,
+          "shareDesc": {
+            "sub_title": "手机定时开关机，智能驱蚊更省心",
+            "share_type": 0,
+            "main_title": "米家驱蚊器智能版"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "米家驱蚊器智能版",
+            "price_tag": 0,
+            "custom_summary": "手机定时开关机，智能驱蚊更省心"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            3,
+            5,
+            7
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=ne29870398d31ae41",
+              "title": "功能详情"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/6961c7000e8fceeca26a4aa49db0f8f1.png",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/6961c7000e8fceeca26a4aa49db0f8f1.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1557903045,
+          "saled": 5889,
+          "saledFee": 34745100,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/6961c7000e8fceeca26a4aa49db0f8f1.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "3": {
+            "type": null,
+            "text": "满150包邮"
+          },
+          "5": {
+            "type": null,
+            "text": "小米自营"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": null,
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103050,
+          "priceMin": 7900,
+          "priceTag": false,
+          "marketPrice": 7900,
+          "name": "小米WiFi放大器Pro",
+          "summary": "轻松扩展WiFi信号",
+          "imgSquare": "",
+          "imgHorizon": "",
+          "img800": "http://img.youpin.mi-img.com/800_pic/100730_1k6du62hrpr3w.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/b5d1b5415eb86061976d34d36c1aa372.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103050",
+          "pids": [
+            14982
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 9996,
+          "saleMode": "INDEPENDENT_INVENTROY",
+          "firstTime": 1534172400,
+          "latestTime": 1534172400,
+          "shareDesc": {
+            "sub_title": "轻松扩展WiFi信号",
+            "share_type": 0,
+            "main_title": "小米WiFi放大器Pro"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "小米WiFi放大器Pro",
+            "price_tag": 0,
+            "red_words": "轻松扩展WiFi信号",
+            "custom_summary": "轻松扩展WiFi信号"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            3,
+            5,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "0",
+              "url": "https://cdn.cnbj0.fds.api.mi-img.com/miio.files/pages/p_100730_6298_0.html?t=1512367859",
+              "title": "概述"
+            },
+            {
+              "id": "1",
+              "url": "https://cdn.cnbj0.fds.api.mi-img.com/miio.files/pages/p_100730_6298_1.html?t=1512367859",
+              "title": "参数"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/100730_1k6du62hrpr3w.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "http://img.youpin.mi-img.com/800_pic/100730_1k6du62hrpr3w.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1512367155,
+          "saled": 22959,
+          "saledFee": 158791734,
+          "businessId": 8,
+          "businessName": "智能小家电业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/b5d1b5415eb86061976d34d36c1aa372.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "3": {
+            "type": null,
+            "text": "满150包邮"
+          },
+          "5": {
+            "type": null,
+            "text": "小米自营"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "北京市海淀区安宁庄西路 小米六期",
+          "name": "小米客服",
+          "phone": "4001005678"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 100908,
+          "priceMin": 2900,
+          "priceTag": true,
+          "marketPrice": 2900,
+          "name": "维维尼奥清新花园系列香水套装15ml*3",
+          "summary": "多样芬芳，清新持久，甄选花材，匠心调制",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/100908_a27204d74a3c9377824c43a80580d8d7.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/100908_25fd697fc09f60cf7c86601b7c6dd286.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/71022e9650210c57b0c02132aa1dec1f.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/71022e9650210c57b0c02132aa1dec1f.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=100908",
+          "pids": [
+            7513,
+            19567,
+            19568,
+            19569
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 6198,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1531820029,
+          "latestTime": 1541154205,
+          "shareDesc": {
+            "sub_title": "多样芬芳，清新持久，甄选花材，匠心调制",
+            "share_type": 0,
+            "main_title": "维维尼奥清新花园系列香水套装15ml*3"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "清新花园香水套装15ml*3",
+            "price_tag": 1,
+            "consignor": 65,
+            "custom_summary": "多样芬芳，原创瓶型"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=m7191d0398f698881",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=n7191d0398f698881",
+              "title": "常见问题"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/71022e9650210c57b0c02132aa1dec1f.png",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/71022e9650210c57b0c02132aa1dec1f.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1514887073,
+          "saled": 25313,
+          "saledFee": 146597140,
+          "businessId": 6,
+          "businessName": "饮食洗护业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/71022e9650210c57b0c02132aa1dec1f.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "广州市花都区秀塘村高信二路6号-维维尼奥有品售后组",
+          "name": "凯琳",
+          "phone": "13802543188"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 107119,
+          "priceMin": 6900,
+          "priceTag": false,
+          "marketPrice": 6900,
+          "name": "驱蚊片套装（3片装）",
+          "summary": "长效驱蚊，蜂巢式设计，自动判定使用时长",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/dfd407c0f88af91959aacaa48a87a1c9.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/61512fc70cc42e7c33217398093f617d.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/e286c59126f3374ee0936d4d4664a7ad.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/e286c59126f3374ee0936d4d4664a7ad.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=107119",
+          "pids": [
+            43658
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 601,
+          "saleMode": "INDEPENDENT_INVENTROY",
+          "firstTime": 1558058401,
+          "latestTime": 1558058401,
+          "shareDesc": {
+            "sub_title": "长效驱蚊，蜂巢式设计，自动判定使用时长",
+            "share_type": 0,
+            "main_title": "驱蚊片套装（3片装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "驱蚊片套装（3片装）",
+            "price_tag": 0,
+            "custom_summary": "长效驱蚊，蜂巢式设计"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            3,
+            5,
+            7
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=o45107039d7551952",
+              "title": "功能详情"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/e286c59126f3374ee0936d4d4664a7ad.png",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/e286c59126f3374ee0936d4d4664a7ad.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1557909431,
+          "saled": 1324,
+          "saledFee": 9135600,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/e286c59126f3374ee0936d4d4664a7ad.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "3": {
+            "type": null,
+            "text": "满150包邮"
+          },
+          "5": {
+            "type": null,
+            "text": "小米自营"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": null,
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      }
+    ],
+    "comment": {
+      "index": {
+        "avg_score": 5.0,
+        "positive_rate": 99.0,
+        "tags": [
+          {
+            "id": 0.0,
+            "name": "全部",
+            "count": 153.0
+          },
+          {
+            "id": 0.0,
+            "name": "有图",
+            "count": 7.0
+          },
+          {
+            "id": 0.0,
+            "name": "包装好",
+            "count": 3.0
+          },
+          {
+            "id": 0.0,
+            "name": "好用",
+            "count": 3.0
+          },
+          {
+            "id": 0.0,
+            "name": "质量好",
+            "count": 1.0
+          }
+        ]
+      },
+      "content": [
+        {
+          "pid": 16195.0,
+          "score": 5.0,
+          "ctime": 1.554796277E9,
+          "otime": 0.0,
+          "avatar": "",
+          "nick_name": "1****82729",
+          "s_comment_id": 4716959.0,
+          "txt": "质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，客服，服务非常棒，物流公司服务态度很好，运送速度很快，很满意的一次购物......",
+          "pics": [],
+          "reply_list": []
+        },
+        {
+          "pid": 16195.0,
+          "score": 5.0,
+          "ctime": 1.55445122E9,
+          "otime": 0.0,
+          "avatar": "",
+          "nick_name": "",
+          "s_comment_id": 4644602.0,
+          "txt": "自从第一眼看到你，欣喜便跃然而生，把你捧于掌心，如获至宝，打开你，你精美如至尚珍品，线条之雅美，工艺之精湛，细心而用心，精心而诚心……",
+          "pics": [],
+          "reply_list": []
+        },
+        {
+          "pid": 16195.0,
+          "score": 5.0,
+          "ctime": 1.555908147E9,
+          "otime": 0.0,
+          "avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01fhKQM3Ykd/P67KC6KjeCb2O4.jpg",
+          "nick_name": "B**ly",
+          "s_comment_id": 4893172.0,
+          "txt": "味道清淡 洗了感觉还不错",
+          "pics": [],
+          "reply_list": []
+        },
+        {
+          "pid": 16195.0,
+          "score": 5.0,
+          "ctime": 1.554592983E9,
+          "otime": 0.0,
+          "avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01JjBG9GtIW/pbIdUBjeNvRX8u.jpg",
+          "nick_name": "新****西游社KOL",
+          "s_comment_id": 4669968.0,
+          "txt": "糖糖洗完澡，毛发更顺了，还有淡淡的花香。",
+          "pics": [],
+          "reply_list": []
+        },
+        {
+          "pid": 16195.0,
+          "score": 5.0,
+          "ctime": 1.550408737E9,
+          "otime": 0.0,
+          "avatar": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01KxENmV8EC/pnYs4KA6pHrTj9.jpg",
+          "nick_name": "9***97166",
+          "s_comment_id": 4158083.0,
+          "txt": "包装非常仔细、严实！价格很优惠，服务也很好，东西不错，客服服务热情",
+          "pics": [],
+          "reply_list": []
+        }
+      ]
+    },
+    "operation": {
+      "tt": null,
+      "wzl": null,
+      "hdBanner": {
+        "href": "https://m.youpin.mi.com/app/shop/content?id=pf08af039828c4773",
+        "url": "https://img.youpin.mi-img.com/product_act/ba5110579f32d2208583e9728b798bdc.png"
+      },
+      "ggBanner": null,
+      "yd": null
+    },
+    "relateRec": [
+      {
+        "goodsInfo": {
+          "gid": 103491,
+          "priceMin": 4990,
+          "priceTag": false,
+          "marketPrice": 5490,
+          "name": "Clean-n-Fresh宠物香波 狗狗专用",
+          "summary": "深层清洁，抑菌止痒，蓬松亮毛，无泪配方",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/db1eecfd0d61e5860f1aa6abb83f2d54.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/bccaa5199b6fa8754457d105dfc336db.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/56f436e03921539a51e7bfc73a96eb4c.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103491",
+          "pids": [
+            16193
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 58,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535076000,
+          "latestTime": 1557728904,
+          "shareDesc": {
+            "sub_title": "深层清洁，抑菌止痒，蓬松亮毛，无泪配方",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh宠物香波 狗狗专用"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物香波 狗狗专用",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "深层清洁，抑菌止痒，蓬松亮毛"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=rf43c90390e0d65e4",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=s9ba09039497873c5",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=t4304903984e381a6",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535007535,
+          "saled": 2355,
+          "saledFee": 10914446,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/56f436e03921539a51e7bfc73a96eb4c.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103427,
+          "priceMin": 4990,
+          "priceTag": false,
+          "marketPrice": 5490,
+          "name": "Clean-n-Fresh宠物香波  猫咪专用",
+          "summary": "深层清洁，抑菌止痒，无泪配方，防敏配方",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/b2e84784fa1c916bda1903d13e72edd6.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/465b0919f6e5ae4370230d21e24269ed.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/e0e402af93be2d07bd67427e0dab86ae.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103427",
+          "pids": [
+            16155
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 357,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535076000,
+          "latestTime": 1535076000,
+          "shareDesc": {
+            "sub_title": "深层清洁，抑菌止痒，无泪配方，防敏配方",
+            "share_type": 0,
+            "main_title": "宠物香波  猫咪专用"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物香波  猫咪专用",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "深层清洁，抑菌止痒，无泪配方"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n56ac9039216f3d61",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=ofe1090395cca4b42",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=pa574903997365923",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535006720,
+          "saled": 1509,
+          "saledFee": 7084378,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/e0e402af93be2d07bd67427e0dab86ae.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103629,
+          "priceMin": 5300,
+          "priceTag": true,
+          "marketPrice": 5800,
+          "name": "鲜肉冻干宠物零食 盒装版",
+          "summary": "100%纯肉，冻干工艺，开袋即食，猫犬专用，鸡肉&三文鱼，牛肉&三文鱼",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/27ebac734cbdb2df51a83216fb235772.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/cffa36f027c5ca7ed75bad9b10dfbde9.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/1dec7378f3282cb7310baa0154b27b82.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/6e2f1170d95633fdba9714c8477e71c5.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103629",
+          "pids": [
+            16822,
+            20942
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 396,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1536717600,
+          "latestTime": 1551515545,
+          "shareDesc": {
+            "sub_title": "100%纯肉，冻干工艺，开袋即食，猫犬专用，鸡肉&三文鱼，牛肉&三文鱼",
+            "share_type": 0,
+            "main_title": "鲜肉冻干宠物零食 盒装版"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "鲜肉冻干宠物零食 盒装版",
+            "price_tag": 1,
+            "consignor": 65.0,
+            "custom_summary": "100%纯肉，冻干工艺"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=Ve7d290399d1731c3",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m4f30903973394d31",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n4f30903973394d31",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/1dec7378f3282cb7310baa0154b27b82.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/1dec7378f3282cb7310baa0154b27b82.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1536649013,
+          "saled": 3237,
+          "saledFee": 16848347,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/6e2f1170d95633fdba9714c8477e71c5.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "北京市丰台区郭公庄中街20号院3号楼1502.",
+          "name": "邱炳灿",
+          "phone": "13758285428"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104371,
+          "priceMin": 5390,
+          "priceTag": false,
+          "marketPrice": 5500,
+          "name": "宠物倾斜食盆（双内胆）",
+          "summary": "15°倾斜设计，防滑抓地，健康材质，猫狗通用",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/8c7f75d490f37cbd1888da2926dba3f9.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/34004093994b3bc9b66a0d8d51a208b1.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/af4b248f22121fff586765676cfa71aa.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/fbf0e6b909bc709b8501a78126d940b5.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104371",
+          "pids": [
+            20136
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 79,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1542247200,
+          "latestTime": 1542247200,
+          "shareDesc": {
+            "sub_title": "15°倾斜设计，防滑抓地，健康材质，猫狗通用",
+            "share_type": 0,
+            "main_title": "宠物倾斜食盆（双内胆）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物倾斜食盆（双内胆）",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "15°倾斜设计，防滑抓地"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o67f51039fbe893e1",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=u27ff1039f423e687",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=r5e211039ad2bbd74",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/af4b248f22121fff586765676cfa71aa.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/af4b248f22121fff586765676cfa71aa.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1542163755,
+          "saled": 2894,
+          "saledFee": 14331973,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/fbf0e6b909bc709b8501a78126d940b5.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降1.1元",
+            "ext": {
+              "price": "110"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省嘉兴市秀洲区岗山路75号1号库6号门    ",
+          "name": "李月",
+          "phone": "13355832805"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104494,
+          "priceMin": 6400,
+          "priceTag": false,
+          "marketPrice": 6900,
+          "name": "鲜肉冻干宠物零食  罐装版",
+          "summary": "100%纯肉，营养冻干，猫犬通用，开罐即食",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/493d7d54449a04037d94798aafc4644c.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/86bcb2b8633fd715ce0eb5ce686cf9c9.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/46994919cb05a5bebacc6b282c6797a1.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/f46ac6682df87d995ebe40734263991c.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104494",
+          "pids": [
+            20834,
+            20835,
+            20836,
+            20837,
+            20838
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 3024,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1543370400,
+          "latestTime": 1543370400,
+          "shareDesc": {
+            "sub_title": "100%纯肉，营养冻干，猫犬通用，开罐即食",
+            "share_type": 0,
+            "main_title": "鲜肉冻干零食  罐装版"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "鲜肉冻干宠物零食  罐装版",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "100%纯肉，猫犬通用"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o9f7190391639bb52",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=qee3990398c00d714",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=r959d9039c77bd5f4",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/46994919cb05a5bebacc6b282c6797a1.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/46994919cb05a5bebacc6b282c6797a1.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1543288681,
+          "saled": 1973,
+          "saledFee": 12049444,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/f46ac6682df87d995ebe40734263991c.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "北京市丰台区郭公庄中街20号院3号楼1502.",
+          "name": "邱炳灿",
+          "phone": "13758285428"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104670,
+          "priceMin": 5690,
+          "priceTag": false,
+          "marketPrice": 5900,
+          "name": "圆形猫抓板",
+          "summary": "磨抓滤沙，能玩能躺，耐磨耐抓，精美贴花",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/548082d8d579636a4740f525baeaa366.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/9d3d55f472e45c25167c88e4d57906e0.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/906df03a4db49f632b8dff1b042006f0.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/0b5aed783ce47d6f46b1a68367ad2b36.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104670",
+          "pids": [
+            21802
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 307,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1544493600,
+          "latestTime": 1554258459,
+          "shareDesc": {
+            "sub_title": "磨抓滤沙，能玩能躺，耐磨耐抓，精美贴花",
+            "share_type": 0,
+            "main_title": "圆形猫抓板"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "圆形猫抓板",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "磨抓滤沙，能玩能躺，耐磨耐抓"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=taf399039833f3056",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=u569d9039ce9a4e27",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=Vb90d9039d1fc16b3",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/906df03a4db49f632b8dff1b042006f0.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/906df03a4db49f632b8dff1b042006f0.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1544412132,
+          "saled": 2130,
+          "saledFee": 11629876,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/0b5aed783ce47d6f46b1a68367ad2b36.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降2.1元",
+            "ext": {
+              "price": "210"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "广东东莞市常平镇田尾村富兴路2号瑞金科技园第一栋4楼B区",
+          "name": "卢薪薪",
+          "phone": "18194079676"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104059,
+          "priceMin": 4690,
+          "priceTag": false,
+          "marketPrice": 4990,
+          "name": "佐敦朱迪硅胶宠物餐垫",
+          "summary": "防漏食，大面积，防水耐脏",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/ede742289e882a6664971dfacf3f6245.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/dd1cad30eb9d82255a881b421faffcd3.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/c24265ba7bdbfb0191660f42eaba9483.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/1b0cf2ba98229fbe9ed0719724ec01af.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104059",
+          "pids": [
+            18919
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1757,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1540519200,
+          "latestTime": 1540519200,
+          "shareDesc": {
+            "sub_title": "防漏食，大面积，防水耐脏",
+            "share_type": 0,
+            "main_title": "佐敦朱迪硅胶宠物餐垫"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "硅胶宠物餐垫",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "防漏食，大面积，防水耐脏"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=v77689039542f31f7",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m99d2903902281711",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n99d2903902281711",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/c24265ba7bdbfb0191660f42eaba9483.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/c24265ba7bdbfb0191660f42eaba9483.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1540436183,
+          "saled": 1232,
+          "saledFee": 5306305,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/1b0cf2ba98229fbe9ed0719724ec01af.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降3元",
+            "ext": {
+              "price": "300"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "广东东莞市常平镇田尾村富兴路2号瑞金科技园第一栋4楼B区",
+          "name": "卢薪薪",
+          "phone": "18194079676"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103826,
+          "priceMin": 3990,
+          "priceTag": false,
+          "marketPrice": 3990,
+          "name": "柚派特宠物尿垫",
+          "summary": "瞬吸尿液，牢锁水分，软绵加厚，方便卫生",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/437d486508fe150c770dc320d11da642.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/fc009f1832c3ef63c7e8e327633db9b2.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/f09783a6e60792edfb6c9b8364042e62.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/b7a951b22de7f0b1d5efde8d708c00bb.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103826",
+          "pids": [
+            17870,
+            17871
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 3783,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1538532000,
+          "latestTime": 1538532000,
+          "shareDesc": {
+            "sub_title": "瞬吸尿液，牢锁水分，软绵加厚，方便卫生",
+            "share_type": 0,
+            "main_title": "柚派特宠物尿垫"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物尿垫",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "瞬吸尿液，牢锁水分，软绵加厚"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=s8faa1039ae9a5ac5",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=ude72103915717687",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=V40e2103938c34e04",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/f09783a6e60792edfb6c9b8364042e62.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/f09783a6e60792edfb6c9b8364042e62.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1538207119,
+          "saled": 1987,
+          "saledFee": 6501966,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/b7a951b22de7f0b1d5efde8d708c00bb.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "重庆市永川区朱沱镇理文卫生用纸有限公司 ",
+          "name": "李有来",
+          "phone": " 17621105321"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103158,
+          "priceMin": 4290,
+          "priceTag": true,
+          "marketPrice": 4500,
+          "name": "海鲜猫罐头 组合装（八只装）",
+          "summary": "猫类专用，三月龄以上，海鲜添加",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/103158_8e86cc95b62cff189998cc0c9864e9f2.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/103158_b4b4431eaca87042cf1248e31bd18d12.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/3ea90001866878b60991493f889dec49.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/688feb37bd7626643f236c94a08d62bb.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103158",
+          "pids": [
+            15157,
+            19818,
+            35549
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 941,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1533657600,
+          "latestTime": 1557286226,
+          "shareDesc": {
+            "sub_title": "猫类专用，三月龄以上，海鲜添加",
+            "share_type": 0,
+            "main_title": "海鲜猫罐头 组合装（八只装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "海鲜猫罐头 组合装（八只装）",
+            "price_tag": 1,
+            "custom_summary": "猫类专用，三月龄以上，海鲜添加",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=s01311039ed9156f5",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n9d3810393092e601",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o449c10397bfde4e1",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/3ea90001866878b60991493f889dec49.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/3ea90001866878b60991493f889dec49.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1533627482,
+          "saled": 11095,
+          "saledFee": 47446809,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/688feb37bd7626643f236c94a08d62bb.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降2.1元",
+            "ext": {
+              "price": "210"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "山东省临沂市兰山区马场湖镇政府北一公里",
+          "name": "刘成锋",
+          "phone": "17686614345"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 106776,
+          "priceMin": 1890,
+          "priceTag": false,
+          "marketPrice": 2390,
+          "name": "豆腐膨润土混合猫砂",
+          "summary": "结团牢固，封锁臭味，脚感舒适，材质安心",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/74d01309cf585e8ebf35a5a190958841.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/d2f43ee26085f1553176bfebfbcb3609.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/e86f1affcff1ffdb6958b5f82c9798d1.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/fff1d3266a54de2a31fffcb337df65df.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=106776",
+          "pids": [
+            40971
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 514,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1556503212,
+          "latestTime": 1556589600,
+          "shareDesc": {
+            "sub_title": "结团牢固，封锁臭味，脚感舒适，材质安心",
+            "share_type": 0,
+            "main_title": "豆腐膨润土混合猫砂"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "豆腐膨润土混合猫砂",
+            "price_tag": 0,
+            "consignor": "65",
+            "custom_summary": "结团牢固，封锁臭味，脚感舒适"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=m3dd1f039a5686e41",
+              "title": "产品介绍"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=n3dd1f039a5686e41",
+              "title": "常见问题"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=oe535f039d0d37c22",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/e86f1affcff1ffdb6958b5f82c9798d1.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/e86f1affcff1ffdb6958b5f82c9798d1.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1556443499,
+          "saled": 1166,
+          "saledFee": 2388933,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/fff1d3266a54de2a31fffcb337df65df.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "杭州萧山区新塘街道东瑞五路智新塘文化创意园南门2号楼311",
+          "name": "孙泽杭",
+          "phone": "187 5719 7407"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 102636,
+          "priceMin": 2450,
+          "priceTag": true,
+          "marketPrice": 2900,
+          "name": "Cature 小壳 豆腐猫砂",
+          "summary": "环保安全，4倍吸水，3秒结团，无尘可冲厕",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/102636_6fb59f097682e5220364f405f858be80.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/102636_ec00d2ef21567c43229df1a052d692ab.jpg",
+          "img800": "http://img.youpin.mi-img.com/800_pic/10f40601332c11317a96c9f9aea62bc6.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/1767e94c98b66c4457d60990b59054b6.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=102636",
+          "pids": [
+            13823,
+            13860,
+            13861
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 2235,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1531706400,
+          "latestTime": 1558338866,
+          "shareDesc": {
+            "sub_title": "环保安全，4倍吸水，3秒结团，无尘可冲厕",
+            "share_type": 0,
+            "main_title": "Cature 小壳 豆腐猫砂"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "豆腐猫砂",
+            "price_tag": 1,
+            "custom_summary": "环保安全，4倍吸水，3秒结团",
+            "consignor": "65"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q76fc9039bf61a5e3",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m3be490391dd7e771",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n3be490391dd7e771",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/10f40601332c11317a96c9f9aea62bc6.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "http://img.youpin.mi-img.com/800_pic/10f40601332c11317a96c9f9aea62bc6.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1531451250,
+          "saled": 11670,
+          "saledFee": 76500444,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/1767e94c98b66c4457d60990b59054b6.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降4.5元",
+            "ext": {
+              "price": "450"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "上海市杨浦区政学路51号创智天地二号楼1201",
+          "name": "Cature小壳",
+          "phone": "021-52650706"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      }
+    ],
+    "isFavorite": false,
+    "userRec": [
+      {
+        "goodsInfo": {
+          "gid": 104737,
+          "priceMin": 3900,
+          "priceTag": false,
+          "marketPrice": 4600,
+          "name": "Clean-n-Fresh去渍滚珠 50ml*2",
+          "summary": "局部清洁，应急去渍，滚珠设计，小巧便携",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/7721b71ba7e8b9515ab26a02885acae4.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/1bf99b6ea9c5c5eac8d1418ebc28cde5.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/ec7137670d574ab6133d037aaef816c0.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/65d5b0a3de4e2ee86e0db37d5ef0a508.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104737",
+          "pids": [
+            22214
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 291,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1544839200,
+          "latestTime": 1557729290,
+          "shareDesc": {
+            "sub_title": "局部清洁，应急去渍，滚珠设计，小巧便携",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh去渍滚珠 50ml*2"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "去渍滚珠 50ml*2",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "局部清洁，应急去渍，滚珠设计"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=tbff79039fe1ae9d6",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=u675b90393a85f7b7",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=Vc9cb90394dd7cf34",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/ec7137670d574ab6133d037aaef816c0.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/ec7137670d574ab6133d037aaef816c0.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1544692784,
+          "saled": 2323,
+          "saledFee": 9040255,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/65d5b0a3de4e2ee86e0db37d5ef0a508.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降7元",
+            "ext": {
+              "price": "700"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 106662,
+          "priceMin": 7900,
+          "priceTag": false,
+          "marketPrice": 8900,
+          "name": "Clean-n-Fresh除甲醛喷雾",
+          "summary": "有效除醛，操作简单，盲文圈设计，多场景适用",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/5af9585831cfa095c143edcbae2a7502.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/b1224d76047ddeb720c26cf08afa5cc3.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/ea523ff667b71ba08f066f2aac4eec1a.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/2223bc7fdac3ace361cb1e0477ba0c7e.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=106662",
+          "pids": [
+            39910,
+            43151,
+            43152
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 520,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1556071201,
+          "latestTime": 1557803578,
+          "shareDesc": {
+            "sub_title": "有效除醛，操作简单，盲文圈设计，多场景适用",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh除甲醛喷雾"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "除甲醛喷雾",
+            "price_tag": 0,
+            "consignor": "65",
+            "custom_summary": "有效除醛，操作简单"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=m7c7d703999791f21",
+              "title": "功能详情"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=r9035703994881005",
+              "title": "常见问题"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=s37997039dfe32ed5",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/ea523ff667b71ba08f066f2aac4eec1a.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/ea523ff667b71ba08f066f2aac4eec1a.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1556004134,
+          "saled": 1125,
+          "saledFee": 9743027,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/2223bc7fdac3ace361cb1e0477ba0c7e.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降10元",
+            "ext": {
+              "price": "1000"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "陈金金",
+          "phone": "‭18395819820"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 106758,
+          "priceMin": 3900,
+          "priceTag": false,
+          "marketPrice": 3900,
+          "name": "Clean-n-Fresh 植物驱蚊手环",
+          "summary": "植物驱蚊，长效防护，时尚舒适，全家适用",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/20701391a6ace1295344b1526f258d82.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/de5017ffa3364d47b05bbd338b245d08.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/2b0285710b26a25b771a0df23bfd250f.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/b78662d210986d242d8f0e80bddb4803.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=106758",
+          "pids": [
+            40753,
+            40754
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 247,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1556503200,
+          "latestTime": 1558154128,
+          "shareDesc": {
+            "sub_title": "植物驱蚊，长效防护，时尚舒适，全家适用",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh 植物驱蚊手环"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "植物驱蚊手环",
+            "price_tag": 0,
+            "consignor": "65",
+            "custom_summary": "植物驱蚊，长效防护"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=m41e8703925249e81",
+              "title": "功能详情"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=r6539f03974b4cd64",
+              "title": "常见问题"
+            },
+            {
+              "id": null,
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=s0c9df039bf10db45",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/2b0285710b26a25b771a0df23bfd250f.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/2b0285710b26a25b771a0df23bfd250f.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1556266134,
+          "saled": 4949,
+          "saledFee": 19089809,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/b78662d210986d242d8f0e80bddb4803.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "陈金金",
+          "phone": "‭18395819820"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103491,
+          "priceMin": 4990,
+          "priceTag": false,
+          "marketPrice": 5490,
+          "name": "Clean-n-Fresh宠物香波 狗狗专用",
+          "summary": "深层清洁，抑菌止痒，蓬松亮毛，无泪配方",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/db1eecfd0d61e5860f1aa6abb83f2d54.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/bccaa5199b6fa8754457d105dfc336db.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/56f436e03921539a51e7bfc73a96eb4c.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103491",
+          "pids": [
+            16193
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 58,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535076000,
+          "latestTime": 1557728904,
+          "shareDesc": {
+            "sub_title": "深层清洁，抑菌止痒，蓬松亮毛，无泪配方",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh宠物香波 狗狗专用"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物香波 狗狗专用",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "深层清洁，抑菌止痒，蓬松亮毛"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=rf43c90390e0d65e4",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=s9ba09039497873c5",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=t4304903984e381a6",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/21463c94c658361e5c2ee38bd28814c5.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535007535,
+          "saled": 2355,
+          "saledFee": 10914446,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/56f436e03921539a51e7bfc73a96eb4c.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103427,
+          "priceMin": 4990,
+          "priceTag": false,
+          "marketPrice": 5490,
+          "name": "Clean-n-Fresh宠物香波  猫咪专用",
+          "summary": "深层清洁，抑菌止痒，无泪配方，防敏配方",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/b2e84784fa1c916bda1903d13e72edd6.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/465b0919f6e5ae4370230d21e24269ed.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/e0e402af93be2d07bd67427e0dab86ae.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103427",
+          "pids": [
+            16155
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 357,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535076000,
+          "latestTime": 1535076000,
+          "shareDesc": {
+            "sub_title": "深层清洁，抑菌止痒，无泪配方，防敏配方",
+            "share_type": 0,
+            "main_title": "宠物香波  猫咪专用"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "宠物香波  猫咪专用",
+            "price_tag": 0,
+            "consignor": 65,
+            "custom_summary": "深层清洁，抑菌止痒，无泪配方"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n56ac9039216f3d61",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=ofe1090395cca4b42",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=pa574903997365923",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/fb0d986135b0f8a330d91bdba98d6528.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535006720,
+          "saled": 1509,
+          "saledFee": 7084378,
+          "businessId": 3,
+          "businessName": "母婴健康业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/e0e402af93be2d07bd67427e0dab86ae.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5元",
+            "ext": {
+              "price": "500"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 105120,
+          "priceMin": 3900,
+          "priceTag": false,
+          "marketPrice": 3900,
+          "name": "Clean-n-Fresh 除烟味清香喷雾",
+          "summary": "植物萃取，清新木质香，香味持久，小巧便携",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/a2fed63bc7a20c6044bc433a4ac63f73.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/19a3c5f6c6d547f66ffcd73a12b06864.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/6d730a176ab383469b3c6a7f2e66b616.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/be247269bd788e066dbfe7b73a23481e.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=105120",
+          "pids": [
+            25087
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1238,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1547604000,
+          "latestTime": 1555751547,
+          "shareDesc": {
+            "sub_title": "植物萃取，清新木质香，香味持久，小巧便携",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh 除烟味清香喷雾"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "除烟味清香喷雾",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "植物萃取，清新木质香，香味持久"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q0423f039dc331404",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=rab87f03908ae12e4",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=s52ebf039431a20c5",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/6d730a176ab383469b3c6a7f2e66b616.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/6d730a176ab383469b3c6a7f2e66b616.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1547523480,
+          "saled": 2338,
+          "saledFee": 8633089,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/be247269bd788e066dbfe7b73a23481e.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 105119,
+          "priceMin": 2900,
+          "priceTag": false,
+          "marketPrice": 2900,
+          "name": "Clean-n-Fresh 冰箱除味剂（3个装）",
+          "summary": "除臭抑菌，效果持久，小巧可爱",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/5cd60d9c790e63292bc66d4f17eb0a87.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/c0cf5611ef87dfe0918c07e939b051b6.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/f46ccdfce43375668012e03e931dec35.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/1ca1b2b1f5e880f05c9d002e03d43cb4.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=105119",
+          "pids": [
+            25086
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 2310,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1547604000,
+          "latestTime": 1557728867,
+          "shareDesc": {
+            "sub_title": "除臭抑菌，效果持久，小巧可爱",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh 冰箱除味剂（3个装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "冰箱除味剂（3个装）",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "除臭抑菌，效果持久，小巧可爱"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n0df7f0392bf0f961",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=ob55bf039566cf742",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p5cbff03991d70623",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/f46ccdfce43375668012e03e931dec35.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/f46ccdfce43375668012e03e931dec35.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1547522681,
+          "saled": 5518,
+          "saledFee": 14536860,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/1ca1b2b1f5e880f05c9d002e03d43cb4.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104926,
+          "priceMin": 3050,
+          "priceTag": false,
+          "marketPrice": 3600,
+          "name": "Clean-n-Fresh 火锅除味清香剂 （100ml）",
+          "summary": "快速除味，植物萃取，清新花香，小巧便捷",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/06c70e46a773b7fc8191a33d844749ff.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/1d1b1aeeacec5ac5535adc5de9397d4b.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/650c53f184a823909f970cad539884bc.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/d8ce157160029159a3c21758cbbf8c1e.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104926",
+          "pids": [
+            23642
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1429,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1546912800,
+          "latestTime": 1553652272,
+          "shareDesc": {
+            "sub_title": "快速除味，植物萃取，清新花香，小巧便捷",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh 火锅除味清香剂 （100ml）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "火锅除味清香剂（100ml）",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "快速除味，植物萃取，清新花香"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=t98ec10396c5f0426",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=u40501039a7ca1207",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=ve7b41039d23620e7",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/650c53f184a823909f970cad539884bc.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/650c53f184a823909f970cad539884bc.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1546832728,
+          "saled": 2167,
+          "saledFee": 7219840,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/d8ce157160029159a3c21758cbbf8c1e.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5.5元",
+            "ext": {
+              "price": "550"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104739,
+          "priceMin": 4050,
+          "priceTag": false,
+          "marketPrice": 4800,
+          "name": "Clean-n-Fresh双效洁厕块 12块装",
+          "summary": "独立袋包装，水溶性膜外层，深度清洁，养护釉面",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/7b52153150e2e265add8a7605b0df5cb.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/2b81d912180c214674eb66b3d1c16aa6.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/e009ecc48c9c3d30f1411e349b31c202.PNG",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/de4d7a28c9383205152aed36681f8dc8.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104739",
+          "pids": [
+            22219
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 2283,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1545184740,
+          "latestTime": 1557729221,
+          "shareDesc": {
+            "sub_title": "独立袋包装，水溶性膜外层，深度清洁，养护釉面",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh双效洁厕块 12块装"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "双效洁厕块 12块装",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "独立袋包装，水溶性膜外层"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p7ff1903999c0f773",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q27559039d43cf554",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=rceb9903900a70435",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/e009ecc48c9c3d30f1411e349b31c202.PNG@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/e009ecc48c9c3d30f1411e349b31c202.PNG@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1544693384,
+          "saled": 6783,
+          "saledFee": 26494825,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/de4d7a28c9383205152aed36681f8dc8.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降7.5元",
+            "ext": {
+              "price": "750"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103540,
+          "priceMin": 3350,
+          "priceTag": false,
+          "marketPrice": 3900,
+          "name": "Clean-n-Fresh茶垢清洁粉（6包）",
+          "summary": "活氧清洁，有效除垢，操作简单，一包多用",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/67ca642ffc4706c23291e7b38664c80f.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/297e965258a75688840e1370d147a6e9.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/e25e380e83e50afc3ee29d6797d7dfe8.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/b224eaa47f485d1257486f0e0d7d3866.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103540",
+          "pids": [
+            16382,
+            19654
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 987,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535594400,
+          "latestTime": 1554342338,
+          "shareDesc": {
+            "sub_title": "活氧清洁，有效除垢，操作简单，一包多用",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh茶垢清洁粉（6包）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "茶垢清洁粉（6包）",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "活氧清洁，有效除垢，操作简单"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=m93b89039f694e781",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=n93b89039f694e781",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o3b1c90393200f562",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/e25e380e83e50afc3ee29d6797d7dfe8.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/e25e380e83e50afc3ee29d6797d7dfe8.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535526573,
+          "saled": 4303,
+          "saledFee": 13919199,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/b224eaa47f485d1257486f0e0d7d3866.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降5.5元",
+            "ext": {
+              "price": "550"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 101332,
+          "priceMin": 3600,
+          "priceTag": true,
+          "marketPrice": 3600,
+          "name": "Clean-n-Fresh屏幕清洁喷雾",
+          "summary": "分离式瓶体设计，高吸附纤维布，99.9%的抑菌功效",
+          "imgSquare": "https://img.youpin.mi-img.com/pic_square/101332_858a7ff3728c4de3241282a27bc25a8a.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/pic_horizon/101332_1caf5465b17a94b8ccc713f62f0aafc8.jpg",
+          "img800": "http://img.youpin.mi-img.com/800_pic/101332_3o56nff8j1uul.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/bf939b12cb1af385fbd00563ec265f13.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=101332",
+          "pids": [
+            8556,
+            8557,
+            8558,
+            9259,
+            19819
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 2814,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1531816012,
+          "latestTime": 1541678400,
+          "shareDesc": {
+            "sub_title": "分离式瓶体设计，高吸附纤维布，99.9%的抑菌功效",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh屏幕清洁喷雾"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "屏幕清洁喷雾",
+            "price_tag": 1,
+            "consignor": 65.0,
+            "custom_summary": "喷雾擦拭二合一"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": 4,
+          "service": [
+            2,
+            6
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=o78a9d039cfa38f22",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p200dd0390b1f8d03",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=qc771d039368a9be3",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "http://img.youpin.mi-img.com/800_pic/101332_3o56nff8j1uul.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "http://img.youpin.mi-img.com/800_pic/101332_3o56nff8j1uul.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1522342325,
+          "saled": 22084,
+          "saledFee": 77957348,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/bf939b12cb1af385fbd00563ec265f13.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "陈金金",
+          "phone": "‭18395819820"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103513,
+          "priceMin": 2800,
+          "priceTag": false,
+          "marketPrice": 2800,
+          "name": "Clean-n-Fresh除臭一滴香（2瓶装）",
+          "summary": "操作简单，中和除臭，清新留香，小巧便携",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/675ada4d4c7b8e949277349a60bdc838.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/8081a5fae2b3fbde9637a7569e48ceb6.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/376ad240f33fd12668945b49ec0d12af.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/a1a0e3e11e16f4806fab278b35c51b0c.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103513",
+          "pids": [
+            16250,
+            16251,
+            16252,
+            19925
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 3203,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535508000,
+          "latestTime": 1553652683,
+          "shareDesc": {
+            "sub_title": "操作简单，中和除臭，清新留香，小巧便携",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh除臭一滴香（2瓶装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "除臭一滴香（2瓶装）",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "操作简单，中和除臭，清新留香"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q5f0f90397ab563f3",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=r06739039b52171d4",
+              "title": "常见问题"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/376ad240f33fd12668945b49ec0d12af.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/376ad240f33fd12668945b49ec0d12af.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535361731,
+          "saled": 5409,
+          "saledFee": 12330341,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/a1a0e3e11e16f4806fab278b35c51b0c.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103344,
+          "priceMin": 3900,
+          "priceTag": true,
+          "marketPrice": 4600,
+          "name": "Clean-n-Fresh洁厕炮凝胶（3支装）",
+          "summary": "新型设计，有效清洁，清新留香，操作简单",
+          "imgSquare": "https://img.youpin.mi-img.com/goods/63d65259749716c8badcf078c8658532.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/goods/17ecbad96efb8b900e72f7b499ed4195.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/6da64bd118c3ead42a21d176f28a30bb.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/6da64bd118c3ead42a21d176f28a30bb.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103344",
+          "pids": [
+            15673,
+            15674,
+            19907
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1931,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1534644000,
+          "latestTime": 1558154078,
+          "shareDesc": {
+            "sub_title": "新型设计，有效清洁，清新留香，操作简单",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh洁厕炮凝胶（3支装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "洁厕炮凝胶（3支装）",
+            "price_tag": 1,
+            "consignor": 65.0,
+            "custom_summary": "新型设计，有效清洁，清新留香"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=m64f390393b6acc71",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=n64f390393b6acc71",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://app.xiaomiyoupin.com/app/shop/content?id=o0c57903976d5da52",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/6da64bd118c3ead42a21d176f28a30bb.png",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/6da64bd118c3ead42a21d176f28a30bb.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1534403421,
+          "saled": 25643,
+          "saledFee": 95435053,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/6da64bd118c3ead42a21d176f28a30bb.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [
+          {
+            "labelId": 87,
+            "name": "直降",
+            "text": "直降7元",
+            "ext": {
+              "price": "700"
+            },
+            "businessId": 0,
+            "type": "sale",
+            "attrs": {
+              "font": "default",
+              "height": 42,
+              "width": 108,
+              "bgColor": "#d96b6c",
+              "imageUrl": null,
+              "jumpUrl": "",
+              "priority": 5.0,
+              "displayStatus": 1
+            }
+          }
+        ],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 103492,
+          "priceMin": 4600,
+          "priceTag": false,
+          "marketPrice": 4600,
+          "name": "Clean-n-Fresh除臭鞋球（6个装）",
+          "summary": "旋钮开关，抑制真菌，清新除臭，小巧便携",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/ffff12321d53402590f77aefbc1fccad.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/fb218e7061f3668b9c6c2aadb0768f8c.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/3d94378b0a2299c0f5d97ec320fb48e7.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/f2c0483882e4da2614011d5db3b81b7a.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=103492",
+          "pids": [
+            16194,
+            19924
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 1304,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1535076000,
+          "latestTime": 1556705450,
+          "shareDesc": {
+            "sub_title": "旋钮开关，抑制真菌，清新除臭，小巧便携",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh除臭鞋球（6个装）"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "除臭鞋球（6个装）",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "旋钮开关，抑制真菌，清新除臭"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": null,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=V4cd89039d2a16704",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=mb4369039a8b37381",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=nb4369039a8b37381",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/3d94378b0a2299c0f5d97ec320fb48e7.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/3d94378b0a2299c0f5d97ec320fb48e7.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1535008394,
+          "saled": 10068,
+          "saledFee": 38495448,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/f2c0483882e4da2614011d5db3b81b7a.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": [],
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      },
+      {
+        "goodsInfo": {
+          "gid": 104996,
+          "priceMin": 2490,
+          "priceTag": false,
+          "marketPrice": 2490,
+          "name": "Clean-n-Fresh抗菌清洁软胶",
+          "summary": "除尘抗菌，不沾手无残留，Q弹凝胶，多场景适用",
+          "imgSquare": "https://img.youpin.mi-img.com/800_pic/eb00fa86664da3ae366772536a829cba.jpg",
+          "imgHorizon": "https://img.youpin.mi-img.com/800_pic/ad0915a013f602864d270576ba399286.jpg",
+          "img800": "https://img.youpin.mi-img.com/800_pic/ca07ffdfb3f001134cdc67ef96ddbc77.png",
+          "img800s": "https://img.youpin.mi-img.com/800_pic/39f907ab47669c7de7bbc858761d5a2e.png",
+          "jumpUrl": "http://m.youpin.mi.com/shop/detail?gid=104996",
+          "pids": [
+            20843,
+            24580
+          ],
+          "saleStatus": 1,
+          "saleType": "NORMAL",
+          "inventory": 3439,
+          "saleMode": "YOUPIN_SELL",
+          "firstTime": 1547258400,
+          "latestTime": 1557729071,
+          "shareDesc": {
+            "sub_title": "除尘抗菌，不沾手无残留，Q弹凝胶，多场景适用",
+            "share_type": 0,
+            "main_title": "Clean-n-Fresh抗菌清洁软胶"
+          },
+          "isCustom": 0,
+          "attrExt": {
+            "custom_name": "抗菌清洁软胶",
+            "price_tag": 0,
+            "consignor": 65.0,
+            "custom_summary": "除尘抗菌，不沾手无残留"
+          },
+          "imgSafeArea": 1,
+          "primaryPid": 0,
+          "colorNum": 2,
+          "service": [
+            2,
+            6,
+            7
+          ],
+          "introExt": [
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=Vb37e103926089314",
+              "title": "功能详情"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=p69a4103972f0cb43",
+              "title": "常见问题"
+            },
+            {
+              "id": "",
+              "url": "https://home.mi.com/app/shop/content?id=q11081039bd5cc924",
+              "title": "检测报告"
+            }
+          ],
+          "evaluateAvg": 0,
+          "imgSafeAreaUrl": "https://img.youpin.mi-img.com/800_pic/ca07ffdfb3f001134cdc67ef96ddbc77.png@base@tag=imgscale&m=0&w=640&et=1&eth=800&etw=800&etc=transparent",
+          "onSale": true,
+          "picUrl": "https://img.youpin.mi-img.com/800_pic/ca07ffdfb3f001134cdc67ef96ddbc77.png@base@tag=imgScale&h=350&w=350&et=1&eth=480&etw=480&etc=FFFFFF",
+          "ctime": 1547108118,
+          "saled": 5161,
+          "saledFee": 11143023,
+          "businessId": 4,
+          "businessName": "日用文创业务部",
+          "compressedImg800": "https://img.youpin.mi-img.com/800_pic/39f907ab47669c7de7bbc858761d5a2e.png@base@tag=imgScale&w=240&h=240",
+          "platform": 127
+        },
+        "crowdFunding": null,
+        "carouselMapList": null,
+        "productInfo": null,
+        "category": null,
+        "brand": null,
+        "labels": null,
+        "shopTags": null,
+        "propTags": null,
+        "shareInfo": null,
+        "services": {
+          "2": {
+            "type": null,
+            "text": "满99包邮"
+          },
+          "6": {
+            "type": null,
+            "text": "有品三方"
+          },
+          "7": {
+            "type": null,
+            "text": "7天无理由"
+          }
+        },
+        "bookingInfoMap": {},
+        "mergedLabels": null,
+        "afterSaleInfo": {
+          "address": "浙江省余姚市谭家岭东路29号四楼（红色房子）",
+          "name": "朱春柳",
+          "phone": "13305848482"
+        },
+        "blackListRule": 0,
+        "specialPromotionPrice": null,
+        "blockForSearchGuide": false,
+        "blockForRecommend": false
+      }
+    ]
+  },
+  "traceId": "ff5aecd331e74ea4aff85d7ac3ffd28a"
+}

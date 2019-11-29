@@ -1,0 +1,239 @@
+{
+    "api": "wdetail",
+    "v": "6.0",
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "data": {
+        "apiStack": [
+            {
+                "name": "esi",
+                "value": "{\"feature\":{\"makeup\":\"false\",\"isVirtualRechargeItem\":\"false\",\"isDonateItem\":\"false\",\"bSeller\":\"true\",\"useMeiLiHuiPrice\":\"false\",\"o2O\":\"false\",\"showCommonBanner\":\"false\",\"isJuPinTuan\":\"false\",\"sellCountAntiCreep\":\"true\",\"nabundleItem\":\"false\",\"hasSku\":\"false\",\"bundleItem\":\"false\",\"wygProtect\":\"true\",\"hasCartRecommend\":\"false\",\"hasBrandScene\":\"false\",\"fmcgRecommend\":\"false\",\"superActTime\":\"false\",\"isXinxuan\":\"false\",\"notUseVip95CardBar\":\"false\",\"hasApparelIcon\":\"false\",\"openGradient\":\"true\",\"isCloudChanger\":\"false\",\"showshopRecommendItems\":\"true\",\"overSeaBuy\":\"false\",\"wygItem\":\"true\",\"hasIntervalPrice\":\"true\",\"isDamai\":\"false\",\"waitForStart\":\"false\",\"newAddress\":\"true\",\"hideSMww\":\"false\",\"renovation\":\"false\",\"hasAddCartCoudan\":\"false\",\"showCuntaoTag\":\"false\",\"recommendReason\":\"false\",\"switchToOldApp\":\"false\",\"hideShopDsr\":\"false\",\"pricedCoupon\":\"false\",\"hasCoupon\":\"true\",\"buhuo\":\"false\",\"cainiaoNoramal\":\"true\",\"showNewPersonBag\":\"false\",\"showSku\":\"true\",\"showShopCard\":\"false\",\"showYaoDai\":\"false\",\"showLiteAppRec\":\"false\",\"showTmallApp\":\"true\",\"hasNewCombo\":\"false\",\"noShareGroup\":\"true\",\"showInteractionBar\":\"true\",\"showSkuProRate\":\"false\",\"hasAddTmallCartCoudan\":\"false\",\"useVip95CardStyle\":\"false\",\"multistage\":\"false\",\"hasQualification\":\"false\",\"isTspace\":\"false\",\"series\":\"false\",\"shareGroup\":\"false\",\"showSMww\":\"false\",\"isShopVipMember\":\"false\",\"includeSkuData\":\"true\"},\"trade\":{\"buyParam\":{\"areaId\":\"310101\"},\"cartEnable\":\"true\",\"cartParam\":{\"areaId\":\"310101\"},\"outerCartParam\":{},\"cartConfirmEnable\":\"true\",\"tradeParams\":{},\"isWap\":\"false\",\"buyEnable\":\"true\",\"useWap\":\"false\"},\"item\":{\"spuId\":\"891566141\",\"title\":\"启初婴儿水润保湿面霜40g2瓶 儿童补水润肤霜 宝宝滋润护肤身体乳\",\"itemId\":\"560184670006\",\"itemPoint\":\"35\",\"infoText\":{},\"descType\":\"2\",\"sellCount\":\"14832\",\"vagueSellCount\":\"1.0万+\",\"skuText\":\"配送至:黄浦区\",\"videos\":[{\"url\":\"https://cloud.video.taobao.com/play/u/1705229452/p/2/e/6/t/1/209835957201.mp4?appKey=38829\",\"type\":\"2\",\"videoThumbnailURL\":\"https://img.alicdn.com/imgextra/i3/1705229452/O1CN01CWt1Rv2Jh47RRd8rW_!!0-item_pic.jpg\",\"spatialVideoDimension\":\"16:9\",\"videoId\":\"209835957201\",\"weexRecommendUrl\":\"https://market.m.taobao.com/apps/market/detailrax/recommend-items.html?spm=a2116h.app.0.0.16d957e9U2bxVj&wh_weex=true&itemId=560184670006\"}],\"titleIcon\":\"//gw.alicdn.com/tps/i1/T1AV5DFSRbXXbaUxfe-36-32.png\"},\"buyer\":{\"tmallMemberLevel\":\"0\"},\"price\":{\"price\":{\"priceText\":\"71.6\",\"sugProm\":\"false\"},\"shopPromTitle\":\"促销\",\"superMarketShopProm\":[],\"shopProm\":[{\"activityId\":\"7683640907\",\"iconText\":\"促销\",\"title\":\"全店68包邮\",\"period\":\"2019.05.01-2019.07.31\",\"content\":[\"满68元,享包邮\"],\"actionUrl\":\"//h5.m.taobao.com/shopb/shopactivity.html?activityId=7683640907&sellerId=1705229452&source=2&spm=W-a211f8.10431435&scm=20140619.detail.dpb.0\",\"uuid4Cal\":\"7683640907\",\"type\":\"3\"}],\"priceTag\":[{\"text\":\"促销价\"}],\"transmitPrice\":{\"priceText\":\"71.6\",\"sugProm\":\"false\"},\"newExtraPrices\":[{\"priceText\":\"83.6\",\"priceTitle\":\"价格\",\"showTitle\":\"true\",\"lineThrough\":\"true\",\"sugProm\":\"false\"}],\"extraPrices\":[{\"priceText\":\"83.6\",\"priceTitle\":\"价格\",\"showTitle\":\"true\",\"lineThrough\":\"true\",\"sugProm\":\"false\"}]},\"consumerProtection\":{\"passValue\":\"none\",\"items\":[{\"serviceId\":\"3838\",\"title\":\"正品保证\",\"desc\":\"商品支持正品保障服务\",\"type\":\"0\",\"priority\":\"12900\"},{\"serviceId\":\"5336\",\"title\":\"破损包退\",\"desc\":\"签收后72小时(食品24小时)内,发现商品破损/漏液,商家承诺24小时内处理,信用评级极好用户享极速退.\",\"type\":\"0\",\"priority\":\"7885\"},{\"serviceId\":\"2979\",\"title\":\"极速退款\",\"desc\":\"极速退款是为诚信会员提供的退款退货流程的专享特权，额度是根据每个用户当前的信誉评级情况而定\",\"type\":\"0\",\"priority\":\"6505\"},{\"serviceId\":\"3851\",\"title\":\"赠运费险\",\"desc\":\"卖家为您购买的商品投保退货运费险（保单生效以下单显示为准）\",\"type\":\"0\",\"priority\":\"6504\"},{\"serviceId\":\"2973\",\"title\":\"七天退换\",\"desc\":\"消费者保障服务，卖家承诺7天退换\",\"type\":\"0\",\"priority\":\"5130\"}],\"special\":{\"logo\":\"//gw.alicdn.com/tfs/TB1upX9PCzqK1RjSZPxXXc4tVXa-390-64.png\",\"text\":\"品质优选·便捷物流·全程服务\",\"logoForGuarantee\":\"//gw.alicdn.com/tfs/TB1dO06O3HqK1RjSZFEXXcGMXXa-183-36.png\",\"items\":[]},\"params\":\"175:5336;155:3838,2979,3851,2973\",\"strength\":\"normal\"},\"resource\":{\"entrances\":{\"tmallFeature\":{\"icon\":\"https://gw.alicdn.com/tfscom/TB1fD1eX3DqK1RjSZSyXXaxEVXa.png?getAvatar=avatar\",\"text\":\"去天猫APP下单可兑农场水果\",\"link\":\"https://pages.tmall.com/wow/mit/act/download?firstModule=4&mmstat=tbdetail&needDownload=0&src=tbdetail&dl_redirect=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fut_sk1%3D5.21646297.tb.third-tbdetail-1%26_ns%3D1%26soureChannel%3DappJinXuan%26id%3D560184670006\",\"title\":\"天猫APP精选\",\"spm\":\"a2141.7631564.11166581\",\"bizKey\":\"appJinXuan\"}},\"entrancesBizsContent\":\"appJinXuan\",\"coupon\":{\"linkWriting\":\"领取\",\"mtop\":\"mtop.tmall.detail.couponpage\",\"couponList\":[{\"icon\":\"//img.alicdn.com/tps/TB1kXgpNpXXXXaqXXXXXXXXXXXX-178-36.png\",\"title\":\"领取优惠券\",\"useHuaBian\":\"false\"}]},\"promsCalcInfo\":{\"cheapestMoney\":\"0\",\"hasCoupon\":\"false\",\"needReqCouDan\":\"false\"},\"share\":{\"name\":\"分享\",\"iconType\":\"1\",\"params\":{\"iconFont\":\"ꄪ\",\"iconColor\":\"#999999\"}}},\"vertical\":{\"interactionBar\":{\"kapContain\":{\"suffix\":\"人赞过\",\"count\":\"382\",\"likeList\":\"https://pages.tmall.com/wow/malldetail/act/detail-likelist?wh_biz=tm&wh_weex=true&itemId=560184670006\",\"kaplist\":[{\"selected\":\"false\",\"icon\":\"https://gw.alicdn.com/tfs/TB1rGtkvpzqK1RjSZFvXXcB7VXa-90-90.png?getAvatar=avatar\",\"selectIcon\":\"https://gw.alicdn.com/tfs/TB193NrvAzoK1RjSZFlXXai4VXa-90-90.png?getAvatar=avatar\",\"listIcon\":\"https://gw.alicdn.com/tfs/TB1eHavyAvoK1RjSZFDXXXY3pXa-90-90.png\",\"title\":\"赞\",\"key\":\"thumbUp\"},{\"selected\":\"false\",\"icon\":\"https://gw.alicdn.com/tfs/TB10dFlvCzqK1RjSZFHXXb3CpXa-90-90.png?getAvatar=avatar\",\"selectIcon\":\"https://gw.alicdn.com/tfs/TB1H8FkvwTqK1RjSZPhXXXfOFXa-90-90.png?getAvatar=avatar\",\"listIcon\":\"https://gw.alicdn.com/tfs/TB1H8FkvwTqK1RjSZPhXXXfOFXa-90-90.png?getAvatar=avatar\",\"title\":\"买买买\",\"key\":\"buy\"},{\"selected\":\"false\",\"icon\":\"https://gw.alicdn.com/tfs/TB1pct8xmzqK1RjSZPxXXc4tVXa-90-90.png?getAvatar=avatar\",\"selectIcon\":\"https://gw.alicdn.com/tfs/TB1kTewxhnaK1RjSZFBXXcW7VXa-90-90.png?getAvatar=avatar\",\"listIcon\":\"https://gw.alicdn.com/tfs/TB1pct8xmzqK1RjSZPxXXc4tVXa-90-90.png?getAvatar=avatar\",\"title\":\"种个草\",\"key\":\"longFor\"},{\"selected\":\"false\",\"icon\":\"https://gw.alicdn.com/tfs/TB10kVkvCzqK1RjSZFjXXblCFXa-90-90.png?getAvatar=avatar\",\"selectIcon\":\"https://gw.alicdn.com/tfs/TB12pJnvAvoK1RjSZFNXXcxMVXa-90-90.png?getAvatar=avatar\",\"listIcon\":\"https://gw.alicdn.com/tfs/TB12pJnvAvoK1RjSZFNXXcxMVXa-90-90.png?getAvatar=avatar\",\"title\":\"震惊了\",\"key\":\"shock\"}]},\"bubbles\":[{\"title\":\"帮我选\",\"icon\":\"https://gw.alicdn.com/tfs/TB1NL9dvMDqK1RjSZSyXXaxEVXa-90-90.png?getAvatar=avatar\",\"action\":\"https://market.m.taobao.com/app/bwx/bwx/pages/create?wh_weex=true&itemId=560184670006&itemPic=i3/1705229452/O1CN01CWt1Rv2Jh47RRd8rW_!!0-item_pic.jpg\"}]},\"cuntao\":{},\"askAll\":{\"questNum\":\"267\",\"linkUrl\":\"//h5.m.taobao.com/wendajia/question2017.html?refId=560184670006\",\"title\":\"问大家(267)\",\"askIcon\":\"https://img.alicdn.com/tps/TB1tVU6PpXXXXXFaXXXXXXXXXXX-102-60.png\",\"askText\":\"干皮敏感肌夏天可以用吗\",\"modelList\":[{\"askText\":\"干皮敏感肌夏天可以用吗\",\"answerCountText\":\"4个回答\"},{\"askText\":\"含酒精么\",\"answerCountText\":\"3个回答\"}],\"showNum\":\"2\"},\"freshFood\":{\"nationalFlag\":\"//g.alicdn.com/mui/flag-img/circle@2x/CN.png\"}},\"delivery\":{\"to\":\"黄浦区\",\"areaSell\":\"true\",\"areaId\":\"310101\",\"from\":\"上海\",\"addressWeexUrl\":\"//market.m.taobao.com/apps/market/detailrax/address-picker.html?spm=a2116h.app.0.0.16d957e9nDYOzv&wh_weex=true\",\"completedTo\":\"上海 上海市 黄浦区\",\"overseaContraBandFlag\":\"false\",\"postage\":\"快递: 6.00\"},\"skuCore\":{\"skuItem\":{\"showAddress\":\"true\",\"hideQuantity\":\"false\",\"location\":\"黄浦区\"},\"sku2info\":{\"0\":{\"price\":{\"priceMoney\":\"7160\",\"priceText\":\"71.6\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"2263\"}}},\"skuVertical\":{},\"debugData\":{},\"params\":{\"trackParams\":{\"shop_id\":\"104987223\",\"serverAbTest\":\"detail_main_video_test_base\",\"layoutId\":\"2027\",\"bizParams\":\"shopActivity_current,shopCouPon_current,sanDanYouLi_current,interaction_bar_test\",\"detailabtestdetail\":\"9141_6146\"}},\"traceDatas\":{\"dinamic+TB_detail_ask_all_two_questions\":{\"module\":\"tb_detail_ask_all_two_questions\"},\"dinamic+TB_detail_brand_info\":{\"module\":\"tb_detail_brand_info\"},\"dinamic+TB_detail_endorsement\":{\"module\":\"tb_detail_endorsement\"},\"dinamic+TB_detail_tip_presale\":{\"module\":\"tb_detail_tip_presale\"},\"dinamic+TB_detail_subInfo_superMarket\":{\"module\":\"tb_detail_subInfo_superMarket\"},\"dinamic+TB_detail_ask_all_no_question\":{\"module\":\"tb_detail_ask_all_no_question\"},\"dinamic+TB_detail_kernel_params\":{\"module\":\"tb_detail_kernel_params\"},\"dinamic_o2o+TB_detail_o2o\":{\"module\":\"TB_detail_o2o\"},\"dinamic+TB_detail_subInfo_jhs_normal\":{\"module\":\"tb_detail_subInfo_jhs_normal\"},\"dinamic+TB_detail_new_person_bag_banner\":{\"module\":\"tb_detail_new_person_bag_banner\"},\"dinamic+TB_detail_title_tmallMarket\":{\"module\":\"tb_detail_title_tmallMarket\"},\"dinamic+TB_detail_buyer_photo\":{\"module\":\"tb_detail_buyer_photo\"},\"dinamic+TB_detail_subInfo_preSellForTaobaoB\":{\"module\":\"tb_detail_subInfo_preSellForTaobaoB\"},\"dinamic+TB_detail_title_xinxuan\":{\"module\":\"tb_detail_title_xinxuan\"},\"dinamic+TB_detail_subInfo_preSellForTaobaoC\":{\"module\":\"tb_detail_subInfo_preSellForTaobaoC\"},\"dinamic+TB_detail_tmallfeature\":{\"module\":\"tb_detail_tmallfeature\"},\"dinamic+TB_detail_sub_logistics\":{\"module\":\"tb_detail_sub_logistics\"},\"dinamic+TB_detail_price_coupon\":{\"module\":\"tb_detail_price_coupon\"},\"dinamic+TB_detail_coupon\":{\"module\":\"tb_detail_coupon\"},\"dinamic+TB_detail_tip_presale2\":{\"module\":\"tb_detail_tip_presale2\"},\"dinamic+TB_detail_tip_price\":{\"module\":\"tb_detail_tip_price\"},\"dinamic+TB_detail_delivery\":{\"module\":\"tb_detail_delivery\"},\"dinamic+TB_detail_ship_time\":{\"module\":\"tb_detail_ship_time\"},\"dinamic+TB_detail_ask_all_aliMedical\":{\"module\":\"tb_detail_ask_all_aliMedical\"},\"dinamic+TB_detail_priced_coupon\":{\"module\":\"tb_detail_priced_coupon\"},\"dinamic+TB_detail_tax\":{\"module\":\"tb_detail_tax\"},\"dinamic+TB_detail_comment_empty\":{\"module\":\"tb_detail_comment_empty\"},\"dinamic+TB_detail_logistics\":{\"module\":\"tb_detail_logistics\"}},\"rate\":{},\"extendedData\":{},\"otherInfo\":{\"bucketId\":\"8\",\"systemTime\":\"1556971326154\"},\"hybrid\":{\"shopRecommendItems\":{\"url\":\"http://market.m.taobao.com/apps/market/detailrax/recommend-shop-bigpage.html?spm=a2116h.app.0.0.16d957e9U9efo0&wh_weex=true&selfRmdFlag=true&itemId=560184670006&sellerId=1705229452&detail_v=null\",\"height\":\"445\",\"hasSyncTask\":\"true\"}},\"layout\":{\"layoutId\":\"TB1CqubkY1YBuNjSszehA1blFXa\",\"config\":{\"dependComponentConfigID\":\"TB166Osa5IRMeJjy0FbhA2nqXXa\",\"dependActionConfigID\":\"TB1CKiJk4WYBuNjy1zkhA0GGpXa\",\"dependThemeConfigID\":\"TB1O1LwiCCWBuNjy0FhhA26EVXa\"},\"templateDBId\":\"2027\"},\"modules\":[]}"
+            }
+        ],
+        "item": {
+            "itemId": "560184670006",
+            "title": "启初婴儿水润保湿面霜40g2瓶 儿童补水润肤霜 宝宝滋润护肤身体乳",
+            "subtitle": "8倍胚米精华， 轻盈水感 ，柔润亲肤",
+            "images": [
+                "//img.alicdn.com/imgextra/i3/1705229452/O1CN01CWt1Rv2Jh47RRd8rW_!!0-item_pic.jpg",
+                "//img.alicdn.com/imgextra/i3/1705229452/O1CN01bh15V62Jh47Bx2GfL_!!1705229452.jpg",
+                "//img.alicdn.com/imgextra/i1/1705229452/O1CN01HdogFJ2Jh48VgOGUH_!!1705229452.jpg",
+                "//img.alicdn.com/imgextra/i1/1705229452/O1CN012Jh44V8Xsw4TDTr_!!1705229452.jpg",
+                "//img.alicdn.com/imgextra/i2/1705229452/O1CN012Jh44blk960NdKh_!!1705229452.jpg"
+            ],
+            "categoryId": "121478012",
+            "rootCategoryId": "50014812",
+            "brandValueId": "128265726",
+            "countMultiple": [],
+            "exParams": {},
+            "commentCount": "41224",
+            "favcount": "98782",
+            "taobaoDescUrl": "//h5.m.taobao.com/app/detail/desc.html?_isH5Des=true#!id=560184670006&type=0&f=TB1MKTWT4TpK1RjSZFK8qu2wXla&sellerType=B",
+            "tmallDescUrl": "//mdetail.tmall.com/templates/pages/desc?id=560184670006",
+            "taobaoPcDescUrl": "//h5.m.taobao.com/app/detail/desc.html?_isH5Des=true#!id=560184670006&type=1&f=TB1E7rWT3HqK1RjSZFg8qu7JXla&sellerType=B",
+            "moduleDescUrl": "//hws.m.taobao.com/d/modulet/v5/WItemMouldDesc.do?id=560184670006&f=TB11HY7T7voK1RjSZFw8qwiCFXa",
+            "openDecoration": false,
+            "moduleDescParams": {
+                "f": "TB11HY7T7voK1RjSZFw8qwiCFXa",
+                "id": "560184670006"
+            },
+            "h5moduleDescUrl": "//mdetail.tmall.com/templates/pages/itemDesc?id=560184670006"
+        },
+        "mockData": "{\"delivery\":{},\"trade\":{\"buyEnable\":true,\"cartEnable\":true},\"feature\":{},\"price\":{\"price\":{\"priceText\":\"83.60\"}},\"skuCore\":{\"sku2info\":{\"0\":{\"price\":{\"priceMoney\":8360,\"priceText\":\"83.60\",\"priceTitle\":\"价格\"},\"quantity\":100}},\"skuItem\":{\"hideQuantity\":true}}}",
+        "params": {
+            "trackParams": {
+                "brandId": "128265726",
+                "BC_type": "B",
+                "categoryId": "121478012"
+            }
+        },
+        "props": {
+            "groupProps": [
+                {
+                    "基本信息": [
+                        {
+                            "品牌": "Giving/启初 "
+                        },
+                        {
+                            "系列(型号)": "水润 "
+                        },
+                        {
+                            "容量": "40g*2 "
+                        },
+                        {
+                            "适用年龄": "新生 1个月 2个月 3个月 4个月 5个月 6个月 7个月 8个月 9个月 10个月 11个月 12个月 13个月 14个月 15个月 16个月 17个月 18个月 19个月 20个月 21个月 22个月 23个月 2岁 25个月 26个月 27个月 28个月 29个月 30个月 31个月 32个月 33个月 34个月 35个月 3岁 "
+                        },
+                        {
+                            "产地": "中国大陆 "
+                        },
+                        {
+                            "净含量": "51g(含)-100g(含) "
+                        },
+                        {
+                            "是否为特殊用途化妆品": "否 "
+                        }
+                    ]
+                }
+            ]
+        },
+        "props2": {},
+        "propsCut": "品牌 系列(型号) 容量 适用年龄 产地 净含量 是否为特殊用途化妆品 ",
+        "rate": {
+            "totalCount": "41224",
+            "keywords": [
+                {
+                    "attribute": "520-11",
+                    "word": "便宜",
+                    "count": "952",
+                    "type": "1"
+                },
+                {
+                    "attribute": "620-11",
+                    "word": "质量不错",
+                    "count": "559",
+                    "type": "1"
+                },
+                {
+                    "attribute": "420-11",
+                    "word": "物流快",
+                    "count": "438",
+                    "type": "1"
+                },
+                {
+                    "attribute": "348-11",
+                    "word": "气味不错",
+                    "count": "408",
+                    "type": "1"
+                },
+                {
+                    "attribute": "1120-11",
+                    "word": "人群",
+                    "count": "317",
+                    "type": "1"
+                },
+                {
+                    "attribute": "520-13",
+                    "word": "不划算",
+                    "count": "174",
+                    "type": "-1"
+                }
+            ],
+            "rateList": [
+                {
+                    "content": "真的是头一次这么认真的写评价，刚开始买的婴儿保湿露是给宝宝洗完澡抹身体用的，宝宝身上的皮肤特别粗糙以为是遗传的鸡皮肤，买来没抱多大希望随便抹抹，谁知道越抹皮肤越光滑。这次又买了保湿面霜给宝宝和自己用，我自己的皮肤敏感不敢用化妆品，用好多牌子都过敏，没想到用这个很保湿一点不油腻，最重要的是不过敏，用了几次下来脸已经不粗糙了，太开心了。等搞活动了再买点防晒霜、湿巾、洗发水沐浴露，准备把宝宝所有用的都换成启初，真的是良心国货，比那些所谓的进口好用多了。零伍零贰z",
+                    "userName": "l**兮",
+                    "headPic": "//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vFkSPFHuXH*evF8LPmHSXHgSOH8YPCHyOH8GOmIyMC7IPFvYMGISv0cYvGI0MCxu&width=40&height=40&type=sns",
+                    "memberLevel": "6",
+                    "dateTime": "2018-12-15",
+                    "tmallMemberLevel": "0",
+                    "headExtraPic": "",
+                    "memberIcon": "",
+                    "isVip": "false"
+                }
+            ]
+        },
+        "resource": {
+            "entrances": {
+                "askAll": {
+                    "icon": "https://gw.alicdn.com/tps/TB1J7X6KXXXXXc4XXXXXXXXXXXX-102-60.png",
+                    "text": "\"干皮敏感肌夏天可以用吗\"",
+                    "link": "//h5.m.taobao.com/wendajia/question2017.html?refId=560184670006"
+                }
+            }
+        },
+        "seller": {
+            "userId": "1705229452",
+            "shopId": "104987223",
+            "shopName": "启初旗舰店",
+            "shopUrl": "tmall://page.tm/shop?item_id=560184670006&shopId=104987223",
+            "taoShopUrl": "//shop.m.taobao.com/shop/shop_index.htm?user_id=1705229452&item_id=560184670006",
+            "shopIcon": "//img.alicdn.com/imgextra//i3/1705229452/O1CN01wSmit62Jh47ck1ZwN_!!1705229452.png",
+            "fans": "87.9万",
+            "allItemCount": "97",
+            "showShopLinkIcon": false,
+            "shopCard": "本店共97件宝贝在热卖",
+            "sellerType": "B",
+            "shopType": "B",
+            "evaluates": [
+                {
+                    "title": "宝贝描述",
+                    "score": "4.9 ",
+                    "type": "desc",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#999999",
+                    "levelBackgroundColor": "#EEEEEE",
+                    "tmallLevelTextColor": "#999999",
+                    "tmallLevelBackgroundColor": "#EEEEEE"
+                },
+                {
+                    "title": "卖家服务",
+                    "score": "4.8 ",
+                    "type": "serv",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#999999",
+                    "levelBackgroundColor": "#EEEEEE",
+                    "tmallLevelTextColor": "#999999",
+                    "tmallLevelBackgroundColor": "#EEEEEE"
+                },
+                {
+                    "title": "物流服务",
+                    "score": "4.8 ",
+                    "type": "post",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#999999",
+                    "levelBackgroundColor": "#EEEEEE",
+                    "tmallLevelTextColor": "#999999",
+                    "tmallLevelBackgroundColor": "#EEEEEE"
+                }
+            ],
+            "sellerNick": "启初旗舰店",
+            "creditLevel": "17",
+            "creditLevelIcon": "//gw.alicdn.com/tfs/TB1QoJUIwmTBuNjy1XbXXaMrVXa-84-36.png?getAvatar=avatar",
+            "brandIcon": "//gw.alicdn.com/tfs/TB15b1wrScqBKNjSZFgXXX_kXXa-263-36.png",
+            "brandIconRatio": "7.3",
+            "starts": "2013-06-26 09:58:58",
+            "goodRatePercentage": "100.00%",
+            "fbt2User": "启初旗舰店",
+            "simpleShopDOStatus": "1"
+        },
+        "skuBase": {},
+        "vertical": {
+            "askAll": {
+                "askText": "干皮敏感肌夏天可以用吗",
+                "askIcon": "https://gw.alicdn.com/tps/TB1J7X6KXXXXXc4XXXXXXXXXXXX-102-60.png",
+                "linkUrl": "//h5.m.taobao.com/wendajia/question2017.html?refId=560184670006",
+                "title": "问大家(267)",
+                "questNum": "267",
+                "showNum": "2",
+                "modelList": [
+                    {
+                        "askText": "干皮敏感肌夏天可以用吗",
+                        "answerCountText": "4个回答"
+                    },
+                    {
+                        "askText": "含酒精么",
+                        "answerCountText": "3个回答"
+                    }
+                ],
+                "model4XList": [
+                    {
+                        "askText": "干皮敏感肌夏天可以用吗",
+                        "answerCountText": "4个回答",
+                        "askIcon": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png",
+                        "askTextColor": "#162B36"
+                    },
+                    {
+                        "askText": "含酒精么",
+                        "answerCountText": "3个回答",
+                        "askIcon": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png",
+                        "askTextColor": "#162B36"
+                    }
+                ]
+            }
+        }
+    }
+}

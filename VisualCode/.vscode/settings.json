@@ -1,0 +1,27 @@
+{
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.autoComplete.addBrackets": true,
+    "git.autorefresh": false,
+    "git.autoRepositoryDetection": false,
+    "git.confirmSync": false,
+    "git.detectSubmodules": false,
+    "git.decorations.enabled": false,
+    "git.enabled": false,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.autoComplete.preloadModules": ["numpy", "pandas", "matplotlib"],
+    "python.autoComplete.extraPaths": [
+        "C:\\ProgramData\\Anaconda3\\Lib\\site-packages"
+    ],
+    "editor.fontSize": 16,
+    "code-runner.defaultLanguage": "python",
+    "code-runner.executorMap": {
+    "python": "set PYTHONIOENCODING=utf8 && python",
+    },
+    "python.jediEnabled": false
+}

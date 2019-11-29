@@ -1,0 +1,746 @@
+{
+    "api": "wdetail",
+    "v": "6.0",
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "data": {
+        "apiStack": [
+            {
+                "name": "esi",
+                "value": "{\"feature\":{\"makeup\":\"false\",\"isVirtualRechargeItem\":\"false\",\"isDonateItem\":\"false\",\"bSeller\":\"true\",\"useMeiLiHuiPrice\":\"false\",\"open618RedbagPoplayer\":\"false\",\"o2O\":\"false\",\"showCommonBanner\":\"false\",\"sellCountAntiCreep\":\"true\",\"nabundleItem\":\"false\",\"hasSku\":\"true\",\"bundleItem\":\"false\",\"hasCartRecommend\":\"false\",\"fmcgRecommend\":\"false\",\"hasBrandScene\":\"false\",\"isXinxuan\":\"false\",\"superActTime\":\"false\",\"hasApparelIcon\":\"false\",\"notUseVip95CardBar\":\"false\",\"openGradient\":\"true\",\"isCloudChanger\":\"false\",\"hasSeat\":\"false\",\"hasIntervalPrice\":\"true\",\"isDamai\":\"false\",\"waitForStart\":\"false\",\"newAddress\":\"true\",\"hideSMww\":\"false\",\"open618RedbagH5url\":\"false\",\"renovation\":\"false\",\"hasAddCartCoudan\":\"false\",\"showCuntaoTag\":\"false\",\"recommendReason\":\"false\",\"switchToOldApp\":\"false\",\"hideShopDsr\":\"false\",\"hasCombo\":\"false\",\"pricedCoupon\":\"false\",\"hasCoupon\":\"false\",\"cainiaoNoramal\":\"true\",\"showNewPersonBag\":\"false\",\"showSku\":\"true\",\"showShopCard\":\"false\",\"showYaoDai\":\"false\",\"showTmallApp\":\"false\",\"hasNewCombo\":\"false\",\"noShareGroup\":\"true\",\"showSkuProRate\":\"false\",\"hasAddTmallCartCoudan\":\"false\",\"useVip95CardStyle\":\"false\",\"multistage\":\"false\",\"hasQualification\":\"false\",\"isTspace\":\"false\",\"hotItem\":\"false\",\"hasMeal\":\"false\",\"shareGroup\":\"false\",\"showSMww\":\"false\",\"includeSkuData\":\"true\"},\"trade\":{\"buyEnable\":\"true\",\"cartEnable\":\"true\",\"cartParam\":{\"areaId\":\"310101\"},\"cartConfirmEnable\":\"true\",\"buyParam\":{\"areaId\":\"310101\"},\"useWap\":\"false\",\"tradeParams\":{},\"isWap\":\"false\"},\"item\":{\"itemId\":\"543015394188\",\"title\":\"Ohlyah品牌2018新品春季小卫衣外套男女简约百搭大码宽松圆领学生\",\"sellCount\":\"0\",\"vagueSellCount\":\"0\",\"itemPoint\":\"44\",\"skuText\":\"请选择颜色分类/尺码\",\"titleIcon\":\"//gw.alicdn.com/tps/i1/T1AV5DFSRbXXbaUxfe-36-32.png\",\"descType\":\"2\",\"infoText\":{},\"videos\":[]},\"buyer\":{\"tmallMemberLevel\":\"0\"},\"price\":{\"priceTag\":[{\"text\":\"狂欢大促\"}],\"extraPrices\":[{\"priceText\":\"268\",\"priceTitle\":\"价格\",\"lineThrough\":\"true\",\"showTitle\":\"true\",\"sugProm\":\"false\"}],\"newExtraPrices\":[{\"priceText\":\"268\",\"priceTitle\":\"价格\",\"lineThrough\":\"true\",\"showTitle\":\"true\",\"sugProm\":\"false\"}],\"transmitPrice\":{\"priceText\":\"89\",\"sugProm\":\"false\"},\"price\":{\"priceText\":\"89\",\"sugProm\":\"false\"}},\"consumerProtection\":{\"strength\":\"normal\",\"passValue\":\"none\",\"items\":[{\"serviceId\":\"5303\",\"title\":\"极速退货\",\"desc\":\"极速退货\",\"type\":\"0\"},{\"serviceId\":\"3838\",\"title\":\"正品保证\",\"desc\":\"该商品由中国人保承保正品保证险\",\"type\":\"0\"},{\"serviceId\":\"2979\",\"title\":\"极速退款\",\"desc\":\"极速退款是为诚信会员提供的退款退货流程的专享特权，额度是根据每个用户当前的信誉评级情况而定\",\"type\":\"0\"},{\"serviceId\":\"2973\",\"title\":\"七天退换\",\"desc\":\"消费者保障服务，卖家承诺7天退换\",\"type\":\"0\"}],\"params\":\"155:5303,3838,2979,2973\"},\"resource\":{\"entrances\":{\"recommendReason\":null},\"promsCalcInfo\":{\"cheapestMoney\":\"0\",\"hasCoupon\":\"false\"},\"redpacketList\":[],\"share\":{\"name\":\"分享\",\"iconType\":\"1\",\"params\":{\"iconFont\":\"ꄪ\",\"iconColor\":\"#999999\"}},\"coupon\":{}},\"vertical\":{\"cuntao\":{},\"askAll\":{\"linkUrl\":\"//h5.m.taobao.com/wendajia/question2017.html?refId=543015394188\",\"questNum\":\"1\",\"askIcon\":\"https://img.alicdn.com/tps/TB1tVU6PpXXXXXFaXXXXXXXXXXX-102-60.png\",\"askText\":\"衣服偏大或偏小吗？\",\"title\":\"问大家(1)\",\"modelList\":[{\"askText\":\"衣服偏大或偏小吗？\",\"answerCountText\":\"1个回答\"}],\"showNum\":\"2\"},\"playSupply\":null,\"freshFood\":{\"nationalFlag\":\"//g.alicdn.com/mui/flag-img/circle@2x/CN.png\"}},\"delivery\":{\"completedTo\":\"上海 上海市 黄浦区\",\"addressWeexUrl\":\"//market.m.taobao.com/apps/market/detailrax/address-picker.html?spm=a2116h.app.0.0.16d957e9nDYOzv&wh_weex=true\",\"overseaContraBandFlag\":\"false\",\"postage\":\"快递: 0.00\",\"from\":\"广东中山\",\"areaId\":\"310101\",\"areaSell\":\"false\",\"to\":\"黄浦区\"},\"skuBase\":{\"skus\":[{\"skuId\":\"3266000696014\",\"propPath\":\"1627207:1492389733;20509:28314\"},{\"skuId\":\"3266000696017\",\"propPath\":\"1627207:1492389733;20509:28317\"},{\"skuId\":\"3266000696016\",\"propPath\":\"1627207:1492389733;20509:28316\"},{\"skuId\":\"3266000696015\",\"propPath\":\"1627207:1492389733;20509:28315\"},{\"skuId\":\"3266000696018\",\"propPath\":\"1627207:1492389733;20509:28318\"},{\"skuId\":\"3266000696019\",\"propPath\":\"1627207:1492389733;20509:28319\"},{\"skuId\":\"3266000696020\",\"propPath\":\"1627207:1489230337;20509:28314\"},{\"skuId\":\"3266000696023\",\"propPath\":\"1627207:1489230337;20509:28317\"},{\"skuId\":\"3266000696022\",\"propPath\":\"1627207:1489230337;20509:28316\"},{\"skuId\":\"3266000696021\",\"propPath\":\"1627207:1489230337;20509:28315\"},{\"skuId\":\"3266000696024\",\"propPath\":\"1627207:1489230337;20509:28318\"},{\"skuId\":\"3266000696025\",\"propPath\":\"1627207:1489230337;20509:28319\"},{\"skuId\":\"3266000696026\",\"propPath\":\"1627207:1489230328;20509:28314\"},{\"skuId\":\"3266000696029\",\"propPath\":\"1627207:1489230328;20509:28317\"},{\"skuId\":\"3266000696028\",\"propPath\":\"1627207:1489230328;20509:28316\"},{\"skuId\":\"3266000696027\",\"propPath\":\"1627207:1489230328;20509:28315\"},{\"skuId\":\"3266000696030\",\"propPath\":\"1627207:1489230328;20509:28318\"},{\"skuId\":\"3266000696031\",\"propPath\":\"1627207:1489230328;20509:28319\"},{\"skuId\":\"3266000696032\",\"propPath\":\"1627207:1489230342;20509:28314\"},{\"skuId\":\"3266000696035\",\"propPath\":\"1627207:1489230342;20509:28317\"},{\"skuId\":\"3266000696034\",\"propPath\":\"1627207:1489230342;20509:28316\"},{\"skuId\":\"3266000696033\",\"propPath\":\"1627207:1489230342;20509:28315\"},{\"skuId\":\"3266000696036\",\"propPath\":\"1627207:1489230342;20509:28318\"},{\"skuId\":\"3266000696037\",\"propPath\":\"1627207:1489230342;20509:28319\"},{\"skuId\":\"3266000696038\",\"propPath\":\"1627207:1489230331;20509:28314\"},{\"skuId\":\"3266000696041\",\"propPath\":\"1627207:1489230331;20509:28317\"},{\"skuId\":\"3266000696040\",\"propPath\":\"1627207:1489230331;20509:28316\"},{\"skuId\":\"3266000696039\",\"propPath\":\"1627207:1489230331;20509:28315\"},{\"skuId\":\"3266000696042\",\"propPath\":\"1627207:1489230331;20509:28318\"},{\"skuId\":\"3266000696043\",\"propPath\":\"1627207:1489230331;20509:28319\"},{\"skuId\":\"3266000696044\",\"propPath\":\"1627207:1489230341;20509:28314\"},{\"skuId\":\"3266000696047\",\"propPath\":\"1627207:1489230341;20509:28317\"},{\"skuId\":\"3266000696046\",\"propPath\":\"1627207:1489230341;20509:28316\"},{\"skuId\":\"3266000696045\",\"propPath\":\"1627207:1489230341;20509:28315\"},{\"skuId\":\"3266000696048\",\"propPath\":\"1627207:1489230341;20509:28318\"},{\"skuId\":\"3266000696049\",\"propPath\":\"1627207:1489230341;20509:28319\"},{\"skuId\":\"3266000696050\",\"propPath\":\"1627207:1489230336;20509:28314\"},{\"skuId\":\"3266000696053\",\"propPath\":\"1627207:1489230336;20509:28317\"},{\"skuId\":\"3266000696052\",\"propPath\":\"1627207:1489230336;20509:28316\"},{\"skuId\":\"3266000696051\",\"propPath\":\"1627207:1489230336;20509:28315\"},{\"skuId\":\"3266000696054\",\"propPath\":\"1627207:1489230336;20509:28318\"},{\"skuId\":\"3266000696055\",\"propPath\":\"1627207:1489230336;20509:28319\"},{\"skuId\":\"3266000696056\",\"propPath\":\"1627207:1489230330;20509:28314\"},{\"skuId\":\"3266000696059\",\"propPath\":\"1627207:1489230330;20509:28317\"},{\"skuId\":\"3266000696058\",\"propPath\":\"1627207:1489230330;20509:28316\"},{\"skuId\":\"3266000696057\",\"propPath\":\"1627207:1489230330;20509:28315\"},{\"skuId\":\"3266000696060\",\"propPath\":\"1627207:1489230330;20509:28318\"},{\"skuId\":\"3266000696061\",\"propPath\":\"1627207:1489230330;20509:28319\"},{\"skuId\":\"3266000696062\",\"propPath\":\"1627207:1492389734;20509:28314\"},{\"skuId\":\"3266000696065\",\"propPath\":\"1627207:1492389734;20509:28317\"},{\"skuId\":\"3266000696064\",\"propPath\":\"1627207:1492389734;20509:28316\"},{\"skuId\":\"3266000696063\",\"propPath\":\"1627207:1492389734;20509:28315\"},{\"skuId\":\"3266000696066\",\"propPath\":\"1627207:1492389734;20509:28318\"},{\"skuId\":\"3266000696067\",\"propPath\":\"1627207:1492389734;20509:28319\"},{\"skuId\":\"3266000696068\",\"propPath\":\"1627207:1489230335;20509:28314\"},{\"skuId\":\"3266000696071\",\"propPath\":\"1627207:1489230335;20509:28317\"},{\"skuId\":\"3266000696070\",\"propPath\":\"1627207:1489230335;20509:28316\"},{\"skuId\":\"3266000696069\",\"propPath\":\"1627207:1489230335;20509:28315\"},{\"skuId\":\"3266000696072\",\"propPath\":\"1627207:1489230335;20509:28318\"},{\"skuId\":\"3266000696073\",\"propPath\":\"1627207:1489230335;20509:28319\"},{\"skuId\":\"3266000696074\",\"propPath\":\"1627207:1489230340;20509:28314\"},{\"skuId\":\"3266000696077\",\"propPath\":\"1627207:1489230340;20509:28317\"},{\"skuId\":\"3266000696076\",\"propPath\":\"1627207:1489230340;20509:28316\"},{\"skuId\":\"3266000696075\",\"propPath\":\"1627207:1489230340;20509:28315\"},{\"skuId\":\"3266000696078\",\"propPath\":\"1627207:1489230340;20509:28318\"},{\"skuId\":\"3266000696079\",\"propPath\":\"1627207:1489230340;20509:28319\"},{\"skuId\":\"3266000696080\",\"propPath\":\"1627207:1489230333;20509:28314\"},{\"skuId\":\"3266000696083\",\"propPath\":\"1627207:1489230333;20509:28317\"},{\"skuId\":\"3266000696082\",\"propPath\":\"1627207:1489230333;20509:28316\"},{\"skuId\":\"3266000696081\",\"propPath\":\"1627207:1489230333;20509:28315\"},{\"skuId\":\"3266000696084\",\"propPath\":\"1627207:1489230333;20509:28318\"},{\"skuId\":\"3266000696085\",\"propPath\":\"1627207:1489230333;20509:28319\"},{\"skuId\":\"3266000696086\",\"propPath\":\"1627207:1489230343;20509:28314\"},{\"skuId\":\"3266000696089\",\"propPath\":\"1627207:1489230343;20509:28317\"},{\"skuId\":\"3266000696088\",\"propPath\":\"1627207:1489230343;20509:28316\"},{\"skuId\":\"3266000696087\",\"propPath\":\"1627207:1489230343;20509:28315\"},{\"skuId\":\"3266000696090\",\"propPath\":\"1627207:1489230343;20509:28318\"},{\"skuId\":\"3266000696091\",\"propPath\":\"1627207:1489230343;20509:28319\"},{\"skuId\":\"3266000696092\",\"propPath\":\"1627207:1489230339;20509:28314\"},{\"skuId\":\"3266000696095\",\"propPath\":\"1627207:1489230339;20509:28317\"},{\"skuId\":\"3266000696094\",\"propPath\":\"1627207:1489230339;20509:28316\"},{\"skuId\":\"3266000696093\",\"propPath\":\"1627207:1489230339;20509:28315\"},{\"skuId\":\"3266000696096\",\"propPath\":\"1627207:1489230339;20509:28318\"},{\"skuId\":\"3266000696097\",\"propPath\":\"1627207:1489230339;20509:28319\"},{\"skuId\":\"3266000696098\",\"propPath\":\"1627207:1489230334;20509:28314\"},{\"skuId\":\"3266000696101\",\"propPath\":\"1627207:1489230334;20509:28317\"},{\"skuId\":\"3266000696100\",\"propPath\":\"1627207:1489230334;20509:28316\"},{\"skuId\":\"3266000696099\",\"propPath\":\"1627207:1489230334;20509:28315\"},{\"skuId\":\"3266000696102\",\"propPath\":\"1627207:1489230334;20509:28318\"},{\"skuId\":\"3266000696103\",\"propPath\":\"1627207:1489230334;20509:28319\"},{\"skuId\":\"3266000696104\",\"propPath\":\"1627207:1489230338;20509:28314\"},{\"skuId\":\"3266000696107\",\"propPath\":\"1627207:1489230338;20509:28317\"},{\"skuId\":\"3266000696106\",\"propPath\":\"1627207:1489230338;20509:28316\"},{\"skuId\":\"3266000696105\",\"propPath\":\"1627207:1489230338;20509:28315\"},{\"skuId\":\"3266000696108\",\"propPath\":\"1627207:1489230338;20509:28318\"},{\"skuId\":\"3266000696109\",\"propPath\":\"1627207:1489230338;20509:28319\"}],\"props\":[{\"pid\":\"1627207\",\"name\":\"颜色分类\",\"values\":[{\"vid\":\"1492389733\",\"name\":\"大领女款 米白\",\"image\":\"//gw.alicdn.com/bao/uploaded/i2/2087354452/TB2tS32XNdkpuFjy0FbXXaNnpXa_!!2087354452.jpg\",\"sortOrder\":\"0\"},{\"vid\":\"1489230337\",\"name\":\"大领女款 黑色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i4/2087354452/TB2LknbXYJmpuFjSZFBXXXaZXXa_!!2087354452.jpg\",\"sortOrder\":\"7\"},{\"vid\":\"1489230328\",\"name\":\"大领女款 藏青\",\"image\":\"//gw.alicdn.com/bao/uploaded/i3/2087354452/TB2PSc4XHtlpuFjSspoXXbcDpXa_!!2087354452.jpg\",\"sortOrder\":\"8\"},{\"vid\":\"1489230342\",\"name\":\"大领女款 灰色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2SRU5XSxjpuFjSszeXXaeMVXa_!!2087354452.jpg\",\"sortOrder\":\"9\"},{\"vid\":\"1489230331\",\"name\":\"大领女款 插肩\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB23qZ7XH8kpuFjy0FcXXaUhpXa_!!2087354452.jpg\",\"sortOrder\":\"10\"},{\"vid\":\"1489230341\",\"name\":\"大领女款 黄色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2G6c5XMJlpuFjSspjXXcT.pXa_!!2087354452.jpg\",\"sortOrder\":\"11\"},{\"vid\":\"1489230336\",\"name\":\"大领女款 红色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i3/2087354452/TB2XbfdXYxmpuFjSZJiXXXauVXa_!!2087354452.jpg\",\"sortOrder\":\"12\"},{\"vid\":\"1489230330\",\"name\":\"大领女款 粉色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2Up_XXYBnpuFjSZFGXXX51pXa_!!2087354452.jpg\",\"sortOrder\":\"13\"},{\"vid\":\"1492389734\",\"name\":\"小领中性款 米白\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2YELbX04opuFjSZFLXXX8mXXa_!!2087354452.jpg\",\"sortOrder\":\"14\"},{\"vid\":\"1489230335\",\"name\":\"小领中性款 黑色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2rObbX.hnpuFjSZFEXXX0PFXa_!!2087354452.jpg\",\"sortOrder\":\"15\"},{\"vid\":\"1489230340\",\"name\":\"小领中性款 藏青\",\"image\":\"//gw.alicdn.com/bao/uploaded/i3/2087354452/TB2CcbbX.hnpuFjSZFPXXb_4XXa_!!2087354452.jpg\",\"sortOrder\":\"16\"},{\"vid\":\"1489230333\",\"name\":\"小领中性款 灰色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i1/2087354452/TB2.yraX0FopuFjSZFHXXbSlXXa_!!2087354452.jpg\",\"sortOrder\":\"17\"},{\"vid\":\"1489230343\",\"name\":\"小领中性款 插肩\",\"image\":\"//gw.alicdn.com/bao/uploaded/i4/2087354452/TB2SwE5XMRkpuFjy1zeXXc.6FXa_!!2087354452.jpg\",\"sortOrder\":\"18\"},{\"vid\":\"1489230339\",\"name\":\"小领中性款 黄色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i4/2087354452/TB2dQ73XR0lpuFjSszdXXcdxFXa_!!2087354452.jpg\",\"sortOrder\":\"19\"},{\"vid\":\"1489230334\",\"name\":\"小领中性款 红色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i2/2087354452/TB28BM4XR0kpuFjy1zdXXXuUVXa_!!2087354452.jpg\",\"sortOrder\":\"20\"},{\"vid\":\"1489230338\",\"name\":\"小领中性款 粉色\",\"image\":\"//gw.alicdn.com/bao/uploaded/i2/2087354452/TB2E5LbX5pnpuFjSZFkXXc4ZpXa_!!2087354452.jpg\",\"sortOrder\":\"21\"}]},{\"pid\":\"20509\",\"name\":\"尺码\",\"values\":[{\"vid\":\"28314\",\"name\":\"S\",\"sortOrder\":\"1\"},{\"vid\":\"28317\",\"name\":\"XL\",\"sortOrder\":\"2\"},{\"vid\":\"28316\",\"name\":\"L\",\"sortOrder\":\"3\"},{\"vid\":\"28315\",\"name\":\"M\",\"sortOrder\":\"4\"},{\"vid\":\"28318\",\"name\":\"XXL\",\"sortOrder\":\"5\"},{\"vid\":\"28319\",\"name\":\"XXXL\",\"sortOrder\":\"6\"}]}]},\"skuCore\":{\"skuItem\":{\"showAddress\":\"false\",\"hideQuantity\":\"false\",\"location\":\"黄浦区\"},\"sku2info\":{\"3266000696080\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696081\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696084\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696085\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696082\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696083\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696088\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696089\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696086\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696087\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696070\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"885\"},\"3266000696073\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"887\"},\"3266000696074\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696071\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"878\"},\"3266000696072\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"869\"},\"3266000696077\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696078\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"892\"},\"3266000696075\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696076\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"0\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"69038\"},\"3266000696079\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696022\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696023\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696020\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"893\"},\"3266000696021\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"882\"},\"3266000696026\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696027\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696024\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696025\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696028\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696029\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"896\"},\"3266000696091\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696092\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696090\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696095\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696096\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696093\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696094\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696099\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696097\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696098\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696015\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"896\"},\"3266000696016\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"895\"},\"3266000696014\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696019\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696017\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696018\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696040\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696041\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"894\"},\"3266000696044\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696045\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696042\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696043\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696048\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696049\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696046\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696047\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696030\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696033\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696034\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696031\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696032\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696037\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696038\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696035\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696036\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696039\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696062\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696063\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"895\"},\"3266000696060\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696061\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696066\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696067\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696100\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"895\"},\"3266000696064\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696065\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696103\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696104\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696068\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"891\"},\"3266000696101\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"895\"},\"3266000696069\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"876\"},\"3266000696102\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"896\"},\"3266000696107\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696108\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696105\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696106\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696109\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"897\"},\"3266000696051\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"896\"},\"3266000696052\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"898\"},\"3266000696050\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"899\"},\"3266000696055\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696056\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696053\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"891\"},\"3266000696054\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"0\"},\"3266000696059\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"895\"},\"3266000696057\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"},\"3266000696058\":{\"price\":{\"priceMoney\":\"8900\",\"priceText\":\"89\",\"showTitle\":\"false\",\"sugProm\":\"false\"},\"quantity\":\"900\"}}},\"skuVertical\":{},\"debugData\":{},\"params\":{\"trackParams\":{\"shop_id\":\"114333184\",\"abtest\":\"\",\"layoutId\":\"2027\",\"aliBizToken\":\"YWxpLmNoaW5hLnRtYWxs\",\"aliBizCode\":\"ali.china.tmall\"}},\"otherInfo\":{\"bucketId\":\"3\",\"systemTime\":\"1537434392447\"},\"extendedData\":{},\"traceDatas\":{\"dinamic+TB_detail_ask_all_two_questions\":{\"module\":\"tb_detail_ask_all_two_questions\"},\"dinamic+TB_detail_brand_info\":{\"module\":\"tb_detail_brand_info\"},\"dinamic+TB_detail_endorsement\":{\"module\":\"tb_detail_endorsement\"},\"dinamic+TB_detail_tip_presale\":{\"module\":\"tb_detail_tip_presale\"},\"dinamic+TB_detail_subInfo_superMarket\":{\"module\":\"tb_detail_subInfo_superMarket\"},\"dinamic+TB_detail_ask_all_no_question\":{\"module\":\"tb_detail_ask_all_no_question\"},\"dinamic+TB_detail_kernel_params\":{\"module\":\"tb_detail_kernel_params\"},\"dinamic_o2o+TB_detail_o2o\":{\"module\":\"TB_detail_o2o\"},\"dinamic+TB_detail_subInfo_jhs_normal\":{\"module\":\"tb_detail_subInfo_jhs_normal\"},\"dinamic+TB_detail_new_person_bag_banner\":{\"module\":\"tb_detail_new_person_bag_banner\"},\"dinamic+TB_detail_title_tmallMarket\":{\"module\":\"tb_detail_title_tmallMarket\"},\"dinamic+TB_detail_buyer_photo\":{\"module\":\"tb_detail_buyer_photo\"},\"dinamic+TB_detail_subInfo_preSellForTaobaoB\":{\"module\":\"tb_detail_subInfo_preSellForTaobaoB\"},\"dinamic+TB_detail_title_xinxuan\":{\"module\":\"tb_detail_title_xinxuan\"},\"dinamic+TB_detail_subInfo_preSellForTaobaoC\":{\"module\":\"tb_detail_subInfo_preSellForTaobaoC\"},\"dinamic+TB_detail_tmallfeature\":{\"module\":\"tb_detail_tmallfeature\"},\"dinamic+TB_detail_sub_logistics\":{\"module\":\"tb_detail_sub_logistics\"},\"dinamic+TB_detail_price_coupon\":{\"module\":\"tb_detail_price_coupon\"},\"dinamic+TB_detail_coupon\":{\"module\":\"tb_detail_coupon\"},\"dinamic+TB_detail_tip_presale2\":{\"module\":\"tb_detail_tip_presale2\"},\"dinamic+TB_detail_tip_price\":{\"module\":\"tb_detail_tip_price\"},\"dinamic+TB_detail_delivery\":{\"module\":\"tb_detail_delivery\"},\"dinamic+TB_detail_ship_time\":{\"module\":\"tb_detail_ship_time\"},\"dinamic+TB_detail_ask_all_aliMedical\":{\"module\":\"tb_detail_ask_all_aliMedical\"},\"dinamic+TB_detail_priced_coupon\":{\"module\":\"tb_detail_priced_coupon\"},\"dinamic+TB_detail_tax\":{\"module\":\"tb_detail_tax\"},\"dinamic+TB_detail_comment_empty\":{\"module\":\"tb_detail_comment_empty\"},\"dinamic+TB_detail_logistics\":{\"module\":\"tb_detail_logistics\"}},\"layout\":{\"layoutId\":\"TB1CqubkY1YBuNjSszehA1blFXa\",\"config\":{\"dependComponentConfigID\":\"TB166Osa5IRMeJjy0FbhA2nqXXa\",\"dependActionConfigID\":\"TB1CKiJk4WYBuNjy1zkhA0GGpXa\",\"dependThemeConfigID\":\"TB1O1LwiCCWBuNjy0FhhA26EVXa\"},\"templateDBId\":\"2027\"},\"rate\":{},\"modules\":[]}"
+            }
+        ],
+        "item": {
+            "itemId": "543015394188",
+            "title": "Ohlyah品牌2018新品春季小卫衣外套男女简约百搭大码宽松圆领学生",
+            "subtitle": "用心做衣服 精致做工 起球终身包退",
+            "images": [
+                "//img.alicdn.com/imgextra/i4/TB1VliLOFXXXXcpapXXXXXXXXXX_!!0-item_pic.jpg",
+                "//img.alicdn.com/imgextra/i3/2087354452/TB2zFYdX98mpuFjSZFMXXaxpVXa_!!2087354452.jpg",
+                "//img.alicdn.com/imgextra/i1/2087354452/TB2uXjcXYJmpuFjSZFBXXXaZXXa_!!2087354452.jpg",
+                "//img.alicdn.com/imgextra/i4/2087354452/TB2n8zdX5BnpuFjSZFzXXaSrpXa_!!2087354452.jpg",
+                "//img.alicdn.com/imgextra/i4/2087354452/TB2HJU4XHFlpuFjy0FgXXbRBVXa_!!2087354452.jpg"
+            ],
+            "categoryId": "50008898",
+            "rootCategoryId": "16",
+            "brandValueId": "721060829",
+            "skuText": "请选择颜色分类 尺码 ",
+            "countMultiple": [],
+            "commentCount": "113",
+            "favcount": "280",
+            "taobaoDescUrl": "//h5.m.taobao.com/app/detail/desc.html?_isH5Des=true#!id=543015394188&type=0&f=TB1eJlraVzqK1RjSZFz8qtjrpla&sellerType=B",
+            "tmallDescUrl": "//mdetail.tmall.com/templates/pages/desc?id=543015394188",
+            "taobaoPcDescUrl": "//h5.m.taobao.com/app/detail/desc.html?_isH5Des=true#!id=543015394188&type=1&f=TB1LPJoa3HqK1RjSZFE8qwGMXla&sellerType=B",
+            "moduleDescUrl": "//hws.m.taobao.com/d/modulet/v5/WItemMouldDesc.do?id=543015394188&f=TB1EG4pa3HqK1RjSZJn8qvNLpXa",
+            "openDecoration": false,
+            "moduleDescParams": {
+                "f": "TB1EG4pa3HqK1RjSZJn8qvNLpXa",
+                "id": "543015394188"
+            },
+            "h5moduleDescUrl": "//mdetail.tmall.com/templates/pages/itemDesc?id=543015394188"
+        },
+        "mockData": "{\"delivery\":{},\"trade\":{\"buyEnable\":true,\"cartEnable\":true},\"feature\":{\"hasSku\":true,\"showSku\":true},\"price\":{\"price\":{\"priceText\":\"268.00\"}},\"skuCore\":{\"sku2info\":{\"0\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":9600},\"3266000696103\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696102\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696101\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696100\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696099\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696098\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696097\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696096\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696109\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696108\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696107\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696106\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696105\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696104\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696087\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696086\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696085\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696084\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696083\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696082\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696081\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696080\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696095\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696094\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696093\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696092\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696091\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696090\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696089\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696088\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696071\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696070\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696069\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696068\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696067\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696066\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696065\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696064\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696079\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696078\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696077\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696076\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696075\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696074\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696073\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696072\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696055\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696054\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696053\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696052\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696051\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696050\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696049\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696048\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696063\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696062\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696061\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696060\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696059\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696058\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696057\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696056\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696039\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696038\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696037\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696036\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696035\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696034\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696033\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696032\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696047\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696046\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696045\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696044\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696043\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696042\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696041\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696040\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696023\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696022\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696021\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696020\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696019\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696018\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696017\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696016\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696031\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696030\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696029\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696028\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696027\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696026\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696025\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696024\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696015\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100},\"3266000696014\":{\"price\":{\"priceMoney\":26800,\"priceText\":\"268.00\",\"priceTitle\":\"价格\"},\"quantity\":100}},\"skuItem\":{\"hideQuantity\":true}}}",
+        "params": {
+            "trackParams": {
+                "brandId": "721060829",
+                "BC_type": "B",
+                "categoryId": "50008898"
+            }
+        },
+        "props": {
+            "groupProps": [
+                {
+                    "基本信息": [
+                        {
+                            "内胆类型": "棉内胆 "
+                        },
+                        {
+                            "材质成分": "棉100% "
+                        },
+                        {
+                            "销售渠道类型": "纯电商(只在线上销售) "
+                        },
+                        {
+                            "货号": "OLY5802132 "
+                        },
+                        {
+                            "服装版型": "宽松 "
+                        },
+                        {
+                            "厚薄": "常规 "
+                        },
+                        {
+                            "风格": "通勤 "
+                        },
+                        {
+                            "通勤": "简约 "
+                        },
+                        {
+                            "款式": "套头 "
+                        },
+                        {
+                            "组合形式": "单件 "
+                        },
+                        {
+                            "衣长": "常规 "
+                        },
+                        {
+                            "袖长": "长袖 "
+                        },
+                        {
+                            "领子": "圆领 "
+                        },
+                        {
+                            "袖型": "常规 "
+                        },
+                        {
+                            "品牌": "Ohlyah "
+                        },
+                        {
+                            "图案": "卡通动漫 "
+                        },
+                        {
+                            "服装款式细节": "印花 "
+                        },
+                        {
+                            "面料材质": "棉 "
+                        },
+                        {
+                            "成分含量": "96%及以上 "
+                        },
+                        {
+                            "适用年龄": "18-24周岁 "
+                        },
+                        {
+                            "年份季节": "2016年冬季 "
+                        },
+                        {
+                            "颜色分类": "大领女款 米白 大领女款 黑色 大领女款 藏青 大领女款 灰色 大领女款 插肩 大领女款 黄色 大领女款 红色 大领女款 粉色 小领中性款 米白 小领中性款 黑色 小领中性款 藏青 小领中性款 灰色 小领中性款 插肩 小领中性款 黄色 小领中性款 红色 小领中性款 粉色 "
+                        },
+                        {
+                            "尺码": "S XL L M XXL XXXL "
+                        }
+                    ]
+                }
+            ]
+        },
+        "props2": {},
+        "propsCut": "内胆类型 材质成分 销售渠道类型 货号 服装版型 厚薄 风格 通勤 款式 组合形式 衣长 袖长 领子 袖型 品牌 图案 服装款式细节 面料材质 成分含量 适用年龄 年份季节 颜色分类 尺码 ",
+        "rate": {
+            "totalCount": "113",
+            "rateList": [
+                {
+                    "content": "很休闲，质量不错",
+                    "userName": "陈**3",
+                    "headPic": "//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vFkSPFHuXH*evF8LPmHSXHk4vGvYPHgGOFxGMF-HMCkyMHgYM8kbvG8uM8PIOHkL&width=40&height=40&type=sns",
+                    "memberLevel": "2",
+                    "dateTime": "2018-04-06",
+                    "skuInfo": "颜色分类:大领女款 黑色;尺码:XL",
+                    "tmallMemberLevel": "0",
+                    "headExtraPic": "",
+                    "memberIcon": "",
+                    "isVip": "false"
+                }
+            ]
+        },
+        "resource": {
+            "entrances": {
+                "askAll": {
+                    "icon": "https://gw.alicdn.com/tps/TB1J7X6KXXXXXc4XXXXXXXXXXXX-102-60.png",
+                    "text": "\"衣服偏大或偏小吗？\"",
+                    "link": "//h5.m.taobao.com/wendajia/question2017.html?refId=543015394188"
+                }
+            }
+        },
+        "seller": {
+            "userId": "2087354452",
+            "shopId": "114333184",
+            "shopName": "ohlyah旗舰店",
+            "shopUrl": "tmall://page.tm/shop?item_id=543015394188&shopId=114333184",
+            "taoShopUrl": "//shop.m.taobao.com/shop/shop_index.htm?user_id=2087354452&item_id=543015394188",
+            "shopIcon": "//img.alicdn.com/imgextra//fe/c1/TB1tT1.KVXXXXbDXVXXSutbFXXX.jpg",
+            "fans": "25.0万",
+            "allItemCount": "1199",
+            "newItemCount": "97",
+            "showShopLinkIcon": false,
+            "shopCard": "掌柜近期上新97件宝贝，速览",
+            "sellerType": "B",
+            "shopType": "B",
+            "evaluates": [
+                {
+                    "title": "宝贝描述",
+                    "score": "4.9 ",
+                    "type": "desc",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#FF5000",
+                    "levelBackgroundColor": "#FFF1EB",
+                    "tmallLevelTextColor": "#FF0036",
+                    "tmallLevelBackgroundColor": "#FFF1EB"
+                },
+                {
+                    "title": "卖家服务",
+                    "score": "4.8 ",
+                    "type": "serv",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#FF5000",
+                    "levelBackgroundColor": "#FFF1EB",
+                    "tmallLevelTextColor": "#FF0036",
+                    "tmallLevelBackgroundColor": "#FFF1EB"
+                },
+                {
+                    "title": "物流服务",
+                    "score": "4.8 ",
+                    "type": "post",
+                    "level": "1",
+                    "levelText": "高",
+                    "levelTextColor": "#FF5000",
+                    "levelBackgroundColor": "#FFF1EB",
+                    "tmallLevelTextColor": "#FF0036",
+                    "tmallLevelBackgroundColor": "#FFF1EB"
+                }
+            ],
+            "sellerNick": "ohlyah旗舰店",
+            "creditLevel": "15",
+            "creditLevelIcon": "//gw.alicdn.com/tfs/TB1QoJUIwmTBuNjy1XbXXaMrVXa-84-36.png?getAvatar=avatar",
+            "starts": "2014-10-17 14:48:06",
+            "goodRatePercentage": "100.00%",
+            "fbt2User": "ohlyah旗舰店"
+        },
+        "skuBase": {
+            "skus": [
+                {
+                    "skuId": "3266000696014",
+                    "propPath": "20509:28314;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696017",
+                    "propPath": "20509:28317;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696016",
+                    "propPath": "20509:28316;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696015",
+                    "propPath": "20509:28315;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696018",
+                    "propPath": "20509:28318;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696019",
+                    "propPath": "20509:28319;1627207:1492389733"
+                },
+                {
+                    "skuId": "3266000696020",
+                    "propPath": "20509:28314;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696023",
+                    "propPath": "20509:28317;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696022",
+                    "propPath": "20509:28316;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696021",
+                    "propPath": "20509:28315;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696024",
+                    "propPath": "20509:28318;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696025",
+                    "propPath": "20509:28319;1627207:1489230337"
+                },
+                {
+                    "skuId": "3266000696026",
+                    "propPath": "20509:28314;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696029",
+                    "propPath": "20509:28317;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696028",
+                    "propPath": "20509:28316;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696027",
+                    "propPath": "20509:28315;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696030",
+                    "propPath": "20509:28318;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696031",
+                    "propPath": "20509:28319;1627207:1489230328"
+                },
+                {
+                    "skuId": "3266000696032",
+                    "propPath": "20509:28314;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696035",
+                    "propPath": "20509:28317;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696034",
+                    "propPath": "20509:28316;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696033",
+                    "propPath": "20509:28315;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696036",
+                    "propPath": "20509:28318;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696037",
+                    "propPath": "20509:28319;1627207:1489230342"
+                },
+                {
+                    "skuId": "3266000696038",
+                    "propPath": "20509:28314;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696041",
+                    "propPath": "20509:28317;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696040",
+                    "propPath": "20509:28316;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696039",
+                    "propPath": "20509:28315;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696042",
+                    "propPath": "20509:28318;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696043",
+                    "propPath": "20509:28319;1627207:1489230331"
+                },
+                {
+                    "skuId": "3266000696044",
+                    "propPath": "20509:28314;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696047",
+                    "propPath": "20509:28317;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696046",
+                    "propPath": "20509:28316;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696045",
+                    "propPath": "20509:28315;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696048",
+                    "propPath": "20509:28318;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696049",
+                    "propPath": "20509:28319;1627207:1489230341"
+                },
+                {
+                    "skuId": "3266000696050",
+                    "propPath": "20509:28314;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696053",
+                    "propPath": "20509:28317;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696052",
+                    "propPath": "20509:28316;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696051",
+                    "propPath": "20509:28315;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696054",
+                    "propPath": "20509:28318;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696055",
+                    "propPath": "20509:28319;1627207:1489230336"
+                },
+                {
+                    "skuId": "3266000696056",
+                    "propPath": "20509:28314;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696059",
+                    "propPath": "20509:28317;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696058",
+                    "propPath": "20509:28316;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696057",
+                    "propPath": "20509:28315;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696060",
+                    "propPath": "20509:28318;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696061",
+                    "propPath": "20509:28319;1627207:1489230330"
+                },
+                {
+                    "skuId": "3266000696062",
+                    "propPath": "20509:28314;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696065",
+                    "propPath": "20509:28317;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696064",
+                    "propPath": "20509:28316;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696063",
+                    "propPath": "20509:28315;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696066",
+                    "propPath": "20509:28318;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696067",
+                    "propPath": "20509:28319;1627207:1492389734"
+                },
+                {
+                    "skuId": "3266000696068",
+                    "propPath": "20509:28314;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696071",
+                    "propPath": "20509:28317;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696070",
+                    "propPath": "20509:28316;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696069",
+                    "propPath": "20509:28315;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696072",
+                    "propPath": "20509:28318;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696073",
+                    "propPath": "20509:28319;1627207:1489230335"
+                },
+                {
+                    "skuId": "3266000696074",
+                    "propPath": "20509:28314;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696077",
+                    "propPath": "20509:28317;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696076",
+                    "propPath": "20509:28316;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696075",
+                    "propPath": "20509:28315;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696078",
+                    "propPath": "20509:28318;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696079",
+                    "propPath": "20509:28319;1627207:1489230340"
+                },
+                {
+                    "skuId": "3266000696080",
+                    "propPath": "20509:28314;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696083",
+                    "propPath": "20509:28317;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696082",
+                    "propPath": "20509:28316;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696081",
+                    "propPath": "20509:28315;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696084",
+                    "propPath": "20509:28318;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696085",
+                    "propPath": "20509:28319;1627207:1489230333"
+                },
+                {
+                    "skuId": "3266000696086",
+                    "propPath": "20509:28314;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696089",
+                    "propPath": "20509:28317;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696088",
+                    "propPath": "20509:28316;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696087",
+                    "propPath": "20509:28315;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696090",
+                    "propPath": "20509:28318;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696091",
+                    "propPath": "20509:28319;1627207:1489230343"
+                },
+                {
+                    "skuId": "3266000696092",
+                    "propPath": "20509:28314;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696095",
+                    "propPath": "20509:28317;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696094",
+                    "propPath": "20509:28316;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696093",
+                    "propPath": "20509:28315;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696096",
+                    "propPath": "20509:28318;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696097",
+                    "propPath": "20509:28319;1627207:1489230339"
+                },
+                {
+                    "skuId": "3266000696098",
+                    "propPath": "20509:28314;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696101",
+                    "propPath": "20509:28317;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696100",
+                    "propPath": "20509:28316;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696099",
+                    "propPath": "20509:28315;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696102",
+                    "propPath": "20509:28318;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696103",
+                    "propPath": "20509:28319;1627207:1489230334"
+                },
+                {
+                    "skuId": "3266000696104",
+                    "propPath": "20509:28314;1627207:1489230338"
+                },
+                {
+                    "skuId": "3266000696107",
+                    "propPath": "20509:28317;1627207:1489230338"
+                },
+                {
+                    "skuId": "3266000696106",
+                    "propPath": "20509:28316;1627207:1489230338"
+                },
+                {
+                    "skuId": "3266000696105",
+                    "propPath": "20509:28315;1627207:1489230338"
+                },
+                {
+                    "skuId": "3266000696108",
+                    "propPath": "20509:28318;1627207:1489230338"
+                },
+                {
+                    "skuId": "3266000696109",
+                    "propPath": "20509:28319;1627207:1489230338"
+                }
+            ],
+            "props": [
+                {
+                    "pid": "20509",
+                    "name": "尺码",
+                    "values": [
+                        {
+                            "vid": "28314",
+                            "name": "S"
+                        },
+                        {
+                            "vid": "28317",
+                            "name": "XL"
+                        },
+                        {
+                            "vid": "28316",
+                            "name": "L"
+                        },
+                        {
+                            "vid": "28315",
+                            "name": "M"
+                        },
+                        {
+                            "vid": "28318",
+                            "name": "XXL"
+                        },
+                        {
+                            "vid": "28319",
+                            "name": "XXXL"
+                        }
+                    ]
+                },
+                {
+                    "pid": "1627207",
+                    "name": "颜色分类",
+                    "values": [
+                        {
+                            "vid": "1492389733",
+                            "name": "大领女款 米白",
+                            "image": "//img.alicdn.com/imgextra/i2/2087354452/TB2tS32XNdkpuFjy0FbXXaNnpXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230337",
+                            "name": "大领女款 黑色",
+                            "image": "//img.alicdn.com/imgextra/i4/2087354452/TB2LknbXYJmpuFjSZFBXXXaZXXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230328",
+                            "name": "大领女款 藏青",
+                            "image": "//img.alicdn.com/imgextra/i3/2087354452/TB2PSc4XHtlpuFjSspoXXbcDpXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230342",
+                            "name": "大领女款 灰色",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2SRU5XSxjpuFjSszeXXaeMVXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230331",
+                            "name": "大领女款 插肩",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB23qZ7XH8kpuFjy0FcXXaUhpXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230341",
+                            "name": "大领女款 黄色",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2G6c5XMJlpuFjSspjXXcT.pXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230336",
+                            "name": "大领女款 红色",
+                            "image": "//img.alicdn.com/imgextra/i3/2087354452/TB2XbfdXYxmpuFjSZJiXXXauVXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230330",
+                            "name": "大领女款 粉色",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2Up_XXYBnpuFjSZFGXXX51pXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1492389734",
+                            "name": "小领中性款 米白",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2YELbX04opuFjSZFLXXX8mXXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230335",
+                            "name": "小领中性款 黑色",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2rObbX.hnpuFjSZFEXXX0PFXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230340",
+                            "name": "小领中性款 藏青",
+                            "image": "//img.alicdn.com/imgextra/i3/2087354452/TB2CcbbX.hnpuFjSZFPXXb_4XXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230333",
+                            "name": "小领中性款 灰色",
+                            "image": "//img.alicdn.com/imgextra/i1/2087354452/TB2.yraX0FopuFjSZFHXXbSlXXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230343",
+                            "name": "小领中性款 插肩",
+                            "image": "//img.alicdn.com/imgextra/i4/2087354452/TB2SwE5XMRkpuFjy1zeXXc.6FXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230339",
+                            "name": "小领中性款 黄色",
+                            "image": "//img.alicdn.com/imgextra/i4/2087354452/TB2dQ73XR0lpuFjSszdXXcdxFXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230334",
+                            "name": "小领中性款 红色",
+                            "image": "//img.alicdn.com/imgextra/i2/2087354452/TB28BM4XR0kpuFjy1zdXXXuUVXa_!!2087354452.jpg"
+                        },
+                        {
+                            "vid": "1489230338",
+                            "name": "小领中性款 粉色",
+                            "image": "//img.alicdn.com/imgextra/i2/2087354452/TB2E5LbX5pnpuFjSZFkXXc4ZpXa_!!2087354452.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "vertical": {
+            "askAll": {
+                "askText": "衣服偏大或偏小吗？",
+                "askIcon": "https://gw.alicdn.com/tps/TB1J7X6KXXXXXc4XXXXXXXXXXXX-102-60.png",
+                "linkUrl": "//h5.m.taobao.com/wendajia/question2017.html?refId=543015394188",
+                "title": "问大家(1)",
+                "questNum": "1",
+                "showNum": "2",
+                "modelList": [
+                    {
+                        "askText": "衣服偏大或偏小吗？",
+                        "answerCountText": "1个回答"
+                    }
+                ],
+                "model4XList": [
+                    {
+                        "askText": "衣服偏大或偏小吗？",
+                        "askIcon": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png",
+                        "askTextColor": "#162B36"
+                    },
+                    {
+                        "askIcon": "//gw.alicdn.com/tfs/TB13vANlJfJ8KJjy0FeXXXKEXXa-36-36.png",
+                        "askTextColor": "#999999"
+                    }
+                ]
+            }
+        }
+    }
+}

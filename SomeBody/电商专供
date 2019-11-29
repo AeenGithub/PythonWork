@@ -1,0 +1,72 @@
+
+Private Sub Delete_Click()
+Application.Visible = True
+For Each pic In ActiveSheet.Shapes
+    pic.Delete
+Next
+End Sub
+Private Sub YInsert_Click()
+Application.Visible = True
+Set SelectRng = Selection
+'Call JustAdvert
+Set oDoc = CreateObject("htmlfile")
+Set regex = CreateObject("VBScript.RegExp")
+Application.ScreenUpdating = True
+Dim XmlHttp, second_XmlHttp, third_XmlHttp
+    Set XmlHttp = CreateObject("Microsoft.XMLHTTP")
+    Set second_XmlHttp = CreateObject("Microsoft.XMLHTTP")
+    Set third_XmlHttp = CreateObject("Microsoft.XMLHTTP")
+Dim WebLink As DataObject  '声明新DataObject类
+    Set WebLink = New DataObject
+init_url = "https://oauth.fangcloud.com/oauth/token?"
+second_url = "https://open.fangcloud.com/api/v2/item/search?"
+file_url = init_url & "grant_type=password&" & "username=9e117a09c8e069edf6227fd76cf73690&" & "password=16f30b773304858113036a035639dd9a"
+XmlHttp.Open "POST", file_url, False
+XmlHttp.setrequestheader "Authorization", "Basic MzJiNWQzOTYtMzgyYy00ZDc1LTgyNzMtNjU0ZTVlMTcwNDU0OjQ4MjFhOTdmLTg1ZjUtNDM1OC1iYWFkLTkxMmRhZWVhNzUzMg=="
+XmlHttp.Send
+If XmlHttp.ReadyState = 4 Then HtmlString = StrConv(XmlHttp.Responsebody, vbUnicode)
+access_token = Mid(HtmlString, 18, 36)
+'MsgBox access_token
+For Each MR In SelectRng
+    If Not IsEmpty(MR) Then
+        MR.Select
+        item_id = ActiveCell.Value
+        item_id_text = ActiveCell.Formula
+        total_second_url = second_url & "query_words=" & item_id_text & ".jpg&type=file&" & "query_filter=file_name"
+        'MsgBox total_second_url
+        second_XmlHttp.Open "GET", total_second_url, False
+        second_XmlHttp.setrequestheader "Authorization", "Bearer " & access_token
+        second_XmlHttp.Send
+        If second_XmlHttp.ReadyState = 4 Then secondHtmlString = StrConv(second_XmlHttp.Responsebody, vbUnicode)
+        'MsgBox secondHtmlString
+        pic_id = Mid(secondHtmlString, 178, 12)
+        'MsgBox (pic_id)
+        third_url = "https://open.fangcloud.com/api/v2/file/" & pic_id & "/download"
+        third_XmlHttp.Open "GET", third_url, False
+        third_XmlHttp.setrequestheader "Authorization", "Bearer " & access_token
+        third_XmlHttp.Send
+        If third_XmlHttp.ReadyState = 4 Then thirdHtmlString = StrConv(third_XmlHttp.Responsebody, vbUnicode)
+        'MsgBox thirdHtmlString
+        len_url = Len(thirdHtmlString) - 24
+        download_url = Mid(thirdHtmlString, 22, len_url)
+        'MsgBox download_url
+        img_html = "<table><td><img src=" & download_url & " width=16 height=12 /></td></table>"
+        cell_address = Replace(ActiveCell.Address, "$", "")
+        WebLink.SetText img_html
+        WebLink.PutInClipboard
+        ActiveSheet.PasteSpecial Format:="Unicode 文本", Link:=False, DisplayAsIcon:=False
+        Selection.ShapeRange.LockAspectRatio = msoFalse
+        With Selection
+            .Top = Range(cell_address).Top
+            .Width = Range(cell_address).Width
+            .Height = Range(cell_address).Height
+            .Left = Range(cell_address).Left
+        End With
+        Selection.ShapeRange.Rotation = 0#
+        Selection.Placement = xlMoveAndSize
+        Selection.PrintObject = True
+    End If
+NoPicture:
+    ActiveCell.Value = item_id_text
+Next
+End Sub
