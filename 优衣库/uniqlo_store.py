@@ -67,7 +67,8 @@ class UniqloStore(object):
     # 联系各个方法，进行循环爬取
     def main(self):
         page = 1
-        xlsx_writer = pd.ExcelWriter('D:\\文档\\A天猫\\优衣库专题\\优衣库门店\\淮海路旗舰店_{}.xlsx'.format(self.datenum))
+        xlsx_writer = pd.ExcelWriter(
+            'E:\\文档\\qingbaot\\淮海路旗舰店_{}.xlsx'.format(self.datenum))
         item_clss, product_lst, product_info = self.deal_json(page)
         total_page = int(product_info['productSum'])//16 + 1
         pages_lst = []

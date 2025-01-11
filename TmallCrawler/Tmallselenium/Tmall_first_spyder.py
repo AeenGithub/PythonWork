@@ -24,8 +24,7 @@ class TM_producs(object):
         self.headers = random.choice(self.lst_headers)
         self.headers['cookie'] = '''cna=o5VNFLBbw3ACAbStZ7Gsu/la; OZ_1U_2061=vid=vbc80bf5d21e62.0&ctime=1539836927&ltime=1539836926; sm4=310100; csa=undefined; t=d5cf7ba45b4ec8a1d0983bad48bee570; _tb_token_=7b9b4055b1d4d; cookie2=1fb9773bdff4bf3fa76ef019de38b5d3; _m_h5_tk=2821bd1b4432e16b5f0449235f9270cf_1540869175421; _m_h5_tk_enc=d42f94f58654299a5b4e642ee1a1f0e6; hng=""; uc1=cookie21=Vq8l%2BKCLjhS4UhJVbhgU&cookie15=WqG3DMC9VAQiUQ%3D%3D&cookie14=UoTYNk%2BmbVMk6w%3D%3D; uc3=vt3=F8dByRjP3P2FcttLjU4%3D&id2=Uoe8iq%2F1cXOw4g%3D%3D&nk2=1CAm%2BTqNx%2FMopg%3D%3D&lg2=UIHiLt3xD8xYTw%3D%3D; tracknick=%5Cu98CE%5Cu4E91%5Cu51B3%5Cu5730%5Cu8D77; _l_g_=Ug%3D%3D; ck1=""; unb=1680414312; lgc=%5Cu98CE%5Cu4E91%5Cu51B3%5Cu5730%5Cu8D77; cookie1=WqH147gwEXHRwypXeqGsjnXlh76p%2FuypS0xDeyQ14Fs%3D; login=true; cookie17=Uoe8iq%2F1cXOw4g%3D%3D; _nk_=%5Cu98CE%5Cu4E91%5Cu51B3%5Cu5730%5Cu8D77; uss=""; csg=c8934b23; skt=a0083c70a71c8d80; enc=jLLPBVlpRXcNbWgnsoI5iYSO6GWaqeVV00ntQ%2BIJeQVuYMymyWIGBtn88mEr2JEY%2BeMutBiH7xcq7PMBJL4D%2Fw%3D%3D; x5sec=7b227477736d3b32223a223133626361356333363736386461353735653637346131356237613863326131434f4c7033743446454e616f6c616d6b6d7237344f686f4d4d5459344d4451784e444d784d6a7378227d; isg=BO_vsXYZ6LF5pOycBPuyuNdXfgPzxE2Rt9FmuwF8i95lUA9SCWTTBu1C1gBLKBsu'''
         datenum = datetime.now().strftime('%Y%m%d%H%M')
-        self.filename = 'D:\\Python\\TmallCrawler\\file\\{}_{}.csv'.format(
-            'store_of_Tmall', datenum)
+        self.filename = 'D:\\Python\\TmallCrawler\\file\\{}_{}.csv'.format('store_of_Tmall', datenum)
         self.get_file()
         self.savelog()
 

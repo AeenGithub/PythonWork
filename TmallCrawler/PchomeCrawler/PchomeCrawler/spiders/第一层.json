@@ -1,0 +1,3802 @@
+[
+        {
+            "Id": "h24\/3c",
+            "Name": "3C",
+            "Url": null,
+            "Sort": 1,
+            "Nodes": [
+                {
+                    "Id": "DHAA",
+                    "Name": "筆 記 電 腦",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DSAA",
+                    "Name": "桌 上 電 腦",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DSAM",
+                    "Name": "商 用 電 腦",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DSAU",
+                    "Name": "DIY 電腦",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DSAB",
+                    "Name": "LCD 螢幕",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DSBB",
+                    "Name": "電 競 螢 幕",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DRAF",
+                    "Name": "網  路",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DRAG",
+                    "Name": "網路硬碟",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DSAE",
+                    "Name": "軟體",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DCAS",
+                    "Name": "視訊監控",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DSBC",
+                    "Name": "南紡3C",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DRAH",
+                    "Name": "S S D",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DRAA",
+                    "Name": "外接硬碟／SSD",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DRAB",
+                    "Name": "內接硬碟",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DGAG",
+                    "Name": "   記  憶  卡 ",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DGCD",
+                    "Name": "  隨  身  碟",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DRAI",
+                    "Name": "C P U",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DRAC",
+                    "Name": "記憶體",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DSAJ",
+                    "Name": "主機板",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DRAD",
+                    "Name": "顯示卡",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DRAE",
+                    "Name": "電腦機殼",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DSAZ",
+                    "Name": "電源供應器",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DCAR",
+                    "Name": "U  P  S",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DCAX",
+                    "Name": "電腦擴充",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DSAX",
+                    "Name": "電 競 專 區",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DCAF",
+                    "Name": "耗 材",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DCAC",
+                    "Name": "線 材",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DGCA",
+                    "Name": "    SanDisk   ",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DRAM",
+                    "Name": "Seagate",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DGBN",
+                    "Name": " 創         見",
+                    "Url": null,
+                    "Sort": 30
+                },
+                {
+                    "Id": "DRAN",
+                    "Name": "TP-Link",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/tplink",
+                    "Sort": 31
+                },
+                {
+                    "Id": "DSAW",
+                    "Name": "台灣精品",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DSAF",
+                    "Name": "清倉",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DCBD",
+                    "Name": "企業專區",
+                    "Url": null,
+                    "Sort": 34
+                }
+            ]
+        },
+        {
+            "Id": "h24\/cp",
+            "Name": "周邊",
+            "Url": null,
+            "Sort": 2,
+            "Nodes": [
+                {
+                    "Id": "DCAN",
+                    "Name": "滑　　鼠 ",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DCAH",
+                    "Name": "鍵　　盤",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DCAI",
+                    "Name": "喇　　叭",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DCAY",
+                    "Name": "耳　　機",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DCAA",
+                    "Name": "光碟片／燒錄機",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DCAC",
+                    "Name": "線　　材",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DSAO",
+                    "Name": "延　長　線",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DCAD",
+                    "Name": "U S B 周 邊",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DCAP",
+                    "Name": "紙　　類",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DCAB",
+                    "Name": "充 電 ／電 池",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DCAV",
+                    "Name": "手寫／繪 圖 板",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DSAE",
+                    "Name": "電　腦　軟　體",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DCAO",
+                    "Name": "防　毒　軟　體",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DCAL",
+                    "Name": " 下 載／點  數",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DCBA",
+                    "Name": "辦  公  設  備",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DECD",
+                    "Name": "營  業  設  備",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DCBB",
+                    "Name": "辦 公 傢 俱 ",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DCAK",
+                    "Name": "辦 公 椅",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DCAE",
+                    "Name": "噴 墨 印 表 機",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DCAW",
+                    "Name": "雷 射 印 表 機",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DCAF",
+                    "Name": "墨水匣\/標籤帶",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DCAT",
+                    "Name": "  碳 粉 匣 ",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DSAQ",
+                    "Name": "商 用 列 印",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DSAR",
+                    "Name": "Logitech \/羅技",
+                    "Url": "https:\/\/logitech.pchomeec.tw\/sites\/logitech",
+                    "Sort": 24
+                },
+                {
+                    "Id": "DCAG",
+                    "Name": "筆電周邊\/ 配件",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DCBE",
+                    "Name": "三井3C",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DICM",
+                    "Name": "電腦\/商務包",
+                    "Url": null,
+                    "Sort": 27
+                }
+            ]
+        },
+        {
+            "Id": "h24\/nb",
+            "Name": "NB",
+            "Url": null,
+            "Sort": 3,
+            "Nodes": [
+                {
+                    "Id": "DHAZ",
+                    "Name": "Intel 第１０代",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DHAA",
+                    "Name": "筆 記 電 腦",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DHAU",
+                    "Name": "輕 薄 筆 電",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DHAT",
+                    "Name": "2in1\/觸控筆電",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DHBE",
+                    "Name": "商用筆電",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DHAW",
+                    "Name": "電競筆電",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DHAD",
+                    "Name": "行動工作者",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DHAR",
+                    "Name": "NVIDIA創作專區",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DYAJ",
+                    "Name": "APPLE 蘋果",
+                    "Url": "https:\/\/apple.pchomeec.tw\/sites\/apple",
+                    "Sort": 9
+                },
+                {
+                    "Id": "DHAF",
+                    "Name": "ASUS 華   碩",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DHAE",
+                    "Name": "ACER 宏 碁",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DHAG",
+                    "Name": "HP 惠　普",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DHBF",
+                    "Name": "Lenovo 聯想",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DHAY",
+                    "Name": "微軟 Surface",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/surface",
+                    "Sort": 14
+                },
+                {
+                    "Id": "DHAI",
+                    "Name": "DELL 戴爾",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DHAX",
+                    "Name": "ASUS ZenBook",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DHAM",
+                    "Name": "其他品牌",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DHAS",
+                    "Name": "ROG 潮流電競",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DHAK",
+                    "Name": "M S I 微星電競",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DHAJ",
+                    "Name": "OMEN 電 競",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DHBA",
+                    "Name": "LEGION 電競",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DHAC",
+                    "Name": "RAZER 電競",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DHAV",
+                    "Name": "技嘉電競",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DHAB",
+                    "Name": "特仕筆電",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DGAX",
+                    "Name": "Mac 周邊",
+                    "Url": null,
+                    "Sort": 25
+                }
+            ]
+        },
+        {
+            "Id": "h24\/mobile",
+            "Name": "通訊",
+            "Url": null,
+            "Sort": 4,
+            "Nodes": [
+                {
+                    "Id": "DYAJ",
+                    "Name": "　APPLE　",
+                    "Url": "https:\/\/apple.pchomeec.tw\/sites\/apple",
+                    "Sort": 1
+                },
+                {
+                    "Id": "DYAL",
+                    "Name": "三 星 旗 艦 館",
+                    "Url": "https:\/\/samsung.pchomeec.tw\/sites\/samsung",
+                    "Sort": 2
+                },
+                {
+                    "Id": "DYAD",
+                    "Name": "  SONY \/ 索尼",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DGCC",
+                    "Name": "ASUS \/ 華碩",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DGBM",
+                    "Name": "HTC \/ 宏達電",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DYAE",
+                    "Name": "LG \/ 樂金 ",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DYAV",
+                    "Name": "O P P O",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DYAA",
+                    "Name": "r e a l m e ",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DYAN",
+                    "Name": "　小米旗艦店　",
+                    "Url": "https:\/\/mi.pchomeec.tw\/sites\/mi",
+                    "Sort": 9
+                },
+                {
+                    "Id": "DYAK",
+                    "Name": "華 為 旗 艦 館",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DYAB",
+                    "Name": "NOKIA",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DYAC",
+                    "Name": "moto\/ 其他手機",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DGAS",
+                    "Name": "一 般 手 機",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DYAM",
+                    "Name": "平板電腦",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DYAF",
+                    "Name": "手機\/ 平板周邊",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DYAU",
+                    "Name": "旅遊上網卡",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DYAQ",
+                    "Name": "藍 牙 耳 機",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DYAI",
+                    "Name": "智慧穿戴 \/ 錶",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DYAR",
+                    "Name": "APPLE 殼 \/ 套",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DYAG",
+                    "Name": "Android 殼\/ 套",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DYAH",
+                    "Name": "保 護 貼",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DYAP",
+                    "Name": "手 機 線 材",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DYAO",
+                    "Name": "Qi \/ 行動電源",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DYAS",
+                    "Name": "搭台灣之星門號",
+                    "Url": null,
+                    "Sort": 24
+                }
+            ]
+        },
+        {
+            "Id": "h24\/digi",
+            "Name": "數位",
+            "Url": null,
+            "Sort": 5,
+            "Nodes": [
+                {
+                    "Id": "DGCT",
+                    "Name": "Leica Store",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DGCL",
+                    "Name": "    C A N O N ",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DGCB",
+                    "Name": "    N I K O N",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DGCM",
+                    "Name": "   S O N Y   ",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DGCP",
+                    "Name": "Panasonic",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DXAO",
+                    "Name": "GARMIN",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DGCS",
+                    "Name": "DJI 旗艦館",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DGCN",
+                    "Name": "GoPro 旗艦館",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DGCI",
+                    "Name": "運動 \/ 攝影機",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DGAD",
+                    "Name": "數位相機 \/類單",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DGBQ",
+                    "Name": "  微  單  眼",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DGBC",
+                    "Name": "  單 眼 相 機 ",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DGCQ",
+                    "Name": "全片幅單眼",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DGBS",
+                    "Name": "相 機 鏡 頭",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DGCH",
+                    "Name": " 鏡頭濾鏡",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DGCO",
+                    "Name": "空 拍 機",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DGAF",
+                    "Name": " 錄 音 筆",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DYAJ",
+                    "Name": "APPLE",
+                    "Url": "https:\/\/apple.pchomeec.tw\/sites\/apple",
+                    "Sort": 18
+                },
+                {
+                    "Id": "DGBK",
+                    "Name": "防  潮  箱 ",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DGBJ",
+                    "Name": " 電 玩 \/ 遊 戲",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DGCU",
+                    "Name": "遊戲配件\/周邊",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DGCK",
+                    "Name": "PlayStation",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/playstation",
+                    "Sort": 22
+                },
+                {
+                    "Id": "DGBH",
+                    "Name": "相機專業配件",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DGCF",
+                    "Name": "攝錄影器材",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DGBX",
+                    "Name": "專業攝影包",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DGCR",
+                    "Name": "專業攝影腳架",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DGCE",
+                    "Name": "  相機電池",
+                    "Url": null,
+                    "Sort": 27
+                }
+            ]
+        },
+        {
+            "Id": "h24\/ce",
+            "Name": "家電",
+            "Url": null,
+            "Sort": 6,
+            "Nodes": [
+                {
+                    "Id": "DMAU",
+                    "Name": "清淨除濕",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DPAD",
+                    "Name": " 液晶電視",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DPAI",
+                    "Name": " 洗\/乾衣機",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DPAC",
+                    "Name": " 冰箱",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DPAF",
+                    "Name": "冷暖空調",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DMAB",
+                    "Name": "電風扇",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DMAX",
+                    "Name": "吸塵器",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DMBL",
+                    "Name": "掃地機",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DMAA",
+                    "Name": "影音\/劇院",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DMAF",
+                    "Name": "音響\/喇叭\/樂器",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DPAE",
+                    "Name": " 投影機",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DMBM",
+                    "Name": "南紡家電",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DMAL",
+                    "Name": "生活家電",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DMAG",
+                    "Name": " 廚房家電 ",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DMBI",
+                    "Name": "電子鍋\/電鍋",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DMBJ",
+                    "Name": "烤箱\/微波爐",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DMAY",
+                    "Name": "果汁\/豆漿機",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DMAT",
+                    "Name": "  咖 啡 機",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DMAW",
+                    "Name": " 淨\/ 飲水",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DMBA",
+                    "Name": "健康家電",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DMAH",
+                    "Name": "美容家電",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DMAD",
+                    "Name": "按摩家電",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DMBK",
+                    "Name": "電鬍刀",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DMBF",
+                    "Name": " dyson 戴森",
+                    "Url": "https:\/\/dyson.pchomeec.tw\/sites\/dyson",
+                    "Sort": 24
+                },
+                {
+                    "Id": "DPAK",
+                    "Name": "LG樂金",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DYAN",
+                    "Name": "小米旗艦店",
+                    "Url": "https:\/\/mi.pchomeec.tw\/sites\/mi",
+                    "Sort": 26
+                },
+                {
+                    "Id": "DMBH",
+                    "Name": "伊萊克斯",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DMAC",
+                    "Name": "飛利浦",
+                    "Url": "https:\/\/philips.pchomeec.tw\/sites\/philips",
+                    "Sort": 28
+                },
+                {
+                    "Id": "DMBO",
+                    "Name": "Bosch",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DMBN",
+                    "Name": "Nespresso",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/nespresso",
+                    "Sort": 30
+                },
+                {
+                    "Id": "DMBC",
+                    "Name": "雀巢DolceGusto",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "DMAE",
+                    "Name": "通訊\/辦公",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DMAZ",
+                    "Name": " 電毯\/電暖器",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DPAL",
+                    "Name": "廚房三機",
+                    "Url": null,
+                    "Sort": 34
+                }
+            ]
+        },
+        {
+            "Id": "h24\/daily",
+            "Name": "日用",
+            "Url": null,
+            "Sort": 7,
+            "Nodes": [
+                {
+                    "Id": "DAAP",
+                    "Name": "Ｐ＆Ｇ",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DAAG",
+                    "Name": "衛 生 紙 ",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DAAQ",
+                    "Name": "舒 潔",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DAAB",
+                    "Name": " 衛 生 棉",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DAAO",
+                    "Name": "嬰童紙尿褲",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DABM",
+                    "Name": " 好 奇 ",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/huggies",
+                    "Sort": 6
+                },
+                {
+                    "Id": "DABF",
+                    "Name": "滿意寶寶",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DAAT",
+                    "Name": "溼 紙 巾",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DAAU",
+                    "Name": "成人紙尿褲",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DAAH",
+                    "Name": "銀 髮 族",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DABC",
+                    "Name": "醫療用品",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DAAN",
+                    "Name": "3M科技生活館",
+                    "Url": "https:\/\/3m.pchomeec.tw\/sites\/3m",
+                    "Sort": 12
+                },
+                {
+                    "Id": "DAAK",
+                    "Name": "  洗 衣 精 ",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DAAZ",
+                    "Name": "家 用 清 潔 劑",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DAAC",
+                    "Name": "掃 除 用 具",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DABE",
+                    "Name": "除 濕 除 蟲",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DABJ",
+                    "Name": "dalli 達麗",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DABK",
+                    "Name": "春　風 ",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DABL",
+                    "Name": "倍 潔 雅",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DAAS",
+                    "Name": "五月花",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DABB",
+                    "Name": "聯合利華",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DAAJ",
+                    "Name": "沐 浴 乳 ",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DAAA",
+                    "Name": "洗 髮 精 ",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DAAL",
+                    "Name": "牙 膏 牙 刷",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DAAX",
+                    "Name": "進 口 洗 沐",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DAAM",
+                    "Name": "臉 部 專 區",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DAAY",
+                    "Name": "美　體",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DBAN",
+                    "Name": "天然有機",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DAAR",
+                    "Name": "寶寶日用",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DABH",
+                    "Name": "防護專區",
+                    "Url": null,
+                    "Sort": 30
+                }
+            ]
+        },
+        {
+            "Id": "h24\/food",
+            "Name": "食品",
+            "Url": null,
+            "Sort": 8,
+            "Nodes": [
+                {
+                    "Id": "DBBL",
+                    "Name": "慶 中 秋",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DBCZ",
+                    "Name": "甜點",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DBAR",
+                    "Name": "團購",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DBAB",
+                    "Name": "飲 料",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DBAG",
+                    "Name": "礦 泉 水",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DBAC",
+                    "Name": "休閒零食",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DBCE",
+                    "Name": "快車肉乾",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DBCH",
+                    "Name": "新東陽",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DBAH",
+                    "Name": "沖泡",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DBAT",
+                    "Name": "咖啡",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DBAL",
+                    "Name": "茶葉",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DBCA",
+                    "Name": "康寶\/立頓",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DBBJ",
+                    "Name": "奶粉",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DBDA",
+                    "Name": "南紡美食",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DBAE",
+                    "Name": "進口零食",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DBAJ",
+                    "Name": "進口飲料",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DBCO",
+                    "Name": "進口沖調",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DBAK",
+                    "Name": "進口食材",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DBCP",
+                    "Name": "生鮮冷凍",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DBBY",
+                    "Name": "米\/食材",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DBAY",
+                    "Name": "速食麵",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DBBR",
+                    "Name": "食用油",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DBAI",
+                    "Name": "調料罐頭",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DBAF",
+                    "Name": "生機",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DBCX",
+                    "Name": "小吃",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DBCY",
+                    "Name": "生鮮",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DBCV",
+                    "Name": "水果",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DBCR",
+                    "Name": "電子票券",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DBBB",
+                    "Name": "養生保健",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DBCL",
+                    "Name": "白蘭氏",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/brands",
+                    "Sort": 30
+                },
+                {
+                    "Id": "DBBU",
+                    "Name": "正官庄",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/koreaginsengcorp",
+                    "Sort": 31
+                },
+                {
+                    "Id": "DBCQ",
+                    "Name": "娘家",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DBAZ",
+                    "Name": "日落恩賜",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DBBZ",
+                    "Name": "運動保健",
+                    "Url": null,
+                    "Sort": 34
+                },
+                {
+                    "Id": "DBAW",
+                    "Name": "男性保健",
+                    "Url": null,
+                    "Sort": 35
+                },
+                {
+                    "Id": "DBBC",
+                    "Name": "維他命",
+                    "Url": null,
+                    "Sort": 36
+                },
+                {
+                    "Id": "DBAU",
+                    "Name": "窈窕保健",
+                    "Url": null,
+                    "Sort": 37
+                },
+                {
+                    "Id": "DBAX",
+                    "Name": "美顏保健",
+                    "Url": null,
+                    "Sort": 38
+                },
+                {
+                    "Id": "DBAD",
+                    "Name": "婦幼保健",
+                    "Url": null,
+                    "Sort": 39
+                },
+                {
+                    "Id": "DBBA",
+                    "Name": "營養品",
+                    "Url": null,
+                    "Sort": 40
+                },
+                {
+                    "Id": "DBCW",
+                    "Name": "黑貓",
+                    "Url": null,
+                    "Sort": 41
+                },
+                {
+                    "Id": "DBCU",
+                    "Name": "保健飲品",
+                    "Url": null,
+                    "Sort": 42
+                }
+            ]
+        },
+        {
+            "Id": "h24\/life",
+            "Name": "生活",
+            "Url": null,
+            "Sort": 9,
+            "Nodes": [
+                {
+                    "Id": "DEAB",
+                    "Name": "傢俱",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DEAN",
+                    "Name": "設計傢俱",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DEBA",
+                    "Name": "收納",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DEAT",
+                    "Name": "寢具枕類",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DEBC",
+                    "Name": "名寢",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DEBR",
+                    "Name": "床墊",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DEBT",
+                    "Name": "床包",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DECS",
+                    "Name": "Bosch",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/bosch",
+                    "Sort": 8
+                },
+                {
+                    "Id": "DECA",
+                    "Name": "電 工",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DEAC",
+                    "Name": "修 繕",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DECE",
+                    "Name": "居 安",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DEBD",
+                    "Name": "燈 飾",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DEAX",
+                    "Name": "燈 泡",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DECN",
+                    "Name": "飛利浦照明",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DEDG",
+                    "Name": "南紡生活",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DEAW",
+                    "Name": "鍋 具",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DECP",
+                    "Name": "WMF",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DEBM",
+                    "Name": "餐 具",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DEAG",
+                    "Name": "餐 廚",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DEBS",
+                    "Name": "康寧",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DEBW",
+                    "Name": "杯瓶",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DEAY",
+                    "Name": "BRITA",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DECL",
+                    "Name": "膳魔師",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DEAA",
+                    "Name": "咖啡茶",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DEAZ",
+                    "Name": "傢飾",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DECI",
+                    "Name": "晾曬",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DECB",
+                    "Name": "衛浴",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DEBO",
+                    "Name": "開 運",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DECU",
+                    "Name": "角落生物",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DEAH",
+                    "Name": "文 具",
+                    "Url": null,
+                    "Sort": 30
+                },
+                {
+                    "Id": "DECH",
+                    "Name": "育 兒",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "DECJ",
+                    "Name": "儲 值",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DEAI",
+                    "Name": "婦  幼",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DEAU",
+                    "Name": "親子外出",
+                    "Url": null,
+                    "Sort": 34
+                },
+                {
+                    "Id": "DEBF",
+                    "Name": "孕產品",
+                    "Url": null,
+                    "Sort": 35
+                },
+                {
+                    "Id": "DEBG",
+                    "Name": "童裝",
+                    "Url": null,
+                    "Sort": 36
+                },
+                {
+                    "Id": "DEAS",
+                    "Name": "玩具",
+                    "Url": null,
+                    "Sort": 37
+                },
+                {
+                    "Id": "DEAM",
+                    "Name": "桌遊積木",
+                    "Url": null,
+                    "Sort": 38
+                },
+                {
+                    "Id": "DEBH",
+                    "Name": "電腦椅",
+                    "Url": null,
+                    "Sort": 39
+                },
+                {
+                    "Id": "DEBU",
+                    "Name": "辦公品",
+                    "Url": null,
+                    "Sort": 40
+                },
+                {
+                    "Id": "DEDD",
+                    "Name": "客\/餐廳",
+                    "Url": null,
+                    "Sort": 41
+                },
+                {
+                    "Id": "DEDB",
+                    "Name": "書\/臥房",
+                    "Url": null,
+                    "Sort": 42
+                },
+                {
+                    "Id": "DEDE",
+                    "Name": "特力屋",
+                    "Url": null,
+                    "Sort": 43
+                },
+                {
+                    "Id": "DAAN",
+                    "Name": "3M生活",
+                    "Url": "https:\/\/3m.pchomeec.tw\/sites\/3m",
+                    "Sort": 44
+                },
+                {
+                    "Id": "DEDF",
+                    "Name": "比 漾",
+                    "Url": null,
+                    "Sort": 45
+                },
+                {
+                    "Id": "DEAL",
+                    "Name": "生活工場",
+                    "Url": null,
+                    "Sort": 46
+                },
+                {
+                    "Id": "DEAK",
+                    "Name": "寵物百貨",
+                    "Url": null,
+                    "Sort": 47
+                },
+                {
+                    "Id": "DEBP",
+                    "Name": "園藝",
+                    "Url": null,
+                    "Sort": 48
+                },
+                {
+                    "Id": "DEAO",
+                    "Name": "單車週邊",
+                    "Url": null,
+                    "Sort": 49
+                },
+                {
+                    "Id": "DEAD",
+                    "Name": "汽車百貨",
+                    "Url": null,
+                    "Sort": 50
+                },
+                {
+                    "Id": "DEBN",
+                    "Name": " 運動",
+                    "Url": null,
+                    "Sort": 51
+                },
+                {
+                    "Id": "DEBQ",
+                    "Name": "露營",
+                    "Url": null,
+                    "Sort": 52
+                },
+                {
+                    "Id": "DEBL",
+                    "Name": "機能服",
+                    "Url": null,
+                    "Sort": 53
+                },
+                {
+                    "Id": "DEAJ",
+                    "Name": "情 趣",
+                    "Url": null,
+                    "Sort": 54
+                },
+                {
+                    "Id": "DFAB",
+                    "Name": "PChome娛樂",
+                    "Url": null,
+                    "Sort": 55
+                }
+            ]
+        },
+        {
+            "Id": "h24\/outdoor",
+            "Name": "運動戶外",
+            "Url": null,
+            "Sort": 10,
+            "Nodes": [
+                {
+                    "Id": "DXAO",
+                    "Name": "GARMIN",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DEAQ",
+                    "Name": "智慧錶",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DEBY",
+                    "Name": "健身器材",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DXAK",
+                    "Name": "瑜珈",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DXAF",
+                    "Name": "運動防護",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DXAG",
+                    "Name": "球具",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DXBL",
+                    "Name": "水上運動",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DXAX",
+                    "Name": "運動鞋",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DEBN",
+                    "Name": "運動服",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DXAQ",
+                    "Name": "Mizuno",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/mizuno",
+                    "Sort": 10
+                },
+                {
+                    "Id": "DXBE",
+                    "Name": "Asics",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DXBD",
+                    "Name": "NewBalance",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DXAP",
+                    "Name": "票券",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DXBO",
+                    "Name": "南紡運動",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DEBQ",
+                    "Name": "露營裝備",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DECQ",
+                    "Name": "烤肉",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DXAU",
+                    "Name": "登山",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DEBP",
+                    "Name": "園藝",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DXBH",
+                    "Name": "軍品",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DEAO",
+                    "Name": "單車",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DXBI",
+                    "Name": "SHIMANO",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DXBN",
+                    "Name": "米其林",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DXAB",
+                    "Name": "傘具",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DEBL",
+                    "Name": "機能服",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DXAN",
+                    "Name": "機能鞋包",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DXAL",
+                    "Name": "Columbia",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DXBC",
+                    "Name": "歐都納",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DGCN",
+                    "Name": "GoPro",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DXAV",
+                    "Name": "保險套",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DEBB",
+                    "Name": "記錄器",
+                    "Url": null,
+                    "Sort": 30
+                },
+                {
+                    "Id": "DXAA",
+                    "Name": "車用電子",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "DEAD",
+                    "Name": "汽車百貨",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DXBJ",
+                    "Name": "輪胎",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DXBK",
+                    "Name": "機車",
+                    "Url": null,
+                    "Sort": 34
+                },
+                {
+                    "Id": "DXBM",
+                    "Name": "Gogoro",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/gogoro",
+                    "Sort": 35
+                },
+                {
+                    "Id": "DEAV",
+                    "Name": "安全帽",
+                    "Url": null,
+                    "Sort": 36
+                },
+                {
+                    "Id": "DEAK",
+                    "Name": "寵物用品",
+                    "Url": null,
+                    "Sort": 37
+                },
+                {
+                    "Id": "DECV",
+                    "Name": "貓砂",
+                    "Url": null,
+                    "Sort": 38
+                },
+                {
+                    "Id": "DEBV",
+                    "Name": "寵物食品",
+                    "Url": null,
+                    "Sort": 39
+                },
+                {
+                    "Id": "DXBG",
+                    "Name": "罐頭零食",
+                    "Url": null,
+                    "Sort": 40
+                },
+                {
+                    "Id": "DXAM",
+                    "Name": "小動物",
+                    "Url": null,
+                    "Sort": 41
+                },
+                {
+                    "Id": "DEAJ",
+                    "Name": "18+女",
+                    "Url": null,
+                    "Sort": 42
+                },
+                {
+                    "Id": "DECZ",
+                    "Name": "18+男",
+                    "Url": null,
+                    "Sort": 43
+                }
+            ]
+        },
+        {
+            "Id": "h24\/beauty",
+            "Name": "美妝",
+            "Url": null,
+            "Sort": 11,
+            "Nodes": [
+                {
+                    "Id": "DDCO",
+                    "Name": "碧兒泉",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/biotherm",
+                    "Sort": 1
+                },
+                {
+                    "Id": "DDAD",
+                    "Name": "專櫃保養",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DDBH",
+                    "Name": "專櫃彩妝",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DDAF",
+                    "Name": "醫美保養",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DDAB",
+                    "Name": "開架保養",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DDAT",
+                    "Name": "開架彩妝",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DDCB",
+                    "Name": "韓妞專區",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DDAI",
+                    "Name": "日系美妝",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DDBQ",
+                    "Name": "美容工具",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DDBK",
+                    "Name": "美材小物",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DDBR",
+                    "Name": "美 甲",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DDCV",
+                    "Name": "南紡美妝",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DDBX",
+                    "Name": "沙 龍 髮 品",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DDCH",
+                    "Name": "髮 妝 造 型",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DDAH",
+                    "Name": "香   水 ",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DDCC",
+                    "Name": "香 氛 美 體",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DDBG",
+                    "Name": "婦 幼 專 區",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DDAO",
+                    "Name": "草 本 品 牌",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DDBZ",
+                    "Name": "手工\/香氛皂",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DDBY",
+                    "Name": "精 油 擴 香",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DDAX",
+                    "Name": "男 士 保 養",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DDBT",
+                    "Name": "★DHC",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DDCP",
+                    "Name": "屈臣氏",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DDBF",
+                    "Name": "   施     巴",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DDCR",
+                    "Name": "提提研",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DDCA",
+                    "Name": "理膚寶水",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/larocheposay",
+                    "Sort": 26
+                },
+                {
+                    "Id": "DDCN",
+                    "Name": "CeraVe",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DDCJ",
+                    "Name": "薇姿",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DDCF",
+                    "Name": "歐舒丹",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DDCQ",
+                    "Name": " 蘭 芝 ",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/laneige",
+                    "Sort": 30
+                },
+                {
+                    "Id": "DDCM",
+                    "Name": "KOSE",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "DDCE",
+                    "Name": "資生堂集團",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DECC",
+                    "Name": "慕之恬廊",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DDCU",
+                    "Name": "雅漾",
+                    "Url": null,
+                    "Sort": 34
+                }
+            ]
+        },
+        {
+            "Id": "h24\/vogue",
+            "Name": "衣鞋包錶",
+            "Url": null,
+            "Sort": 12,
+            "Nodes": [
+                {
+                    "Id": "DIDW",
+                    "Name": "瑞士錶",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DICK",
+                    "Name": "名品  精品",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DIAC",
+                    "Name": "手  錶 ",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DIDU",
+                    "Name": "點睛品",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DICB",
+                    "Name": "金飾",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DIDS",
+                    "Name": "鑽石",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DICF",
+                    "Name": "機能服\/配件",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DICU",
+                    "Name": "休閒牛仔",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DICP",
+                    "Name": "泳 裝",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DICV",
+                    "Name": "眼 鏡",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DIBP",
+                    "Name": "男鞋\/女鞋",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DIAI",
+                    "Name": "男裝女裝",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DIDV",
+                    "Name": "南紡時尚",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DICM",
+                    "Name": "電腦商務包",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DIBM",
+                    "Name": "男  包 ",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DIBF",
+                    "Name": "女  包  ",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DIAE",
+                    "Name": "專櫃飾品",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DICY",
+                    "Name": "專櫃行李箱",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DIBK",
+                    "Name": "行李箱",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DICD",
+                    "Name": "旅遊用品",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DICN",
+                    "Name": " 鞋 材 ",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DIAX",
+                    "Name": "內衣",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DICI",
+                    "Name": "塑身衣",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DIBU",
+                    "Name": "內著",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DICG",
+                    "Name": "襪子 ",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DICX",
+                    "Name": "居家服\/睡衣",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DIAV",
+                    "Name": "18+",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DIBJ",
+                    "Name": "PORTER",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/porter",
+                    "Sort": 28
+                },
+                {
+                    "Id": "DIDD",
+                    "Name": "Timberland",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "DICH",
+                    "Name": "CASIO 鐘錶",
+                    "Url": null,
+                    "Sort": 30
+                },
+                {
+                    "Id": "DIDT",
+                    "Name": "SKECHERS",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "DICW",
+                    "Name": "TUMI  ",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "DIDX",
+                    "Name": "G2000",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "DIBZ",
+                    "Name": " LA NEW",
+                    "Url": null,
+                    "Sort": 34
+                },
+                {
+                    "Id": "DIDI",
+                    "Name": "三花",
+                    "Url": null,
+                    "Sort": 35
+                },
+                {
+                    "Id": "DIDF",
+                    "Name": "曼黛瑪璉",
+                    "Url": null,
+                    "Sort": 36
+                },
+                {
+                    "Id": "DIDO",
+                    "Name": "蕾黛絲",
+                    "Url": null,
+                    "Sort": 37
+                },
+                {
+                    "Id": "DICZ",
+                    "Name": "EASY SHOP",
+                    "Url": null,
+                    "Sort": 38
+                },
+                {
+                    "Id": "DIDH",
+                    "Name": "ROXY",
+                    "Url": null,
+                    "Sort": 39
+                }
+            ]
+        },
+        {
+            "Id": "h24\/book",
+            "Name": "書店",
+            "Url": null,
+            "Sort": 13,
+            "Nodes": [
+                {
+                    "Id": "DJBN",
+                    "Name": "電子書",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "DJAM",
+                    "Name": "文學小說",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "DJAK",
+                    "Name": "語言學習",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "DJAD",
+                    "Name": "行銷企管",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "DJBA",
+                    "Name": "財經投資",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "DJAH",
+                    "Name": "生活風格",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "DJAU",
+                    "Name": "育兒教養",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "DJAF",
+                    "Name": "童書繪本",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "DJBM",
+                    "Name": "外文書",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "DJAZ",
+                    "Name": "輕小說",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "DJAW",
+                    "Name": "動漫",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "DJAP",
+                    "Name": "人文",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "DJBI",
+                    "Name": "社科",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "DJBH",
+                    "Name": "宗教信仰",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "DJBC",
+                    "Name": "自然科學",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DJBE",
+                    "Name": "星座命理",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DJAO",
+                    "Name": "健康養生",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DJBG",
+                    "Name": "心靈勵志",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DJAY",
+                    "Name": "烹調飲食",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "DJBB",
+                    "Name": "藝術設計",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "DJAA",
+                    "Name": "電腦資訊",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "DJBD",
+                    "Name": "旅遊",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "DJAG",
+                    "Name": "中外雜誌",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "DJBF",
+                    "Name": "MOOK",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "DJAT",
+                    "Name": "政府刊物",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "DJBJ",
+                    "Name": "簡體書",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "DJAV",
+                    "Name": "教科考",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "DNAA",
+                    "Name": "DVD_BD",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "DNAB",
+                    "Name": "音樂CD",
+                    "Url": null,
+                    "Sort": 29
+                }
+            ]
+        },
+        {
+            "Id": "mall\/3c",
+            "Name": "3C",
+            "Url": null,
+            "Sort": 14,
+            "Nodes": [
+                {
+                    "Id": "QAAH",
+                    "Name": "筆記電腦",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "QAAV",
+                    "Name": "DIY",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QAAU",
+                    "Name": "PC\/LCD",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QAAB",
+                    "Name": "網路",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QAAJ",
+                    "Name": "周邊",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QAAA",
+                    "Name": "零組件",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QABE",
+                    "Name": "鍵盤滑鼠",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QAAT",
+                    "Name": "儲 存",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QAAD",
+                    "Name": "列 印",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QABF",
+                    "Name": "三井3C",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QABB",
+                    "Name": "南紡3C",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QAAN",
+                    "Name": "智慧手機",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "QAAC",
+                    "Name": "平板",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QAAM",
+                    "Name": "Android殼.貼",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QAAO",
+                    "Name": "Apple.配件",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "QAAL",
+                    "Name": "手機.周邊",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "QAAP",
+                    "Name": "藍牙\/耳機",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "QAAS",
+                    "Name": "電 玩",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "QABD",
+                    "Name": "辦公設備",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "QAAR",
+                    "Name": "數位相機",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "QAAQ",
+                    "Name": "相機配件",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "QFBW",
+                    "Name": "儲 值",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "QFBA",
+                    "Name": "DVD",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "QFCD",
+                    "Name": "電子書",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "QFBC",
+                    "Name": "雜 誌",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "QAAY",
+                    "Name": "下載",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "QAAE",
+                    "Name": "軟體",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "QAAI",
+                    "Name": "福利品",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "QABG",
+                    "Name": "預購",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "QABH",
+                    "Name": "企採",
+                    "Url": null,
+                    "Sort": 30
+                }
+            ]
+        },
+        {
+            "Id": "mall\/ce",
+            "Name": "家電",
+            "Url": null,
+            "Sort": 15,
+            "Nodes": [
+                {
+                    "Id": "QBAJ",
+                    "Name": "冷暖空調",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "QBAF",
+                    "Name": "電風扇",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QBAN",
+                    "Name": "清淨除濕",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QBAQ",
+                    "Name": " 冰箱",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QBAR",
+                    "Name": "  洗\/乾衣機",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QBBC",
+                    "Name": "HITACHI",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QBBB",
+                    "Name": "三洋媽媽樂",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QBBE",
+                    "Name": "東元TECO",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QBBD",
+                    "Name": "聲寶",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QBAT",
+                    "Name": " 吸塵器",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QBAE",
+                    "Name": "美容生活",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QBBA",
+                    "Name": "Nespresso",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/nespresso",
+                    "Sort": 12
+                },
+                {
+                    "Id": "QBAO",
+                    "Name": " 料理電器 ",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QBAH",
+                    "Name": " 廚房家電",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QBAU",
+                    "Name": "淨飲水",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "QBAI",
+                    "Name": "廚房三機",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "QBAK",
+                    "Name": "液晶電視",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "QBAC",
+                    "Name": "投影機",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "QBAA",
+                    "Name": " 視聽直播",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "QBAB",
+                    "Name": "音響劇院",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "QCAF",
+                    "Name": "按摩家電",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "QBAV",
+                    "Name": "南紡家電",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "QBAY",
+                    "Name": "電器商城",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "QBAW",
+                    "Name": "敦煌樂器",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "QBAD",
+                    "Name": "樂器",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "QBAM",
+                    "Name": "通訊辦公",
+                    "Url": null,
+                    "Sort": 26
+                }
+            ]
+        },
+        {
+            "Id": "mall\/sport",
+            "Name": "運動戶外",
+            "Url": null,
+            "Sort": 16,
+            "Nodes": [
+                {
+                    "Id": "QCBH",
+                    "Name": "Gogoro",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/gogoro",
+                    "Sort": 1
+                },
+                {
+                    "Id": "QCAG",
+                    "Name": "健身\/按摩槍",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QCAW",
+                    "Name": "BLADEZ",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QCAQ",
+                    "Name": "FS趣運動",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QCAO",
+                    "Name": "SKECHERS",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QCBA",
+                    "Name": "SHIMANO",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QCAS",
+                    "Name": "南紡運動",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QCAN",
+                    "Name": "跑步機",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QCAF",
+                    "Name": "按摩椅\/舒壓 ",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QCAZ",
+                    "Name": "登 山",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QCAP",
+                    "Name": "露 營",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QCAM",
+                    "Name": "自行車",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "QCAI",
+                    "Name": "單車週邊 ",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QCAD",
+                    "Name": "戶外\/ 旅遊",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QCAJ",
+                    "Name": "行李箱",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "QCBE",
+                    "Name": "米其林",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "QCBC",
+                    "Name": "輪胎",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "QCAA",
+                    "Name": "機車\/部品",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "QCAB",
+                    "Name": "汽百\/記錄器",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "QCAE",
+                    "Name": " 軍品\/收藏",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "QCAC",
+                    "Name": "運動品\/瑜珈",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "QCAK",
+                    "Name": "機能服\/鞋",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "QCAL",
+                    "Name": "運動服\/鞋",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "QCAH",
+                    "Name": "票券",
+                    "Url": null,
+                    "Sort": 24
+                }
+            ]
+        },
+        {
+            "Id": "mall\/life",
+            "Name": "生活",
+            "Url": null,
+            "Sort": 17,
+            "Nodes": [
+                {
+                    "Id": "QFAD",
+                    "Name": "收納",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "QFAA",
+                    "Name": "傢俱",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QFCB",
+                    "Name": "客廳",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QFCC",
+                    "Name": "臥室",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QFAB",
+                    "Name": "書房",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QFAJ",
+                    "Name": "傢飾",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QFAC",
+                    "Name": "床墊",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QFAV",
+                    "Name": "寢具",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QFAT",
+                    "Name": "婦幼",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QFAQ",
+                    "Name": "孕哺",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QFAR",
+                    "Name": "童裝",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QFAW",
+                    "Name": "寵物",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "QFAX",
+                    "Name": "衛浴",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QFAE",
+                    "Name": "餐廚",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QFCZ",
+                    "Name": "雜貨",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "QFCX",
+                    "Name": "角落生物",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "QFAK",
+                    "Name": "設計",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "QFAM",
+                    "Name": "燈飾",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "QFAP",
+                    "Name": "居安.修繕",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "QFAS",
+                    "Name": "玩具",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "QFBU",
+                    "Name": "書寫",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "QFCW",
+                    "Name": "明進文具",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "QFAL",
+                    "Name": "開運",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "QFBS",
+                    "Name": "特力屋",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "QFCT",
+                    "Name": "生活工場",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "QFDG",
+                    "Name": "日用品",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "QFBI",
+                    "Name": "南紡生活",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "QFBX",
+                    "Name": "南紡美食",
+                    "Url": null,
+                    "Sort": 28
+                },
+                {
+                    "Id": "QFDD",
+                    "Name": "黑貓美食",
+                    "Url": null,
+                    "Sort": 29
+                },
+                {
+                    "Id": "QFCL",
+                    "Name": "小吃",
+                    "Url": null,
+                    "Sort": 30
+                },
+                {
+                    "Id": "QFCH",
+                    "Name": "海鮮肉品",
+                    "Url": null,
+                    "Sort": 31
+                },
+                {
+                    "Id": "QFAF",
+                    "Name": "甜點",
+                    "Url": null,
+                    "Sort": 32
+                },
+                {
+                    "Id": "QFAH",
+                    "Name": "水果",
+                    "Url": null,
+                    "Sort": 33
+                },
+                {
+                    "Id": "QFAZ",
+                    "Name": "情趣",
+                    "Url": null,
+                    "Sort": 34
+                },
+                {
+                    "Id": "QFDF",
+                    "Name": "比漾廣場",
+                    "Url": null,
+                    "Sort": 35
+                },
+                {
+                    "Id": "QDBL",
+                    "Name": "北歐品味",
+                    "Url": null,
+                    "Sort": 36
+                },
+                {
+                    "Id": "QFCY",
+                    "Name": "PChome活動",
+                    "Url": "https:\/\/ecvip.pchome.com.tw\/web\/bidding\/list",
+                    "Sort": 37
+                }
+            ]
+        },
+        {
+            "Id": "mall\/vogue",
+            "Name": "時尚",
+            "Url": null,
+            "Sort": 18,
+            "Nodes": [
+                {
+                    "Id": "QDAA",
+                    "Name": "精品\/包",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "QDBJ",
+                    "Name": "點睛品",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QDAL",
+                    "Name": "華歌爾\/黛安芬",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QDBE",
+                    "Name": "EASY SHOP",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QDAH",
+                    "Name": "黃金",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QDAC",
+                    "Name": "鑽石",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QDAB",
+                    "Name": "專櫃飾品",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QDAX",
+                    "Name": "南紡時尚",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QCAJ",
+                    "Name": "行李箱",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QDAR",
+                    "Name": "瑞士錶",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QDAT",
+                    "Name": "時尚錶",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QDAS",
+                    "Name": "日本錶",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "QDAW",
+                    "Name": "太陽\/眼鏡",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QDAP",
+                    "Name": "女  鞋",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QDAJ",
+                    "Name": "男  鞋",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "QDAF",
+                    "Name": "女 包",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "QDAE",
+                    "Name": "男 包",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "QDBL",
+                    "Name": "Luxury Life",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "QDAN",
+                    "Name": "流行女裝",
+                    "Url": null,
+                    "Sort": 19
+                },
+                {
+                    "Id": "QDAI",
+                    "Name": "流行男裝",
+                    "Url": null,
+                    "Sort": 20
+                },
+                {
+                    "Id": "QCAK",
+                    "Name": "機能服",
+                    "Url": null,
+                    "Sort": 21
+                },
+                {
+                    "Id": "QCAL",
+                    "Name": "運動服",
+                    "Url": null,
+                    "Sort": 22
+                },
+                {
+                    "Id": "QDAK",
+                    "Name": "內睡衣\/塑身衣",
+                    "Url": null,
+                    "Sort": 23
+                },
+                {
+                    "Id": "QDAQ",
+                    "Name": "男內著",
+                    "Url": null,
+                    "Sort": 24
+                },
+                {
+                    "Id": "QDAU",
+                    "Name": " PORTER ",
+                    "Url": null,
+                    "Sort": 25
+                },
+                {
+                    "Id": "QFDB",
+                    "Name": "電子票券",
+                    "Url": null,
+                    "Sort": 26
+                },
+                {
+                    "Id": "QEAG",
+                    "Name": "香水",
+                    "Url": null,
+                    "Sort": 27
+                },
+                {
+                    "Id": "QEAH",
+                    "Name": "髮品",
+                    "Url": null,
+                    "Sort": 28
+                }
+            ]
+        },
+        {
+            "Id": "mall\/beauty",
+            "Name": "美妝保健",
+            "Url": null,
+            "Sort": 19,
+            "Nodes": [
+                {
+                    "Id": "QEAC",
+                    "Name": "專 櫃 保 養",
+                    "Url": null,
+                    "Sort": 1
+                },
+                {
+                    "Id": "QEAD",
+                    "Name": "醫 美 保 養",
+                    "Url": null,
+                    "Sort": 2
+                },
+                {
+                    "Id": "QEAE",
+                    "Name": "開 架 保 養",
+                    "Url": null,
+                    "Sort": 3
+                },
+                {
+                    "Id": "QEAL",
+                    "Name": "南紡美妝",
+                    "Url": null,
+                    "Sort": 4
+                },
+                {
+                    "Id": "QEAF",
+                    "Name": "專 櫃 彩 妝",
+                    "Url": null,
+                    "Sort": 5
+                },
+                {
+                    "Id": "QEAH",
+                    "Name": "沙 龍 美 髮",
+                    "Url": null,
+                    "Sort": 6
+                },
+                {
+                    "Id": "QEAG",
+                    "Name": "香    水",
+                    "Url": null,
+                    "Sort": 7
+                },
+                {
+                    "Id": "QEAJ",
+                    "Name": "開 架 彩 妝",
+                    "Url": null,
+                    "Sort": 8
+                },
+                {
+                    "Id": "QEAK",
+                    "Name": "沐浴美體",
+                    "Url": null,
+                    "Sort": 9
+                },
+                {
+                    "Id": "QEAI",
+                    "Name": "有 機 草 本",
+                    "Url": null,
+                    "Sort": 10
+                },
+                {
+                    "Id": "QEAN",
+                    "Name": "精油蠟燭",
+                    "Url": null,
+                    "Sort": 11
+                },
+                {
+                    "Id": "QEAU",
+                    "Name": "手工香皂",
+                    "Url": null,
+                    "Sort": 12
+                },
+                {
+                    "Id": "QEAR",
+                    "Name": "美材工具",
+                    "Url": null,
+                    "Sort": 13
+                },
+                {
+                    "Id": "QFAY",
+                    "Name": "醫療保健",
+                    "Url": null,
+                    "Sort": 14
+                },
+                {
+                    "Id": "QEAB",
+                    "Name": "保 健 食 品",
+                    "Url": null,
+                    "Sort": 15
+                },
+                {
+                    "Id": "DDBT",
+                    "Name": " DHC",
+                    "Url": null,
+                    "Sort": 16
+                },
+                {
+                    "Id": "DDCF",
+                    "Name": "歐舒丹",
+                    "Url": null,
+                    "Sort": 17
+                },
+                {
+                    "Id": "DDCE",
+                    "Name": "資生堂",
+                    "Url": null,
+                    "Sort": 18
+                },
+                {
+                    "Id": "DBCL",
+                    "Name": "白蘭氏",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/brands",
+                    "Sort": 19
+                },
+                {
+                    "Id": "DBBU",
+                    "Name": "正官庄",
+                    "Url": "https:\/\/www.pchomeec.tw\/sites\/koreaginsengcorp",
+                    "Sort": 20
+                }
+            ]
+        }
+    ]

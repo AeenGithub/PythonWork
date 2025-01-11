@@ -4,7 +4,7 @@
 # [1] 两数之和
 #
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums, target):
         dict_nums = {}
         for x_index, x in enumerate(nums):
             y = target - x
@@ -12,3 +12,4 @@ class Solution:
                 if y == value:
                     return [key, x_index]
             dict_nums[x_index] = x
+

@@ -1,0 +1,381 @@
+try {
+    cb_ecshopCategoryRegion([{
+        "Id": "DHAA",
+        "Name": "筆 記 電 腦",
+        "Url": null,
+        "Sort": 1,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAA",
+        "Name": "桌 上 電 腦",
+        "Url": null,
+        "Sort": 2,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAM",
+        "Name": "商 用 電 腦",
+        "Url": null,
+        "Sort": 3,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAU",
+        "Name": "DIY 電腦",
+        "Url": null,
+        "Sort": 4,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAB",
+        "Name": "LCD 螢幕",
+        "Url": null,
+        "Sort": 5,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSBB",
+        "Name": "電 競 螢 幕",
+        "Url": null,
+        "Sort": 6,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAF",
+        "Name": "網  路",
+        "Url": null,
+        "Sort": 7,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAG",
+        "Name": "網路硬碟",
+        "Url": null,
+        "Sort": 8,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAE",
+        "Name": "軟體",
+        "Url": null,
+        "Sort": 9,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCAS",
+        "Name": "視訊監控",
+        "Url": null,
+        "Sort": 10,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSBC",
+        "Name": "南紡3C",
+        "Url": null,
+        "Sort": 11,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAH",
+        "Name": "S S D",
+        "Url": null,
+        "Sort": 12,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAA",
+        "Name": "外接硬碟／SSD",
+        "Url": null,
+        "Sort": 13,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAB",
+        "Name": "內接硬碟",
+        "Url": null,
+        "Sort": 14,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DGAG",
+        "Name": "記  憶  卡",
+        "Url": null,
+        "Sort": 15,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DGCD",
+        "Name": "隨  身  碟",
+        "Url": null,
+        "Sort": 16,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAI",
+        "Name": "C P U",
+        "Url": null,
+        "Sort": 17,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAC",
+        "Name": "記憶體",
+        "Url": null,
+        "Sort": 18,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAJ",
+        "Name": "主機板",
+        "Url": null,
+        "Sort": 19,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAD",
+        "Name": "顯示卡",
+        "Url": null,
+        "Sort": 20,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAE",
+        "Name": "電腦機殼",
+        "Url": null,
+        "Sort": 21,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAZ",
+        "Name": "電源供應器",
+        "Url": null,
+        "Sort": 22,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCAR",
+        "Name": "U  P  S",
+        "Url": null,
+        "Sort": 23,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCAX",
+        "Name": "電腦擴充",
+        "Url": null,
+        "Sort": 24,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAX",
+        "Name": "電 競 專 區",
+        "Url": null,
+        "Sort": 25,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCAF",
+        "Name": "耗 材",
+        "Url": null,
+        "Sort": 26,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCAC",
+        "Name": "線 材",
+        "Url": null,
+        "Sort": 27,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DGCA",
+        "Name": "SanDisk",
+        "Url": null,
+        "Sort": 28,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAM",
+        "Name": "Seagate",
+        "Url": null,
+        "Sort": 29,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DGBN",
+        "Name": "創         見",
+        "Url": null,
+        "Sort": 30,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DRAN",
+        "Name": "TP-Link",
+        "Url": "https:\/\/www.pchomeec.tw\/sites\/tplink",
+        "Sort": 31,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAW",
+        "Name": "台灣精品",
+        "Url": null,
+        "Sort": 32,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DSAF",
+        "Name": "清倉",
+        "Url": null,
+        "Sort": 33,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }, {
+        "Id": "DCBD",
+        "Name": "企業專區",
+        "Url": null,
+        "Sort": 34,
+        "isPick": 0,
+        "Extra": {
+            "Amount": "",
+            "Fee": ""
+        },
+        "isClothing": 0
+    }]);
+} catch (e) {
+    if (window.console) {
+        console.log(e);
+    }
+}

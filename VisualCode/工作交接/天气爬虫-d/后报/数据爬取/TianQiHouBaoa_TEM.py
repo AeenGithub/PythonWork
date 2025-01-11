@@ -145,14 +145,14 @@ if __name__ =="__main__":
     # 获取当前文件所在地址的父级目录
     base_dir = os.path.dirname(os.path.abspath(__file__))
     # 获得当前文件夹下所在的配置文件
-    ori_file_path = r"{}\buchong.csv".format(base_dir)
+    ori_file_path = r"{}\buchong2.csv".format(base_dir)
     config_file = r"{}\city_config.xls".format(base_dir)
     conn = mysql.connect(r"D:\SQLBASE\WeatherBefore.db")
     cur = conn.cursor()
     # 利用pandas读取文件中的城市列表名
     city_month_df = pd.read_csv(
         ori_file_path,
-        sep='\t',
+        sep=',',
         encoding='utf-8',
         dtype={'city': str, 'time': str}
     )

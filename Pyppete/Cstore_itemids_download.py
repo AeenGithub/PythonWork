@@ -32,7 +32,7 @@ async def taobao_login(username, password, url):
         # 'devtools':True,
         'dumpio': True,  # 防止浏览器卡死
         # 'executablePath': r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-        'userDataDir ': 'D:\\UserData\\Default',
+        # 'userDataDir ': 'D:\\UserData\\Default',
         # ["--enable-automation"],
         # 'useAutomationExtension':True,
         'args': [
@@ -40,7 +40,8 @@ async def taobao_login(username, password, url):
             '--disable-infobars',
             '--start-maximized',
             '--window-size=1920, 1080',
-            '--proxy-server=http://127.0.0.1:9000'
+            '--proxy-server=http://127.0.0.1:9000',
+            # '--remote-debugging-port=9222',
         ]
     })
     page = await browser.newPage()
@@ -50,19 +51,19 @@ async def taobao_login(username, password, url):
     # 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Mobile Safari/537.36')
     await page.goto(url)
     await page.waitFor(1000)
-    await page.click('#J_Quick2Static')
+    # await page.click('#J_Quick2Static')
     # page.mouse
     # time.sleep(1)
     # 输入用户名，密码
     await page.waitFor(500)
     # delay是限制输入的时间
-    await page.type('#TPL_username_1', username, {'delay': input_time_random() - 50})
-    await page.type('#TPL_password_1', password, {'delay': input_time_random()})
+    await page.type('#fm-login-id', username, {'delay': input_time_random() - 50})
+    await page.type('#fm-login-password', password, {'delay': input_time_random()})
     # time.sleep(2)
     await page.waitFor(500)
     # 检测页面是否有滑块。原理是检测页面元素。
-    slider = await page.Jeval('#nocaptcha', 'node => node.style')  # 是否有滑块
-
+    # slider = await page.Jeval('#nocaptcha', 'node => node.style')  # 是否有滑块
+    slider = ''
     if slider:
         print('当前页面出现滑块')
         # await page.screenshot({'path': './headless-login-slide.png'}) # 截图测试
@@ -85,7 +86,7 @@ async def taobao_login(username, password, url):
         await page.waitFor(1000)
         # await page.waitForNavigation()
         await page.setUserAgent(generate_user_agent(device_type='smartphone'))
-        # await page.reload()
+        await page.reload()
         await page.waitFor(1000)
         await get_store_info(page)
         await page.setRequestInterception(True)
@@ -96,8 +97,6 @@ async def taobao_login(username, password, url):
         for i in range(1, 10):
             await page.waitFor(2000)
             await page.mouse.move(20, 100*i, options={'step': 20})
-
-
         try:
             global wrong_pwd_error  # 检测是否是账号密码错误
             # 错误内容是，账号密码出现错误
@@ -165,17 +164,17 @@ async def get_store_info(page):
                 page.waitForNavigation()
             ])
 #                点击并等待页面加载，点击宝贝列表
-            itemid_lst_url = 'https://market.m.taobao.com/app/tb-source-app/shop-auction/pages/auction?_w&sellerId=2103587316&shopId={}&disablePromotionTips=false&shop_navi=allitems&displayShopHeader=true'.format(shop_id)
+            itemid_lst_url = 'https://market.m.taobao.com/app/tb-source-app/shop-auction/pages/auction?_w&sellerId=669642169&shopId={}&disablePromotionTips=false&shop_navi=allitems&displayShopHeader=true'.format(shop_id)
             await asyncio.wait([
                 page.goto(itemid_lst_url),
-#                    page.click(selector='body > div.rax-scrollview > div > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div > div > div > div:nth-child(2) > span',
-#                               options={'delay': input_time_random()}),
+                   # page.click(selector='body > div.rax-scrollview > div > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > div > div > div > div:nth-child(2) > span',
+                   #            options={'delay': input_time_random()}),
                 page.waitForNavigation()
             ])
             await page.waitFor(2500)
 #                点击按照销量排序
-            await page.click(selector='body > div:nth-child(8) > div:nth-child(1) > div > div > div > div > div > div:nth-child(1) > div > div:nth-child(3) > div > div:nth-child(2) > div > span',
-                             options={'delay': input_time_random(), 'button': 'middle'})
+#             await page.click(selector='body > div:nth-child(7) > div:nth-child(1) > div > div > div > div > div > div:nth-child(1) > div > div:nth-child(3) > div > div:nth-child(2) > div > span',
+#                              options={'delay': input_time_random(), 'button': 'middle'})
             await asyncio.sleep(random.random() * 5)
 
 
@@ -232,6 +231,7 @@ if __name__ == '__main__':
     username = '17621780176'
     password = 'www.,194928.,com'
     url = 'https://login.taobao.com/member/login.jhtml?redirectURL=https%3A%2F%2Fwww.taobao.com%2F'
+    # url = 'https://login.taobao.com'
     loop = asyncio.get_event_loop()
     task = asyncio.ensure_future(taobao_login(username, password, url))
     loop.run_until_complete(task)
