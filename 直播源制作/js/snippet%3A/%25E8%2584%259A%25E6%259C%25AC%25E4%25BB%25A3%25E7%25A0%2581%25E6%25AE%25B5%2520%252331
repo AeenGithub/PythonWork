@@ -1,0 +1,2 @@
+var connection = indexedDB.open('localforge', 1)
+console.log(connection)
