@@ -1,0 +1,10 @@
+2025-01-11 17:23:55,718 - __main__ - INFO - Getting page 1...
+2025-01-11 17:25:52,417 - __main__ - INFO - Successfully got page 1
+2025-01-11 17:26:29,592 - __main__ - ERROR - Error in loop_get_json: unsupported operand type(s) for //: 'NoneType' and 'int'
+2025-01-11 17:26:49,655 - __main__ - ERROR - Fatal error: unsupported operand type(s) for //: 'NoneType' and 'int'
+2025-01-11 17:28:48,127 - __main__ - INFO - Getting page 1...
+2025-01-11 17:28:48,629 - __main__ - INFO - Successfully got page 1
+2025-01-11 17:29:12,895 - __main__ - ERROR - Failed to get initial page data or num_found is None
+2025-01-11 17:31:33,426 - __main__ - INFO - Getting page 1...
+2025-01-11 17:32:21,745 - __main__ - INFO - Successfully got page 1
+2025-01-11 17:32:24,109 - __main__ - ERROR - Failed to get initial page data or num_found is None
