@@ -6,7 +6,7 @@ chardet==3.0.4
 idna==2.10
 multidict==4.7.6
 protobuf==3.12.2
-pycryptodome==3.9.8
+pycryptodome==3.19.1
 PyExecJS==1.5.1
 requests==2.26.0
 six==1.15.0
