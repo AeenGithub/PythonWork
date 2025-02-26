@@ -54,6 +54,35 @@ def generate_sample_data():
         {'公司': '武汉产业园公司', '2024': 4, '2025': 2},
         {'公司': '红河公众食品有限公司', '2024': 5, '2025': 6}
     ]
+
+    # 订阅服务合作商数据
+    suppliers = [
+        {
+            '名称': '合作商A',
+            '风险等级': '高风险',
+            '事故率': 0.02,
+            '发现问题': 10,
+            '处理数量': 10,
+            '风险明细': [
+                {'类型': '海天公司经营风险', '发现': 1, '处理': 1},
+                {'类型': '海天公司司法风险', '发现': 0, '处理': 0}
+            ]
+        },
+        {
+            '名称': '合作商B',
+            '风险等级': '高风险',
+            '事故率': None,
+            '发现问题': 3,
+            '处理数量': 3
+        },
+        {
+            '名称': '合作商C',
+            '风险等级': '高风险',
+            '事故率': None,
+            '发现问题': 5,
+            '处理数量': 1
+        }
+    ]
     
     return pd.DataFrame(problem_stats), risk_events, pd.DataFrame(risk_maturity)
 
@@ -125,58 +154,54 @@ app.layout = html.Div([
     
     # 内容模块网格布局
     html.Div([
-        # 第一行
         html.Div([
-            # 问题数量统计
+            # 第一行
             html.Div([
-                html.H3('问题数量统计(Top5模块)', style={'color': '#ffffff'}),
-                dcc.Graph(id='problem-stats')
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'marginRight': '30px', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'}),
-            
-            # 风险大事记
-            html.Div([
-                html.H3('风险大事记', style={'color': '#ffffff'}),
                 html.Div([
-                    html.H4('每百万销值事故率', style={'color': '#00ffff', 'marginBottom': '10px'}),
-                    html.Div(id='accident-rate', style={'fontSize': '24px', 'color': '#ffffff'})
-                ], style={'marginBottom': '20px', 'textAlign': 'center'}),
+                    html.H3('问题数量统计(Top5模块)', style={'color': '#ffffff'}),
+                    dcc.Graph(id='problem-stats', style={'height': '300px'})
+                ], className='dashboard-module'),
+                
                 html.Div([
-                    html.H4('事件统计', style={'color': '#00ffff', 'marginBottom': '10px'}),
-                    html.Div(id='event-stats', style={'color': '#ffffff'})
-                ], style={'marginBottom': '20px'}),
+                    html.H3('风险大事记', style={'color': '#ffffff'}),
+                    html.Div([
+                        html.H4('每百万销值事故率', style={'color': '#00ffff', 'marginBottom': '10px'}),
+                        html.Div(id='accident-rate', style={'fontSize': '24px', 'color': '#ffffff'})
+                    ], style={'marginBottom': '20px', 'textAlign': 'center'}),
+                    html.Div([
+                        html.H4('事件统计', style={'color': '#00ffff', 'marginBottom': '10px'}),
+                        html.Div(id='event-stats', style={'color': '#ffffff'})
+                    ], style={'marginBottom': '20px'}),
+                    html.Div([
+                        html.H4('问题清单', style={'color': '#00ffff', 'marginBottom': '10px'}),
+                        html.Div(id='issue-list', style={'color': '#ffffff', 'overflowY': 'auto', 'maxHeight': '150px'})
+                    ])
+                ], className='dashboard-module'),
+                
                 html.Div([
-                    html.H4('问题清单', style={'color': '#00ffff', 'marginBottom': '10px'}),
-                    html.Div(id='issue-list', style={'color': '#ffffff', 'overflowY': 'auto', 'maxHeight': '150px'})
-                ])
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'marginRight': '30px', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'}),
+                    html.H3('订阅服务', style={'color': '#ffffff'}),
+                    html.Div(id='order-service', style={'color': '#ffffff'})
+                ], className='dashboard-module')
+            ], style={'display': 'grid', 'gridTemplateColumns': 'repeat(3, 1fr)', 'gap': '20px', 'marginBottom': '20px'}),
             
-            # 订阅服务
+            # 第二行
             html.Div([
-                html.H3('订阅服务', style={'color': '#ffffff'}),
-                html.Div(id='order-service', style={'color': '#ffffff'})
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'})
-        ], style={'marginBottom': '30px'}),
-        
-        # 第二行
-        html.Div([
-            # 问题整改情况
-            html.Div([
-                html.H3('问题整改情况', style={'color': '#ffffff'}),
-                html.Div(id='issue-improvement', style={'color': '#ffffff'})
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'marginRight': '30px', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'}),
-            
-            # 高频问题
-            html.Div([
-                html.H3('高频问题', style={'color': '#ffffff'}),
-                html.Div(id='frequent-issues', style={'color': '#ffffff'})
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'marginRight': '30px', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'}),
-            
-            # 风控成熟度排行榜
-            html.Div([
-                html.H3('风控成熟度排行榜', style={'color': '#ffffff'}),
-                html.Div(id='risk-maturity', style={'color': '#ffffff'})
-            ], style={'width': 'calc(33.33% - 20px)', 'height': '400px', 'display': 'inline-block', 'backgroundColor': '#002b56', 'padding': '20px', 'borderRadius': '5px', 'verticalAlign': 'top'})
-        ])
+                html.Div([
+                    html.H3('问题整改情况', style={'color': '#ffffff'}),
+                    html.Div(id='issue-improvement', style={'color': '#ffffff'})
+                ], className='dashboard-module'),
+                
+                html.Div([
+                    html.H3('高频问题', style={'color': '#ffffff'}),
+                    html.Div(id='frequent-issues', style={'color': '#ffffff'})
+                ], className='dashboard-module'),
+                
+                html.Div([
+                    html.H3('风控成熟度排行榜', style={'color': '#ffffff'}),
+                    html.Div(id='risk-maturity', style={'color': '#ffffff'})
+                ], className='dashboard-module')
+            ], style={'display': 'grid', 'gridTemplateColumns': 'repeat(3, 1fr)', 'gap': '20px'})
+        ], style={'padding': '20px'})
     ])
 ], style={
     'backgroundColor': '#001f3f',
@@ -205,11 +230,12 @@ def update_dashboard(id):
     # 更新事件统计
     event_stats = html.Div([
         html.Div([
-            html.Span(event['事件类型'] + ': ', style={'marginRight': '5px'}),
-            html.Span(str(event['数量']))
-        ], style={'marginBottom': '5px'}) 
-        for event in risk_events['事件统计']
-    ])
+            html.Div([
+                html.Div(event['事件类型'], style={'color': '#00ffff', 'fontSize': '16px', 'marginBottom': '5px'}),
+                html.Div(str(event['数量']), style={'fontSize': '24px', 'color': '#ffffff'})
+            ], style={'textAlign': 'center', 'padding': '15px', 'border': '1px solid #00ffff', 'borderRadius': '5px', 'flex': 1})
+        ]) for event in risk_events['事件统计']
+    ], style={'display': 'flex', 'justifyContent': 'space-between', 'gap': '20px', 'margin': '0 10px'})
     
     # 更新问题清单
     issue_list = html.Div([
